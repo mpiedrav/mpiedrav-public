@@ -37375,6 +37375,7 @@ https://en.wikipedia.org/wiki/Scale_space_implementation
 https://en.wikipedia.org/wiki/Scale-space_segmentation
 https://en.wikipedia.org/wiki/Scandinavian_Peninsula
 https://en.wikipedia.org/wiki/Scandinavian_studies
+https://en.wikipedia.org/wiki/Scapy
 https://en.wikipedia.org/wiki/Scarlet_(Closterkeller_album)
 https://en.wikipedia.org/wiki/Scattering_and_Neutrino_Detector
 https://en.wikipedia.org/wiki/Scatter_plot
@@ -45394,6 +45395,7 @@ https://github.com/benedekrozemberczki/awesome-graph-classification
 https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 https://github.com/benedekrozemberczki/spatiotemporal_datasets
 https://github.com/benhoyt/goawk
+https://github.com/benoitc/gunicorn
 https://github.com/bentoml
 https://github.com/bentoml/BentoML
 https://github.com/berthubert
@@ -45454,6 +45456,7 @@ https://github.com/boostorg/hana
 https://github.com/boostorg/math
 https://github.com/boostorg/mpl
 https://github.com/boto/boto3
+https://github.com/bottlepy/bottle
 https://github.com/boxesandglue/boxesandglue
 https://github.com/bpc-clone/bypass-paywalls-clean-filters
 https://github.com/bpc-clone/bypass-paywalls-clean-filters/blob/main/bpc-paywall-filter.txt
@@ -47083,6 +47086,7 @@ https://github.com/kiwix/kiwix-desktop
 https://github.com/kjokjo/ipcalc
 https://github.com/klaudiosinani/awesome-prolog
 https://github.com/klepas/open-baskerville
+https://github.com/Kludex/uvicorn
 https://github.com/knime/knime-core
 https://github.com/ko-ichi-h/khcoder
 https://github.com/KokaKiwi/rust-hex
@@ -47114,6 +47118,7 @@ https://github.com/kristapsdz
 https://github.com/kristapsdz/lowdown
 https://github.com/kristapsdz/openrsync
 https://github.com/kristapsdz/sblg
+https://github.com/Kristories/awesome-guidelines
 https://github.com/krlmlr/awesome-vctrs
 https://github.com/kroxylicious/kroxylicious
 https://github.com/krzjoa/awesome-python-data-science
@@ -47501,6 +47506,7 @@ https://github.com/microsoft/MS-DOS
 https://github.com/microsoft/msquic
 https://github.com/microsoft/playwright
 https://github.com/microsoft/playwright-mcp
+https://github.com/microsoft/presidio
 https://github.com/microsoft/pylance-release
 https://github.com/microsoft/pyright
 https://github.com/Microsoft/QuantumKatas
@@ -48237,6 +48243,7 @@ https://github.com/posit-hosted/examples-shiny-r
 https://github.com/postcss/postcss
 https://github.com/postgis/postgis/
 https://github.com/postgresml/postgresml
+https://github.com/PostHog/posthog
 https://github.com/postmanlabs/httpbin
 https://github.com/poteto/hiring-without-whiteboards/blob/master/README.md
 https://github.com/POV-Ray/povray
@@ -48306,6 +48313,7 @@ https://github.com/psf/pyperf
 https://github.com/psf/requests
 https://github.com/pstavirs/ostinato
 https://github.com/psychopy/psychopy
+https://github.com/psycopg/psycopg
 https://github.com/psykon/awesome-demoscene
 https://github.com/ptpd/ptpd
 https://github.com/public-apis/public-apis
@@ -48337,6 +48345,7 @@ https://github.com/PyGreSQL/PyGreSQL
 https://github.com/pyg-team/pytorch_geometric
 https://github.com/pyjanitor-devs/pyjanitor
 https://github.com/pylint-dev/pylint
+https://github.com/Pylons/pyramid
 https://github.com/pymc-devs/pymc
 https://github.com/pymc-devs/pytensor
 https://github.com/pyodide/pyodide
@@ -48494,6 +48503,7 @@ https://github.com/ReneNyffenegger/cpp-base64
 https://github.com/Replicable-MARL/MARLlib
 https://github.com/replikativ/datahike
 https://github.com/requests/requests
+https://github.com/rescuezilla/rescuezilla
 https://github.com/research-software-directory/RSD-as-a-service
 https://github.com/ResidentMario/geoplot
 https://github.com/ResidentMario/missingno
@@ -49414,6 +49424,7 @@ https://github.com/torch/nn
 https://github.com/torch/optim
 https://github.com/torch/torch7
 https://github.com/torhve/LuaWeb/blob/master/README.md
+https://github.com/tornadoweb/tornado
 https://github.com/torokernel
 https://github.com/torokernel/torokernel
 https://github.com/torokernel/ToroOS
@@ -51184,6 +51195,7 @@ https://guitex.org/
 https://guix.gnu.org/
 https://guix.gnu.org/en/
 https://gumroad.com/
+https://gunicorn.org/
 https://gunkies.org/wiki/Altair_8800
 https://gunkies.org/wiki/Compatible_Time-Sharing_System
 https://gunkies.org/wiki/Digital_Equipment_Corporation
@@ -60357,6 +60369,7 @@ https://microsoft.github.io/language-server-protocol/
 https://microsoft.github.io/Magma/
 https://microsoft.github.io/mimalloc/
 https://microsoft.github.io/ML-For-Beginners/
+https://microsoft.github.io/presidio/
 https://microsoft.github.io/Security-101/
 https://microsoft.github.io/windows-docs-rs/doc/windows/
 https://microsoftgraveyard.com/
@@ -65762,6 +65775,7 @@ https://postgresqltutorial.com/
 https://postgresqltutorial.com/postgresql-cheat-sheet/
 https://postgresweekly.com/
 https://postgresweekly.com/issues/554
+https://posthog.com/
 https://postman.com/
 https://postmarketos.org/
 https://postquantum.cr.yp.to/
@@ -74686,6 +74700,7 @@ https://utppublishing.com/doi/book/10.3138/9781487592462
 https://utstat.toronto.edu/nathan/
 https://utstat.toronto.edu/nathan/designbook.html
 https://utstat.toronto.edu/nathan/publications.html
+https://uvicorn.dev/
 https://uwaterloo.ca/
 https://uwaterloo.ca/applied-mathematics/
 https://uwaterloo.ca/applied-mathematics/future-undergraduates/what-you-can-learn-applied-mathematics/scientific-computing
@@ -77113,6 +77128,7 @@ https://www.digital-fuer-deutschland.de/
 https://www.digitalocean.com/
 https://www.digitalpublicgoods.net/registry
 https://www.distcc.org/
+https://www.djangoproject.com/
 https://www.djangoproject.com/foundation/
 https://www.dnsleaktest.com/
 https://www.do178.org/
@@ -77227,6 +77243,7 @@ https://www.exploit-db.com/
 https://www.f5.com/
 https://www.facebook.com/TheFedoraProject
 https://www.fandom.com/
+https://www.fastht.ml/
 https://www.fastly.com/
 https://www.fastmail.com/
 https://www.faz.net/
@@ -78303,6 +78320,7 @@ https://www.mingw-w64.org/
 https://www.minitab.com/
 https://www.minix3.org/
 https://www.mis.mpg.de/
+https://www.mitmproxy.org/
 https://www.mitre.org/
 https://www.mitsubishielectric-rce.eu/
 https://www.mlrelated.com/
@@ -78838,6 +78856,7 @@ https://www.pycryptodome.org/
 https://www.pylint.org/
 https://www.pymc.io/
 https://www.pymc.io/welcome.html
+https://www.python-httpx.org/
 https://www.python.org/
 https://www.python.org/community/
 https://www.python.org/jobs/
@@ -79200,6 +79219,7 @@ https://www.scientificamerican.com/article/the-science-behind-sudoku/
 https://www.scientificamerican.com/mathematics/
 https://www.scmp.com/
 https://www.scons.org/
+https://www.scrapy.org/
 https://www.scryer.pl/
 https://www.scylladb.com/
 https://www.scylladb.com/2021/11/23/the-taming-of-the-b-trees/
@@ -79502,6 +79522,7 @@ https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station
 https://www.tomshardware.com/
 https://www.t-online.de/
 https://www.topcoder.com/
+https://www.tornadoweb.org/en/stable/
 https://www.torproject.org/
 https://www.tremor.rs/
 https://www.trtworld.com/
