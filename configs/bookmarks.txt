@@ -7255,6 +7255,7 @@ https://community.kde.org/Neon/Docker
 https://community.kde.org/Plasma
 https://community.modeanalytics.com/sql/
 https://community.openstreetmap.org/
+https://community.openvpn.net/
 https://community.openvpn.net/openvpn
 https://community.rstudio.com/
 https://community.schemewiki.org/
@@ -45941,6 +45942,7 @@ https://github.com/doctoolchain/doctoolchain
 https://github.com/doegox
 https://github.com/doegox/awesome-rfid-talks
 https://github.com/doegox/rfidpics
+https://github.com/donbarbos/awesome-standards
 https://github.com/donmccurdy/glTF-Transform
 https://github.com/donnemartin/system-design-primer
 https://github.com/dotnet
@@ -46313,6 +46315,7 @@ https://github.com/freelan-developers/freelan
 https://github.com/freeotp/freeotp-android
 https://github.com/FreeRDP/FreeRDP
 https://github.com/FreeRTOS/FreeRTOS
+https://github.com/FreeRTOS/FreeRTOShttps://freertos.org/
 https://github.com/FreeRTOS/FreeRTOS-Kernel
 https://github.com/frenetic-lang/frenetic
 https://github.com/fricas/fricas
@@ -47937,6 +47940,7 @@ https://github.com/openMVG/awesome_3DReconstruction_list
 https://github.com/openpgpjs/argon2id
 https://github.com/openpgpjs/openpgpjs
 https://github.com/OpenPrinting/cups
+https://github.com/open-quantum-safe/liboqs
 https://github.com/OpenRC/openrc
 https://github.com/OpenRefine/OpenRefine
 https://github.com/openresty/lua-cjson
@@ -47948,6 +47952,7 @@ https://github.com/openresty/openresty/blob/master/README.markdown
 https://github.com/openresty/openresty.org
 https://github.com/openrewrite/rewrite
 https://github.com/OpenSalamander/salamander
+https://github.com/OpenSC/OpenSC
 https://github.com/opensearch-project
 https://github.com/opensearch-project/opensearch
 https://github.com/opensearch-project/OpenSearch
@@ -48140,6 +48145,7 @@ https://github.com/p-e-w/savage
 https://github.com/pFarb/awesome-crypto-papers
 https://github.com/pgadmin-org/pgadmin4
 https://github.com/pganalyze/libpg_query
+https://github.com/pgbackrest/pgbackrest
 https://github.com/pgf-tikz/pgf
 https://github.com/pgf-tikz/pgfplots
 https://github.com/pgmodeler/pgmodeler
@@ -48358,6 +48364,7 @@ https://github.com/python/devguide
 https://github.com/python/mypy
 https://github.com/pythonnet/pythonnet
 https://github.com/python-pillow/Pillow
+https://github.com/python/pyperformance
 https://github.com/python-visualization/folium
 https://github.com/pytorch
 https://github.com/pytorch/examples
@@ -49090,6 +49097,7 @@ https://github.com/sts10/rust-command-line-utilities
 https://github.com/stsewd/ieee-pandoc-template
 https://github.com/stxxl/stxxl
 https://github.com/stylewarning/computable-reals
+https://github.com/sudheerj/angular-interview-questions
 https://github.com/SufficientlySecure/document-viewer
 https://github.com/suiginsoft/hebimath
 https://github.com/sumatrapdfreader/sumatrapdf
@@ -49230,6 +49238,7 @@ https://github.com/Thinklab-SJTU/awesome-ml4co
 https://github.com/Thinklab-SJTU/ThinkMatch
 https://github.com/ThinkR-open/engineering-shiny-book
 https://github.com/ThinkR-open/golem
+https://github.com/thisisisa/awesome-permacomputing
 https://github.com/ThomasDickey/lynx-snapshots
 https://github.com/thomasp85
 https://github.com/thomasp85/particles
@@ -49732,6 +49741,7 @@ https://github.com/yihui/knitr
 https://github.com/ymjing/tabbyssl
 https://github.com/Yochengliu/awesome-point-cloud-analysis
 https://github.com/yonseicasl/Nebula
+https://github.com/yosriady/awesome-api-devtools
 https://github.com/yourbasic
 https://github.com/Yubico/java-webauthn-server
 https://github.com/Yubico/libfido2
@@ -64555,6 +64565,7 @@ https://pcmag.com/picks/the-best-vpn-services
 https://pcmag.com/reviews/lenovo-thinkpad-x1-carbon-gen-11-2023
 https://pcmag.com/reviews/lenovo-thinkpad-x1-carbon-gen-9-2021
 https://pcotret.gitlab.io/riscv-custom/
+https://pcre2project.github.io/pcre2/
 https://pcre.org/
 https://pcwelt.de/
 https://pcworld.com/
@@ -64890,6 +64901,8 @@ https://perl.plover.com/yak/cftalk/
 https://perlpowertools.com/
 https://perlweekly.com/
 https://perma.cc/
+https://permacomputing.net/
+https://permacomputing.net/permacomputing/
 https://perplexity.ai/hub/technical-faq/what-advanced-ai-models-does-perplexity-pro-unlock
 https://perseus.tufts.edu/Herakles/stables.html
 https://perseus.tufts.edu/hopper/
@@ -64954,6 +64967,7 @@ https://pewtrusts.org/en/trend/archive/spring-2019/a-map-of-the-future-of-water
 https://pgadmin.org/
 https://pganalyze.com/
 https://pganalyze.com/blog/5mins-postgres-17-streaming-io
+https://pgbackrest.org/
 https://pgbarman.org/
 https://pgbovine.net/cpython-internals.htm
 https://pgcli.com/
@@ -66506,7 +66520,9 @@ https://pyopengl.sourceforge.net/
 https://pyopenssl.org/en/latest/
 https://pyopenssl.org/en/stable/
 https://pypdf.readthedocs.io/en/latest/
+https://pyperformance.readthedocs.io/
 https://pyperf.readthedocs.io/
+https://pyperf.readthedocs.io/en/latest/
 https://pypi.org/
 https://pypi.org/project/arulespy/
 https://pypi.org/project/bitformat/
@@ -66528,6 +66544,7 @@ https://pypi.org/project/paramiko/
 https://pypi.org/project/pillow/
 https://pypi.org/project/pyfeats/
 https://pypi.org/project/PyGeodesy/
+https://pypi.org/project/pyperformance/
 https://pypi.org/project/requests/
 https://pypi.org/project/samplics/
 https://pypi.org/project/scikit-image/
@@ -75653,6 +75670,7 @@ https://wiki.wireshark.org/ProtocolReference
 https://wiki.wireshark.org/ThirdPartyServices
 https://wiki.xfce.org/
 https://wiki.xxiivv.com/site/paper_computing.html
+https://wiki.xxiivv.com/site/permacomputing.html
 https://wilbourhall.org/
 https://wildfly.org/
 https://wiley.com/en-ae/Robust+Statistics%3A+Theory+and+Methods+(with+R)%2C+2nd+Edition-p-9781119214687
@@ -79226,6 +79244,7 @@ https://www.snort.org/
 https://www.snort.org/snort3
 https://www.snowflake.com/
 https://www.societyofscribes.org/
+https://www.softether.org/
 https://www.softwareheritage.org/
 https://www.softwarepreservation.org/projects/ALGOL
 https://www.softwarepreservation.org/projects/ALGOL/algol60impl
