@@ -1,0 +1,679 @@
++file ./initializer_list_example
+Reading symbols from ./initializer_list_example...
++b main
+Breakpoint 1 at 0x112d: file initializer_list_example.cpp, line 5.
++r
+Starting program: /home/mpiedrav/codeberg/mpiedrav/mpiedrav/cpp/initializer_list_example/initializer_list_example 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, main () at initializer_list_example.cpp:5
+5	        std::initializer_list<long> ilist {1998,2002,2006,2010,2014,2018,2022,2026};
++n
+6	}
++list .
+1	#include <initializer_list>
+2	
+3	int main()
+4	{
+5	        std::initializer_list<long> ilist {1998,2002,2006,2010,2014,2018,2022,2026};
+6	}
++print ilist
+$1 = {_M_array = 0x555555556020 <C.0.0>, _M_len = 8}
++x ilist
+Value can't be converted to integer.
++x (long)ilist
+0x555555556020 <C.0.0>:	0x000007ce
++x/16 (long)ilist
+0x555555556020 <C.0.0>:	0x000007ce	0x00000000	0x000007d2	0x00000000
+0x555555556030 <C.0.0+16>:	0x000007d6	0x00000000	0x000007da	0x00000000
+0x555555556040 <C.0.0+32>:	0x000007de	0x00000000	0x000007e2	0x00000000
+0x555555556050 <C.0.0+48>:	0x000007e6	0x00000000	0x000007ea	0x00000000
++x/16d (long)ilist
+0x555555556020 <C.0.0>:	1998	0	2002	0
+0x555555556030 <C.0.0+16>:	2006	0	2010	0
+0x555555556040 <C.0.0+32>:	2014	0	2018	0
+0x555555556050 <C.0.0+48>:	2022	0	2026	0
++x/16g (long)ilist
+0x555555556020 <C.0.0>:	1998	2002
+0x555555556030 <C.0.0+16>:	2006	2010
+0x555555556040 <C.0.0+32>:	2014	2018
+0x555555556050 <C.0.0+48>:	2022	2026
+0x555555556060:	189968620289	-17867063951356
+0x555555556070:	-17798344474504	-17729624997728
+0x555555556080:	-16728897617848	184
+0x555555556090:	20	76693139361004033
++x/8g (long)ilist
+0x555555556020 <C.0.0>:	1998	2002
+0x555555556030 <C.0.0+16>:	2006	2010
+0x555555556040 <C.0.0+32>:	2014	2018
+0x555555556050 <C.0.0+48>:	2022	2026
++x/2 ilist
+Value can't be converted to integer.
++x/2 &ilist
+0x7fffffffdad0:	93824992239648	8
++x/2x &ilist
+0x7fffffffdad0:	0x0000555555556020	0x0000000000000008
++x/4x &ilist
+0x7fffffffdad0:	0x0000555555556020	0x0000000000000008
+0x7fffffffdae0:	0x0000000000000001	0x00007ffff7dcdca8
++x/16g (char)ilist
+0x20:	Cannot access memory at address 0x20
++x/16g (long)ilist
+0x555555556020 <C.0.0>:	0x00000000000007ce	0x00000000000007d2
+0x555555556030 <C.0.0+16>:	0x00000000000007d6	0x00000000000007da
+0x555555556040 <C.0.0+32>:	0x00000000000007de	0x00000000000007e2
+0x555555556050 <C.0.0+48>:	0x00000000000007e6	0x00000000000007ea
+0x555555556060:	0x0000002c3b031b01	0xffffefc000000004
+0x555555556070:	0xffffefd000000078	0xffffefe0000000a0
+0x555555556080:	0xfffff0c900000048	0x00000000000000b8
+0x555555556090:	0x0000000000000014	0x0110780100527a01
++x/8g (long)ilist
+0x555555556020 <C.0.0>:	0x00000000000007ce	0x00000000000007d2
+0x555555556030 <C.0.0+16>:	0x00000000000007d6	0x00000000000007da
+0x555555556040 <C.0.0+32>:	0x00000000000007de	0x00000000000007e2
+0x555555556050 <C.0.0+48>:	0x00000000000007e6	0x00000000000007ea
++x/8gd (long)ilist
+0x555555556020 <C.0.0>:	1998	2002
+0x555555556030 <C.0.0+16>:	2006	2010
+0x555555556040 <C.0.0+32>:	2014	2018
+0x555555556050 <C.0.0+48>:	2022	2026
++apropos x
+< -- Scroll window text to the left.
+> -- Scroll window text to the right.
+add-inferior -- Add a new inferior.
+add-symbol-file -- Load symbols from FILE, assuming FILE has been dynamically loaded.
+add-symbol-file-from-memory -- Load the symbols out of memory from a dynamically loaded object file.
+advance -- Continue the program up to the given location.
+alias -- Define a new command that is an alias of an existing command.
+append binary value -- Append the value of an expression to a raw binary file.
+append value -- Append the value of an expression to a raw binary file.
+apropos -- Search for commands matching a REGEXP.
+awatch -- Set an access watchpoint for EXPRESSION.
+backtrace, where, bt -- Print backtrace of all stack frames, or innermost COUNT frames.
+bookmark -- Set a bookmark in the program's execution history.
+break, brea, bre, br, b -- Set breakpoint at specified location.
+break-range -- Set a breakpoint for an address range.
+call -- Call a function in the program.
+catch assert -- Catch failed Ada assertions, when raised.
+catch catch -- Catch an exception, when caught.
+catch exception -- Catch Ada exceptions, when raised.
+catch exec -- Catch calls to exec.
+catch handlers -- Catch Ada exceptions, when handled.
+catch load -- Catch loads of shared libraries.
+catch rethrow -- Catch an exception, when rethrown.
+catch throw -- Catch an exception, when thrown.
+catch unload -- Catch unloads of shared libraries.
+checkpoint -- Fork a duplicate process (experimental).
+clear, cl -- Clear breakpoint at specified location.
+clone-inferior -- Clone an existing inferior.
+collect -- Specify one or more data items to be collected at a tracepoint.
+commands -- Set commands to be executed when the given breakpoints are hit.
+compare-sections -- Compare section data on target to the exec file.
+compile, expression -- Command to compile source code and inject it into the inferior.
+compile code -- Compile, inject, and execute code.
+compile file -- Evaluate a file containing source code.
+compile print -- Evaluate EXPR by using the compiler and print result.
+condition -- Specify breakpoint number N to break only if COND is true.
+core-file -- Use FILE as core dump for examining memory and registers.
+data -- Examining data.
+define-prefix -- Define or mark a command as a user-defined prefix command.
+delete, del, d -- Delete all or some breakpoints.
+delete breakpoints -- Delete all or some breakpoints or auto-display expressions.
+delete checkpoint -- Delete a checkpoint (experimental).
+delete display -- Cancel some expressions to be displayed when program stops.
+detach -- Detach a process or file previously attached.
+detach checkpoint -- Detach from a checkpoint (experimental).
+disable display -- Disable some expressions to be displayed when program stops.
+disable frame-filter -- GDB command to disable the specified frame-filter.
+disable missing-debug-handler -- GDB command to disable missing debug handlers.
+disable missing-objfile-handler -- GDB command to disable missing objfile handlers.
+disable pretty-printer -- GDB command to disable the specified pretty-printer.
+disable probes -- Disable probes.
+disable unwinder -- GDB command to disable the specified unwinder.
+disable xmethod -- GDB command to disable a specified (group of) xmethod(s).
+disassemble -- Disassemble a specified section of memory.
+display -- Print value of expression EXP each time the program stops.
+dprintf -- Set a dynamic printf at specified location.
+dump binary value -- Write the value of an expression to a raw binary file.
+dump ihex -- Write target code/data to an intel hex file.
+dump ihex memory -- Write contents of memory to an ihex file.
+dump ihex value -- Write the value of an expression to an ihex file.
+dump srec value -- Write the value of an expression to an srec file.
+dump tekhex -- Write target code/data to a tekhex file.
+dump tekhex memory -- Write contents of memory to a tekhex file.
+dump tekhex value -- Write the value of an expression to a tekhex file.
+dump value -- Write the value of an expression to a raw binary file.
+dump verilog -- Write target code/data to a verilog hex file.
+dump verilog memory -- Write contents of memory to a verilog hex file.
+dump verilog value -- Write the value of an expression to a verilog hex file.
+edit -- Edit specified file or function.
+enable display -- Enable some expressions to be displayed when program stops.
+enable frame-filter -- GDB command to enable the specified frame-filter.
+enable missing-debug-handler -- GDB command to enable missing debug handlers.
+enable missing-objfile-handler -- GDB command to enable missing objfile handlers.
+enable pretty-printer -- GDB command to enable the specified pretty-printer.
+enable probes -- Enable probes.
+enable unwinder -- GDB command to enable unwinders.
+enable xmethod -- GDB command to enable a specified (group of) xmethod(s).
+exec-file -- Use FILE as program for getting contents of pure memory.
+explore -- Explore a value or a type valid in the current context.
+explore type -- Explore a type or the type of an expression.
+explore value -- Explore value of an expression valid in the current context.
+file -- Use FILE as program to be debugged.
+files -- Specifying and examining files.
+find -- Search memory for a sequence of bytes.
+finish, fin -- Execute until selected stack frame returns.
+forward-search, fo, search -- Search for regular expression (see regex(3)) from last line listed.
+frame apply -- Apply a command to a number of frames.
+frame apply all -- Apply a command to all frames.
+frame apply level -- Apply a command to a list of frames.
+ftrace -- Set a fast tracepoint at specified location.
+function _any_caller_matches -- Compare all calling function's names with a regexp.
+function _caller_matches -- Compare the calling function's name with a regexp.
+function _cimag -- Extract the imaginary part of a complex number.
+function _creal -- Extract the real part of a complex number.
+function _isvoid -- Check whether an expression is void.
+function _regex -- $_regex - check if a string matches a regular expression.
+function _shell -- $_shell - execute a shell command and return the result.
+function _streq -- $_streq - check string equality.
+goto-bookmark -- Go to an earlier-bookmarked point in the program's execution history.
+guile, gu -- Evaluate a Guile expression.
+handle -- Specify how to handle signals.
+hbreak -- Set a hardware assisted breakpoint.
+if -- Execute nested commands once IF the conditional expression is non zero.
+info args -- All argument variables of current stack frame or those matching REGEXPs.
+info auto-load gdb-scripts -- Print the list of automatically loaded sequences of commands.
+info auto-load python-scripts -- Print the list of automatically loaded Python scripts.
+info auxv -- Display the inferior's auxiliary vector.
+info bookmarks -- Status of user-settable bookmarks.
+info breakpoints, info b -- Status of specified breakpoints (all user-settable breakpoints if no argument).
+info classes -- All Objective-C classes, or those matching REGEXP.
+info display -- Expressions to display when program stops, with code numbers.
+info exceptions -- List all Ada exception names.
+info extensions -- All filename extensions associated with a source language.
+info files -- Names of targets and files being debugged.
+info functions -- All function names or those matching REGEXPs.
+info guile, info gu -- Prefix command for Guile info displays.
+info line -- Core addresses of the code for a source line.
+info locals -- All local variables of current stack frame or those matching REGEXPs.
+info missing-debug-handlers -- GDB command to list missing debug handlers.
+info missing-objfile-handlers -- GDB command to list missing objfile handlers.
+info module functions -- Display functions arranged by modules.
+info module variables -- Display variables arranged by modules.
+info modules -- All module names, or those matching REGEXP.
+info pretty-printer -- GDB command to list all registered pretty-printers.
+info probes dtrace -- Show information about DTrace static probes.
+info probes stap -- Show information about SystemTap static probes.
+info proc exe -- List absolute filename for executable of the specified process.
+info program -- Execution status of the program.
+info selectors -- All Objective-C selectors, or those matching REGEXP.
+info sources -- All source files in the program or those matching REGEXP.
+info symbol -- Describe what symbol is at location ADDR.
+info target -- Names of targets and files being debugged.
+info types -- All type names, or those matching REGEXP.
+info unwinder -- GDB command to list unwinders.
+info variables -- All global and static variable names or those matching REGEXPs.
+info vtbl -- Show the virtual function table for a C++ object.
+info xmethod -- GDB command to list registered xmethod matchers.
+init-if-undefined -- Initialize a convenience variable if necessary.
+interpreter-exec -- Execute a command in an interpreter.
+interrupt -- Interrupt the execution of the debugged program.
+jump, j -- Continue program being debugged at specified line or address.
+kill -- Kill execution of program being debugged.
+list, l -- List specified function or line.
+macro -- Prefix for commands dealing with C preprocessor macros.
+macro define -- Define a new C/C++ preprocessor macro.
+macro expand, macro exp -- Fully expand any C/C++ preprocessor macro invocations in EXPRESSION.
+macro expand, macro exp -- Fully expand any C/C++ preprocessor macro invocations in EXPRESSION.
+macro expand-once, macro exp1 -- Expand C/C++ preprocessor macro invocations appearing directly in EXPRESSION.
+macro expand-once, macro exp1 -- Expand C/C++ preprocessor macro invocations appearing directly in EXPRESSION.
+maintenance agent -- Translate an expression into remote agent bytecode for tracing.
+maintenance agent-eval -- Translate an expression into remote agent bytecode for evaluation.
+maintenance agent-printf -- Translate a printf into remote agent bytecode and display the bytecodes.
+maintenance btrace clear -- Clears the branch tracing data.
+maintenance btrace clear-packet-history -- Clears the branch tracing packet history.
+maintenance check xml-descriptions -- Check equality of GDB target descriptions and XML created descriptions.
+maintenance check-psymtabs -- Check consistency of currently expanded psymtabs versus symtabs.
+maintenance check-symtabs -- Check consistency of currently expanded symtabs.
+maintenance expand-symtabs -- Expand symbol tables.
+maintenance ignore-probes -- Ignore probes.
+maintenance info breakpoints -- Status of all breakpoints, or breakpoint number NUMBER.
+maintenance info line-table -- List the contents of all line tables, from all symbol tables.
+maintenance info linux-lwps -- List the Linux LWPS.
+maintenance info sections -- List the BFD sections of the exec and core files.
+maintenance info symtabs -- List the full symbol tables for all object files.
+maintenance packet -- Send an arbitrary packet to a remote target.
+maintenance print c-tdesc -- Print the current target description as a C source file.
+maintenance print objfiles -- Print dump of current object file definitions.
+maintenance print remote-registers -- Print the internal register configuration.
+maintenance print xml-tdesc -- Print the current target description as an XML file.
+maintenance set bfd-sharing -- Set whether gdb will share bfds that appear to be the same file.
+maintenance set dwarf always-disassemble -- Set whether `info address' always disassembles DWARF expressions.
+maintenance set dwarf max-cache-age -- Set the upper bound on the age of cached DWARF compilation units.
+maintenance set dwarf synchronous -- Set whether DWARF is read synchronously.
+maintenance set per-command time -- Set whether to display per-command execution time.
+maintenance set show-debug-regs -- Set whether to show variables that mirror the x86 debug registers.
+maintenance show bfd-sharing -- Show whether gdb will share bfds that appear to be the same file.
+maintenance show dwarf always-disassemble -- Show whether `info address' always disassembles DWARF expressions.
+maintenance show dwarf max-cache-age -- Show the upper bound on the age of cached DWARF compilation units.
+maintenance show dwarf synchronous -- Show whether DWARF is read synchronously.
+maintenance show per-command time -- Show whether to display per-command execution time.
+maintenance show show-debug-regs -- Show whether to show variables that mirror the x86 debug registers.
+maintenance space -- Set the display of space usage.
+maintenance test-options require-delimiter -- Command used for testing options processing.
+maintenance test-options unknown-is-error -- Command used for testing options processing.
+maintenance test-options unknown-is-operand -- Command used for testing options processing.
+maintenance time -- Set the display of time usage.
+maintenance wait-for-index-cache -- Wait until all pending writes to the index cache have completed.
+maintenance with -- Like "with", but works with "maintenance set" variables.
+memory-tag check -- Validate a pointer's logical tag against the allocation tag.
+memory-tag print-allocation-tag -- Print the allocation tag for ADDRESS.
+memory-tag print-logical-tag -- Print the logical tag from POINTER.
+memory-tag set-allocation-tag -- Set the allocation tag(s) for a memory range.
+memory-tag with-logical-tag -- Print a POINTER with a specific logical TAG.
+next, n -- Step program, proceeding through subroutine calls.
+next, n -- Step program, proceeding through subroutine calls.
+nexti, ni -- Step one instruction, but proceed through subroutine calls.
+nexti, ni -- Step one instruction, but proceed through subroutine calls.
+output -- Like "print" but don't put in value history and don't print newline.
+path -- Add directory DIR(s) to beginning of search path for object files.
+pipe, | -- Send the output of a gdb command to a shell command.
+print, inspect, p -- Print value of expression EXP.
+ptype -- Print definition of type TYPE.
+python-interactive, pi -- Start an interactive Python prompt.
+quit, exit, q -- Exit gdb.
+rbreak -- Set a breakpoint for all functions matching REGEXP.
+record delete, record del, record d -- Delete the rest of execution log and start recording it anew.
+record full -- Start full execution recording.
+record full restore -- Restore the execution log from a file.
+record function-call-history -- Prints the execution history at function granularity.
+record goto begin, record goto start -- Go to the beginning of the execution log.
+record goto end -- Go to the end of the execution log.
+record instruction-history -- Print disassembled instructions stored in the execution log.
+record save -- Save the execution log to a file.
+restart -- Restore program context from a checkpoint.
+restore -- Restore the contents of FILE to target memory.
+return -- Make selected stack frame return to its caller.
+reverse-finish -- Execute backward until just before selected stack frame is called.
+reverse-next, rn -- Step program backward, proceeding through subroutine calls.
+reverse-nexti, rni -- Step backward one instruction, but proceed through called subroutines.
+reverse-search, rev -- Search backward for regular expression (see regex(3)) from last line listed.
+reverse-stepi, rsi -- Step backward exactly one instruction.
+run, r -- Start debugged program.
+rwatch -- Set a read watchpoint for EXPRESSION.
+save gdb-index -- Save a gdb-index file.
+section -- Change the base address of section SECTION of the exec file to ADDR.
+set -- Evaluate expression EXP and assign result to variable VAR.
+set ada -- Prefix command for changing Ada-specific settings.
+set ada trust-PAD-over-XVS -- Enable or disable an optimization trusting PAD types over XVS types.
+set auto-load gdb-scripts -- Enable or disable auto-loading of canned sequences of commands scripts.
+set auto-load local-gdbinit -- Enable or disable auto-loading of .gdbinit script in current directory.
+set auto-load python-scripts -- Set the debugger's behavior regarding auto-loaded Python scripts.
+set auto-load safe-path -- Set the list of files and directories that are safe for auto-loading.
+set auto-solib-add -- Set autoloading of shared library symbols.
+set backtrace limit -- Set an upper bound on the number of backtrace levels.
+set basenames-may-differ -- Set whether a source file may have multiple base names.
+set breakpoint always-inserted -- Set mode for inserting breakpoints.
+set compile-args -- Set compile command GCC command-line arguments.
+set compile-gcc -- Set compile command GCC driver filename.
+set complaints -- Set max number of complaints about incorrect symbols.
+set debug coff-pe-read -- Set coff PE read debugging.
+set debug dwarf-die -- Set debugging of the DWARF DIE reader.
+set debug dwarf-read -- Set debugging of the DWARF reader.
+set debug expression -- Set expression debugging.
+set debug index-cache -- Set display of index-cache debug messages.
+set debug linux-namespaces -- Set debugging of GNU/Linux namespaces module.
+set debug linux-nat -- Set debugging of GNU/Linux native target.
+set debug parser -- Set parser debugging.
+set debug remote-packet-max-chars -- Set the maximum number of characters to display for each remote packet.
+set debug stap-expression -- Set SystemTap expression debugging.
+set debug xml -- Set XML parser debugging.
+set debuginfod urls -- Set the list of debuginfod server URLs.
+set default-collect -- Set the list of expressions to collect by default.
+set disassemble-next-line -- Set whether to disassemble next source line or insn when execution stops.
+set dump-excluded-mappings -- Set whether gcore should dump mappings marked with the VM_DONTDUMP flag.
+set environment -- Set environment variable value to give the program.
+set exec-direction -- Set direction of execution.
+set exec-done-display -- Set notification of completion for asynchronous execution commands.
+set exec-file-mismatch -- Set exec-file-mismatch handling (ask|warn|off).
+set exec-wrapper -- Set a wrapper for running programs.
+set extended-prompt -- Set the extended prompt.
+set extension-language -- Set mapping between filename extension and source language.
+set follow-exec-mode -- Set debugger response to a program call of exec.
+set fortran -- Prefix command for changing Fortran-specific settings.
+set fortran repack-array-slices -- Enable or disable repacking of non-contiguous array slices.
+set frame-filter -- Prefix command for 'set' frame-filter related operations.
+set frame-filter priority -- GDB command to set the priority of the specified frame-filter.
+set guile, set gu -- Prefix command for Guile preference settings.
+set guile print-stack -- Set mode for Guile exception printing on error.
+set history expansion -- Set history expansion on command input.
+set history save -- Set saving of the history record on exit.
+set index-cache -- Set index-cache options.
+set index-cache directory -- Set the directory of the index cache.
+set index-cache enabled -- Enable the index cache.
+set indirect-call-timeout -- Set the timeout, for indirect calls to inferior function calls.
+set input-radix -- Set default input radix for entering numbers.
+set listsize -- Set number of source lines gdb will list by default.
+set max-completions -- Set maximum number of completion candidates.
+set max-user-call-depth -- Set the max call depth for non-python/scheme user-defined commands.
+set max-value-size -- Set maximum sized value gdb will load from the inferior.
+set may-interrupt -- Set permission to interrupt or signal the target.
+set multiple-symbols -- Set how the debugger handles ambiguities in expressions.
+set non-stop -- Set whether gdb controls the inferior in non-stop mode.
+set observer -- Set whether gdb controls the inferior in observer mode.
+set output-radix -- Set default output radix for printing of values.
+set print array-indexes -- Set printing of array indexes.
+set print inferior-events -- Set printing of inferior events (such as inferior start and exit).
+set print max-depth -- Set maximum print depth for nested structures, unions and arrays.
+set print max-symbolic-offset -- Set the largest offset that will be printed in <SYMBOL+1234> form.
+set print symbol-loading -- Set printing of symbol loading messages.
+set print thread-events -- Set printing of thread events (such as thread start and exit).
+set print type hex -- Set printing of struct members sizes and offsets using hex notation.
+set python -- Prefix command for python preference settings.
+set python dont-write-bytecode -- Set whether the Python interpreter should avoid byte-compiling python modules.
+set python ignore-environment -- Set whether the Python interpreter should ignore environment variables.
+set radix -- Set default input and output number radices.
+set ravenscar -- Prefix command for changing Ravenscar-specific settings.
+set record btrace bts buffer-size -- Set the record/replay bts buffer size.
+set record btrace pt buffer-size -- Set the record/replay pt buffer size.
+set record full insn-number-max -- Set record/replay buffer limit.
+set record full insn-number-max -- Set record/replay buffer limit.
+set record full memory-query -- Set whether query if PREC cannot record memory change of next instruction.
+set remote binary-download-packet, set remote X-packet -- Set use of remote protocol `X' packet.
+set remote binary-upload-packet -- Set use of remote protocol `x' packet.
+set remote environment-hex-encoded-packet -- Set use of remote protocol `QEnvironmentHexEncoded' packet.
+set remote exec-event-feature-packet -- Set use of remote protocol `exec-event-feature' packet.
+set remote exec-file -- Set the remote pathname for "run".
+set remote hardware-breakpoint-limit -- Set the maximum number of target hardware breakpoints.
+set remote hardware-watchpoint-length-limit -- Set the maximum length (in bytes) of a target hardware watchpoint.
+set remote hardware-watchpoint-limit -- Set the maximum number of target hardware watchpoints.
+set remote library-info-packet -- Set use of remote protocol `qXfer:libraries:read' packet.
+set remote library-info-svr4-packet -- Set use of remote protocol `qXfer:libraries-svr4:read' packet.
+set remote memory-map-packet -- Set use of remote protocol `qXfer:memory-map:read' packet.
+set remote memory-read-packet-size -- Set the maximum number of bytes per memory-read packet.
+set remote memory-write-packet-size -- Set the maximum number of bytes per memory-write packet.
+set remote osdata-packet -- Set use of remote protocol `qXfer:osdata:read' packet.
+set remote pid-to-exec-file-packet -- Set use of remote protocol `qXfer:exec-file:read' packet.
+set remote read-aux-vector-packet -- Set use of remote protocol `qXfer:auxv:read' packet.
+set remote read-btrace-conf-packet -- Set use of remote protocol `qXfer:btrace-conf' packet.
+set remote read-btrace-packet -- Set use of remote protocol `qXfer:btrace' packet.
+set remote read-fdpic-loadmap-packet -- Set use of remote protocol `qXfer:fdpic:read' packet.
+set remote read-sdata-object-packet -- Set use of remote protocol `qXfer:statictrace:read' packet.
+set remote read-siginfo-object-packet -- Set use of remote protocol `qXfer:siginfo:read' packet.
+set remote target-features-packet -- Set use of remote protocol `qXfer:features:read' packet.
+set remote threads-packet -- Set use of remote protocol `qXfer:threads:read' packet.
+set remote traceframe-info-packet -- Set use of remote protocol `qXfer:traceframe-info:read' packet.
+set remote unwind-info-block-packet -- Set use of remote protocol `qXfer:uib:read' packet.
+set remote write-siginfo-object-packet -- Set use of remote protocol `qXfer:siginfo:write' packet.
+set remoteaddresssize -- Set the maximum size of the address (in bits) in a memory packet.
+set remotecache -- Set cache use for remote targets.
+set remotewritesize -- Set the maximum number of bytes per memory write packet (deprecated).
+set schedule-multiple -- Set mode for resuming threads of all processes.
+set scheduler-locking -- Set mode for locking scheduler during execution.
+set script-extension -- Set mode for script filename extension recognition.
+set source open -- Set whether GDB should open source files.
+set style metadata -- Metadata display styling.
+set style title -- Title display styling.
+set style tui-current-position -- Set whether to style text highlighted by the TUI's current position indicator.
+set sysroot, set solib-absolute-prefix -- Set an alternate system root.
+set target-file-system-kind -- Set assumed file system kind for target reported file names.
+set tdesc filename -- Set the file to read for an XML target description.
+set trace-buffer-size -- Set requested size of trace buffer.
+set trace-commands -- Set tracing of GDB CLI commands.
+set trust-readonly-sections -- Set mode for reading from readonly sections.
+set tui active-border-mode -- Set the attribute mode to use for the active TUI window border.
+set tui border-mode -- Set the attribute mode to use for the TUI window borders.
+set tui mouse-events -- Set whether TUI mode handles mouse clicks.
+set unwind-on-signal, set unwindonsignal -- Set unwinding of stack if a signal is received while in a call dummy.
+set unwind-on-terminating-exception -- Set unwinding of stack if std::terminate is called while in call dummy.
+set unwind-on-timeout -- Set unwinding of stack if a timeout occurs while in a call dummy.
+set use-deprecated-index-sections -- Set whether to use deprecated gdb_index sections.
+set variable, set var -- Evaluate expression EXP and assign result to variable VAR.
+set varsize-limit -- Set the maximum number of bytes allowed in a variable-size object.
+set write -- Set writing into executable and core files.
+sharedlibrary -- Load shared object library symbols for files matching REGEXP.
+shell, ! -- Execute the rest of the line as a shell command.
+show ada trust-PAD-over-XVS -- Show whether an optimization trusting PAD types over XVS types is activated.
+show auto-load gdb-scripts -- Show whether auto-loading of canned sequences of commands scripts is enabled.
+show auto-load local-gdbinit -- Show whether auto-loading .gdbinit script in current directory is enabled.
+show auto-load python-scripts -- Show the debugger's behavior regarding auto-loaded Python scripts.
+show auto-load safe-path -- Show the list of files and directories that are safe for auto-loading.
+show auto-solib-add -- Show autoloading of shared library symbols.
+show backtrace limit -- Show the upper bound on the number of backtrace levels.
+show basenames-may-differ -- Show whether a source file may have multiple base names.
+show breakpoint always-inserted -- Show mode for inserting breakpoints.
+show compile-args -- Show compile command GCC command-line arguments.
+show compile-gcc -- Show compile command GCC driver filename.
+show complaints -- Show max number of complaints about incorrect symbols.
+show convenience, show conv -- Debugger convenience ("$foo") variables and functions.
+show debug coff-pe-read -- Show coff PE read debugging.
+show debug dwarf-die -- Show debugging of the DWARF DIE reader.
+show debug dwarf-read -- Show debugging of the DWARF reader.
+show debug expression -- Show expression debugging.
+show debug index-cache -- Show display of index-cache debug messages.
+show debug linux-namespaces -- Show debugging of GNU/Linux namespaces module.
+show debug linux-nat -- Show debugging of GNU/Linux native target.
+show debug parser -- Show parser debugging.
+show debug remote-packet-max-chars -- Show the maximum number of characters to display for each remote packet.
+show debug stap-expression -- Show SystemTap expression debugging.
+show debug xml -- Show XML parser debugging.
+show debuginfod urls -- Show the list of debuginfod server URLs.
+show default-collect -- Show the list of expressions to collect by default.
+show disassemble-next-line -- Show whether to disassemble next source line or insn when execution stops.
+show dump-excluded-mappings -- Show whether gcore should dump mappings marked with the VM_DONTDUMP flag.
+show exec-direction -- Show direction of execution (forward/reverse).
+show exec-done-display -- Show notification of completion for asynchronous execution commands.
+show exec-file-mismatch -- Show exec-file-mismatch handling (ask|warn|off).
+show exec-wrapper -- Show the wrapper for running programs.
+show extended-prompt -- Show the extended prompt.
+show extension-language -- Show mapping between filename extension and source language.
+show follow-exec-mode -- Show debugger response to a program call of exec.
+show fortran repack-array-slices -- Show whether non-contiguous array slices are repacked.
+show frame-filter -- Prefix command for 'show' frame-filter related operations.
+show frame-filter priority -- GDB command to show the priority of the specified frame-filter.
+show guile, show gu -- Prefix command for Guile preference settings.
+show guile print-stack -- Show the mode of Guile exception printing on error.
+show history expansion -- Show history expansion on command input.
+show history save -- Show saving of the history record on exit.
+show index-cache -- Show index-cache options.
+show index-cache directory -- Show the directory of the index cache.
+show index-cache enabled -- Show whether the index cache is enabled.
+show index-cache stats -- Show some stats about the index cache.
+show indirect-call-timeout -- Show the timeout, for indirect calls to inferior function calls.
+show input-radix -- Show default input radix for entering numbers.
+show listsize -- Show number of source lines gdb will list by default.
+show max-completions -- Show maximum number of completion candidates.
+show max-user-call-depth -- Show the max call depth for non-python/scheme user-defined commands.
+show max-value-size -- Show maximum sized value gdb will load from the inferior.
+show may-interrupt -- Show permission to interrupt or signal the target.
+show multiple-symbols -- Show how the debugger handles ambiguities in expressions.
+show non-stop -- Show whether gdb controls the inferior in non-stop mode.
+show observer -- Show whether gdb controls the inferior in observer mode.
+show output-radix -- Show default output radix for printing of values.
+show paths -- Current search path for finding object files.
+show print array-indexes -- Show printing of array indexes.
+show print inferior-events -- Show printing of inferior events (such as inferior start and exit).
+show print max-depth -- Show maximum print depth for nested structures, unions, and arrays.
+show print max-symbolic-offset -- Show the largest offset that will be printed in <SYMBOL+1234> form.
+show print symbol-loading -- Show printing of symbol loading messages.
+show print thread-events -- Show printing of thread events (such as thread start and exit).
+show print type hex -- Show whether sizes and offsets of struct members are printed using hex notation.
+show python -- Prefix command for python preference settings.
+show python dont-write-bytecode -- Show whether the Python interpreter should avoid byte-compiling python modules.
+show python ignore-environment -- Show whether the Python interpreter showlist ignore environment variables.
+show radix -- Show the default input and output number radices.
+show ravenscar -- Prefix command for showing Ravenscar-specific settings.
+show record btrace bts buffer-size -- Show the record/replay bts buffer size.
+show record btrace pt buffer-size -- Show the record/replay pt buffer size.
+show record full insn-number-max -- Show record/replay buffer limit.
+show record full insn-number-max -- Show record/replay buffer limit.
+show record full memory-query -- Show whether query if PREC cannot record memory change of next instruction.
+show remote binary-download-packet, show remote X-packet -- Show current use of remote protocol `X' packet.
+show remote binary-upload-packet -- Show current use of remote protocol `x' packet.
+show remote environment-hex-encoded-packet -- Show current use of remote protocol `QEnvironmentHexEncoded' packet.
+show remote exec-event-feature-packet -- Show current use of remote protocol `exec-event-feature' packet.
+show remote exec-file -- Show the remote pathname for "run".
+show remote hardware-breakpoint-limit -- Show the maximum number of target hardware breakpoints.
+show remote hardware-watchpoint-length-limit -- Show the maximum length (in bytes) of a target hardware watchpoint.
+show remote hardware-watchpoint-limit -- Show the maximum number of target hardware watchpoints.
+show remote library-info-packet -- Show current use of remote protocol `qXfer:libraries:read' packet.
+show remote library-info-svr4-packet -- Show current use of remote protocol `qXfer:libraries-svr4:read' packet.
+show remote memory-map-packet -- Show current use of remote protocol `qXfer:memory-map:read' packet.
+show remote memory-read-packet-size -- Show the maximum number of bytes per memory-read packet.
+show remote memory-write-packet-size -- Show the maximum number of bytes per memory-write packet.
+show remote osdata-packet -- Show current use of remote protocol `qXfer:osdata:read' packet.
+show remote pid-to-exec-file-packet -- Show current use of remote protocol `qXfer:exec-file:read' packet.
+show remote read-aux-vector-packet -- Show current use of remote protocol `qXfer:auxv:read' packet.
+show remote read-btrace-conf-packet -- Show current use of remote protocol `qXfer:btrace-conf' packet.
+show remote read-btrace-packet -- Show current use of remote protocol `qXfer:btrace' packet.
+show remote read-fdpic-loadmap-packet -- Show current use of remote protocol `qXfer:fdpic:read' packet.
+show remote read-sdata-object-packet -- Show current use of remote protocol `qXfer:statictrace:read' packet.
+show remote read-siginfo-object-packet -- Show current use of remote protocol `qXfer:siginfo:read' packet.
+show remote target-features-packet -- Show current use of remote protocol `qXfer:features:read' packet.
+show remote threads-packet -- Show current use of remote protocol `qXfer:threads:read' packet.
+show remote traceframe-info-packet -- Show current use of remote protocol `qXfer:traceframe-info:read' packet.
+show remote unwind-info-block-packet -- Show current use of remote protocol `qXfer:uib:read' packet.
+show remote write-siginfo-object-packet -- Show current use of remote protocol `qXfer:siginfo:write' packet.
+show remoteaddresssize -- Show the maximum size of the address (in bits) in a memory packet.
+show remotecache -- Show cache use for remote targets.
+show remotewritesize -- Show the maximum number of bytes per memory write packet (deprecated).
+show schedule-multiple -- Show mode for resuming threads of all processes.
+show scheduler-locking -- Show mode for locking scheduler during execution.
+show script-extension -- Show mode for script filename extension recognition.
+show source open -- Show whether GDB should open source files.
+show style metadata -- Metadata display styling.
+show style title -- Title display styling.
+show style tui-current-position -- Show whether to style text highlighted by the TUI's current position indicator.
+show sysroot, show solib-absolute-prefix -- Show the current system root.
+show target-file-system-kind -- Show assumed file system kind for target reported file names.
+show tdesc filename -- Show the file to read for an XML target description.
+show trace-buffer-size -- Show requested size of trace buffer.
+show trace-commands -- Show state of GDB CLI command tracing.
+show trust-readonly-sections -- Show mode for reading from readonly sections.
+show tui active-border-mode -- Show the attribute mode to use for the active TUI window border.
+show tui border-mode -- Show the attribute mode to use for the TUI window borders.
+show tui mouse-events -- Show whether TUI mode handles mouse clicks.
+show unwind-on-signal, show unwindonsignal -- Show unwinding of stack if a signal is received while in a call dummy.
+show unwind-on-terminating-exception -- Show unwinding of stack if std::terminate() is called while in a call dummy.
+show unwind-on-timeout -- Show unwinding of stack if a timeout occurs while in a call dummy.
+show use-deprecated-index-sections -- Show whether to use deprecated gdb_index sections.
+show values -- Elements of value history around item number IDX (or last ten).
+show varsize-limit -- Show the maximum number of bytes allowed in a variable-size object.
+show write -- Show writing into executable and core files.
+skip -- Ignore a function while stepping.
+source -- Read commands from a file named FILE.
+stack -- Examining the stack.
+start -- Start the debugged program stopping at the beginning of the main procedure.
+starti -- Start the debugged program stopping at the first instruction.
+stepi, si -- Step one instruction exactly.
+stop -- There is no `stop' command, but you can set a hook on `stop'.
+strace -- Set a static tracepoint at location or marker.
+symbol-file -- Load symbol table from executable file FILE.
+target exec -- Use an executable file as a target.
+target extended-remote -- Use a remote computer via a serial line, using a gdb-specific protocol.
+target record -- Log program while executing and replay execution from log.
+target record-btrace -- Collect control-flow trace and provide the execution history.
+target record-core -- Log program while executing and replay execution from log.
+target record-full -- Log program while executing and replay execution from log.
+task apply -- Apply a command to a list of tasks.
+task apply all -- Apply a command to all tasks in the current inferior.
+tbreak -- Set a temporary breakpoint.
+tcatch assert -- Catch failed Ada assertions, when raised.
+tcatch catch -- Catch an exception, when caught.
+tcatch exception -- Catch Ada exceptions, when raised.
+tcatch exec -- Catch calls to exec.
+tcatch handlers -- Catch Ada exceptions, when handled.
+tcatch load -- Catch loads of shared libraries.
+tcatch rethrow -- Catch an exception, when rethrown.
+tcatch throw -- Catch an exception, when thrown.
+tcatch unload -- Catch unloads of shared libraries.
+teval -- Specify one or more expressions to be evaluated at a tracepoint.
+text-user-interface -- TUI is the GDB text based interface.
+tfind line -- Select a trace frame by source line.
+tfind outside -- Select a trace frame whose PC is outside the given range (exclusive).
+thbreak -- Set a temporary hardware assisted breakpoint.
+thread apply -- Apply a command to a list of threads.
+thread apply all -- Apply a command to all threads.
+thread find -- Find threads that match a regular expression.
+thread name -- Set the current thread's name.
+trace, trac, tra, tr, tp -- Set a tracepoint at specified location.
+tracepoints -- Tracing of program execution without stopping the program.
+tui -- Text User Interface commands.
+tui focus, fs, focus -- Set focus to named window or next/prev window.
+tui layout, layout -- Change the layout of windows.
+tui layout next -- Apply the next TUI layout.
+tui window -- Text User Interface window commands.
+tvariable -- Define a trace state variable.
+undisplay -- Cancel some expressions to be displayed when program stops.
+unset environment -- Cancel environment variable VAR for the program.
+unset exec-wrapper -- Disable use of an execution wrapper.
+unset tdesc filename -- Unset the file to read for an XML target description.
+until, u -- Execute until past the current line or past a LOCATION.
+update -- Update the source window to display the current execution point.
+watch -- Set a watchpoint for EXPRESSION.
+whatis -- Print data type of expression EXP.
+while -- Execute nested commands WHILE the conditional expression is non zero.
+with, w -- Temporarily set SETTING to VALUE, run COMMAND, and restore SETTING.
+x -- Examine memory: x/FMT ADDRESS.
++help x
+Examine memory: x/FMT ADDRESS.
+ADDRESS is an expression for the memory address to examine.
+FMT is a repeat count followed by a format letter and a size letter.
+Format letters are o(octal), x(hex), d(decimal), u(unsigned decimal),
+  t(binary), f(float), a(address), i(instruction), c(char), s(string)
+  and z(hex, zero padded on the left).
+Size letters are b(byte), h(halfword), w(word), g(giant, 8 bytes).
+The specified number of objects of the specified size are printed
+according to the format.  If a negative number is specified, memory is
+examined backward from the address.
+
+Defaults for format and size letters are those previously used.
+Default count is 1.  Default address is following last thing printed
+with this command or "print".
++x/8bd (long)ilist
+0x555555556020 <C.0.0>:	-50	7	0	0	0	0	0	0
++x/16bd (long)ilist
+0x555555556020 <C.0.0>:	-50	7	0	0	0	0	0	0
+0x555555556028 <C.0.0+8>:	-46	7	0	0	0	0	0	0
++x/16hd (long)ilist
+0x555555556020 <C.0.0>:	1998	0	0	0	2002	0	0	0
+0x555555556030 <C.0.0+16>:	2006	0	0	0	2010	0	0	0
++x/16wd (long)ilist
+0x555555556020 <C.0.0>:	1998	0	2002	0
+0x555555556030 <C.0.0+16>:	2006	0	2010	0
+0x555555556040 <C.0.0+32>:	2014	0	2018	0
+0x555555556050 <C.0.0+48>:	2022	0	2026	0
++x/16gd (long)ilist
+0x555555556020 <C.0.0>:	1998	2002
+0x555555556030 <C.0.0+16>:	2006	2010
+0x555555556040 <C.0.0+32>:	2014	2018
+0x555555556050 <C.0.0+48>:	2022	2026
+0x555555556060:	189968620289	-17867063951356
+0x555555556070:	-17798344474504	-17729624997728
+0x555555556080:	-16728897617848	184
+0x555555556090:	20	76693139361004033
++x/8gd (long)ilist
+0x555555556020 <C.0.0>:	1998	2002
+0x555555556030 <C.0.0+16>:	2006	2010
+0x555555556040 <C.0.0+32>:	2014	2018
+0x555555556050 <C.0.0+48>:	2022	2026
++x/8bx (long)ilist
+0x555555556020 <C.0.0>:	0xce	0x07	0x00	0x00	0x00	0x00	0x00	0x00
++x/8hx (long)ilist
+0x555555556020 <C.0.0>:	0x07ce	0x0000	0x0000	0x0000	0x07d2	0x0000	0x0000	0x0000
++x/8wx (long)ilist
+0x555555556020 <C.0.0>:	0x000007ce	0x00000000	0x000007d2	0x00000000
+0x555555556030 <C.0.0+16>:	0x000007d6	0x00000000	0x000007da	0x00000000
++x/8gx (long)ilist
+0x555555556020 <C.0.0>:	0x00000000000007ce	0x00000000000007d2
+0x555555556030 <C.0.0+16>:	0x00000000000007d6	0x00000000000007da
+0x555555556040 <C.0.0+32>:	0x00000000000007de	0x00000000000007e2
+0x555555556050 <C.0.0+48>:	0x00000000000007e6	0x00000000000007ea
++n
+__libc_start_call_main (main=main@entry=0x555555555129 <main()>, argc=argc@entry=1, argv=argv@entry=0x7fffffffdbf8) at ../sysdeps/nptl/libc_start_call_main.h:74
+warning: 74	../sysdeps/nptl/libc_start_call_main.h: No such file or directory
++n
+[Inferior 1 (process 97212) exited normally]
+quit
++quit

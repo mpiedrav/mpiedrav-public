@@ -1,0 +1,8 @@
+Boura and Naya-Plasencia - Symmetric Cryptography 1 - ISTE-Wiley - 2023.pdf
+Boura and Naya-Plasencia - Symmetric Cryptography 2 - ISTE-Wiley - 2023.pdf
+Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
+Paar, Pelzl, and Güneysu - Understanding Cryptography - Springer - 2024.pdf
+Pointcheval - Asymmetric Cryptography - ISTE-Wiley - 2022.pdf
+Prouff, Renault, Rivain, and O_Flynn - Embedded Cryptography 1 - ISTE-Wiley - 2025.pdf
+Prouff, Renault, Rivain, and O_Flynn - Embedded Cryptography 2 - ISTE-Wiley - 2025.pdf
+Prouff, Renault, Rivain, and O_Flynn - Embedded Cryptography 3 - ISTE-Wiley - 2025.pdf

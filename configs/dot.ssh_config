@@ -1,0 +1,4 @@
+Host mpiedrav
+    Hostname gitlab.com
+    User mpiedrav
+    IdentityFile ~/.ssh/mpiedrav

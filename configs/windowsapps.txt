@@ -1,0 +1,29 @@
+7-Zip
+Android Studio
+Chez Scheme
+Firefox
+Git
+GNU Octave
+IntelliJ IDEA
+IrfanView
+JDK
+MATLAB
+Node.js
+Notepad++
+OBS Studio
+Oracle VirtualBox
+PostgreSQL
+PowerShell
+Python
+QGIS
+R
+Rufus
+Strawberry Perl
+SumatraPDF
+TeX Live
+Vim
+Visual Studio Code
+VLC
+Wacom Tablet
+Wireshark
+Xournal++
