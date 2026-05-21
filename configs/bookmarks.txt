@@ -45660,10 +45660,12 @@ https://github.com/coin-or/Clp
 https://github.com/coin-or/Couenne
 https://github.com/colah
 https://github.com/collections
+https://github.com/collections/ctf-cybersec-resources
 https://github.com/collections/front-end-javascript-frameworks
 https://github.com/collections/javascript-game-engines
 https://github.com/collections/machine-learning
 https://github.com/collections/programming-languages
+https://github.com/collections/static-site-generators
 https://github.com/coltonhurst/language-by-example
 https://github.com/comby-tools/comby
 https://github.com/comeetie/greed
@@ -45873,6 +45875,7 @@ https://github.com/DefinitelyTyped/DefinitelyTyped
 https://github.com/dejavu-fonts/dejavu-fonts
 https://github.com/delta-io/delta
 https://github.com/delta-io/delta-sharing
+https://github.com/demoscene-source-archive
 https://github.com/dendisuhubdy/scythe
 https://github.com/DenisIzmaylov/awesome-telegram-bots
 https://github.com/denji/awesome-http-benchmark
@@ -46398,6 +46401,7 @@ https://github.com/geoserver/geoserver
 https://github.com/geotools/geotools
 https://github.com/gephi/gephi
 https://github.com/GetDKAN/dkan
+https://github.com/getpelican/pelican
 https://github.com/getsentry/sentry
 https://github.com/getsops/sops
 https://github.com/ggml-org/llama.cpp
@@ -47008,6 +47012,7 @@ https://github.com/junlingm/ABM
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
 https://github.com/jupyterlite/jupyterlite
+https://github.com/jupyter/notebook
 https://github.com/just-the-docs/just-the-docs
 https://github.com/jwilm/alacritty
 https://github.com/jython/jython/
@@ -47575,6 +47580,7 @@ https://github.com/miura/GLCM2
 https://github.com/mjebrahimi/Awesome-Microservices-DotNet
 https://github.com/mjskay/tidybayes
 https://github.com/mjskay/tidybayes/
+https://github.com/mkdocs/mkdocs
 https://github.com/mlbio-epfl/turtle
 https://github.com/mlcommons/ck
 https://github.com/mlcommons/croissant
@@ -47776,6 +47782,7 @@ https://github.com/nim-lang/bigints
 https://github.com/nim-lang/Nim
 https://github.com/nim-lang/nimble
 https://github.com/ninenines/cowboy
+https://github.com/NinerXrayBravoTwoTwo/MassEnergyUnits
 https://github.com/ninja-build/ninja
 https://github.com/nionita/Barbarossa
 https://github.com/NixOS
@@ -64900,6 +64907,7 @@ https://perldoc.perl.org/
 https://perldoc.perl.org/bignum
 https://perldoc.perl.org/bigrat
 https://perldoc.perl.org/modules
+https://perldoc.perl.org/perlfunc
 https://perldoc.perl.org/perlintro
 https://perldoc.perl.org/perlpacktut
 https://perldoc.perl.org/perlpacktut.html
@@ -70606,6 +70614,7 @@ https://sourceforge.net/projects/djvu/
 https://sourceforge.net/projects/dosbox/
 https://sourceforge.net/projects/doxygen/
 https://sourceforge.net/projects/embarcadero-devcpp/
+https://sourceforge.net/projects/exiftool/
 https://sourceforge.net/projects/filezilla/
 https://sourceforge.net/projects/flex/
 https://sourceforge.net/projects/fluxbox/
@@ -76639,6 +76648,7 @@ https://www.berkeley.edu/
 https://www.berndnaut.nl/works/nimbus/
 https://www.bestpractices.dev/
 https://www.bestpractices.dev/en/criteria/0
+https://www.bettercap.org/
 https://www.beyondintractability.org/
 https://www.beyondintractability.org/bksum/fromkin-peace
 https://www.bgpmon.net/
