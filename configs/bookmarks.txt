@@ -2747,6 +2747,7 @@ https://arxiv.org/abs/2411.19271
 https://arxiv.org/abs/2411.19717
 https://arxiv.org/abs/2412.03775
 https://arxiv.org/abs/2412.04463
+https://arxiv.org/abs/2412.04705
 https://arxiv.org/abs/2412.05265
 https://arxiv.org/abs/2412.05562
 https://arxiv.org/abs/2412.06080
@@ -5329,6 +5330,8 @@ https://calvertjournal.com/features/show/10811/moscow-cinemas-yuri-palmin
 https://calyxinstitute.org/
 https://calyxir.org/
 https://calyxos.org/
+https://camacholab.byu.edu/
+https://camacholab.byu.edu/qrng
 https://cam.ac.uk/
 https://cam.ac.uk/news
 https://cam.ac.uk/research
@@ -17010,6 +17013,7 @@ https://en.wikipedia.org/wiki/Bayesian_vector_autoregression
 https://en.wikipedia.org/wiki/BayFiles
 https://en.wikipedia.org/wiki/BayImg
 https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion
+https://en.wikipedia.org/wiki/BB84
 https://en.wikipedia.org/wiki/BBC
 https://en.wikipedia.org/wiki/BBC_BASIC
 https://en.wikipedia.org/wiki/BBC_iPlayer
@@ -22364,6 +22368,7 @@ https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon
 https://en.wikipedia.org/wiki/Deviance_(statistics)
 https://en.wikipedia.org/wiki/Deviation_(statistics)
 https://en.wikipedia.org/wiki/Device_independent_file_format
+https://en.wikipedia.org/wiki/Device-independent_quantum_cryptography
 https://en.wikipedia.org/wiki/Devicetree
 https://en.wikipedia.org/wiki/Devil
 https://en.wikipedia.org/wiki/Devil_in_the_arts_and_popular_culture
@@ -22930,6 +22935,7 @@ https://en.wikipedia.org/wiki/Dying_Earth_(genre)
 https://en.wikipedia.org/wiki/Dykstra%27s_projection_algorithm
 https://en.wikipedia.org/wiki/Dylan_(programming_language)
 https://en.wikipedia.org/wiki/Dymaxion_map
+https://en.wikipedia.org/wiki/Dynamical_pictures
 https://en.wikipedia.org/wiki/Dynamical_system
 https://en.wikipedia.org/wiki/Dynamical_systems_theory
 https://en.wikipedia.org/wiki/Dynamical_Theory_of_Crystal_Lattices
@@ -26376,6 +26382,7 @@ https://en.wikipedia.org/wiki/Hesse
 https://en.wikipedia.org/wiki/Hessian_affine_region_detector
 https://en.wikipedia.org/wiki/Hessian_dialects
 https://en.wikipedia.org/wiki/Hessian_matrix
+https://en.wikipedia.org/wiki/Heterodyne
 https://en.wikipedia.org/wiki/Heterogeneity_in_economics
 https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture
 https://en.wikipedia.org/wiki/Heterojunction_bipolar_transistor
@@ -26659,6 +26666,7 @@ https://en.wikipedia.org/wiki/Home_Secretary
 https://en.wikipedia.org/wiki/Homesteading
 https://en.wikipedia.org/wiki/Home_video_game_console
 https://en.wikipedia.org/wiki/Homochirality
+https://en.wikipedia.org/wiki/Homodyne_detection
 https://en.wikipedia.org/wiki/Homogeneous_differential_equation
 https://en.wikipedia.org/wiki/Homogeneous_distribution
 https://en.wikipedia.org/wiki/Homography
@@ -34791,6 +34799,7 @@ https://en.wikipedia.org/wiki/Photolithography
 https://en.wikipedia.org/wiki/Photometric_stereo
 https://en.wikipedia.org/wiki/Photomultiplier
 https://en.wikipedia.org/wiki/Photon
+https://en.wikipedia.org/wiki/Photon_counting
 https://en.wikipedia.org/wiki/Photon_energy
 https://en.wikipedia.org/wiki/Photonics
 https://en.wikipedia.org/wiki/Photon_mapping
@@ -35958,6 +35967,7 @@ https://en.wikipedia.org/wiki/Quantum_error_correction
 https://en.wikipedia.org/wiki/Quantum_field_theory
 https://en.wikipedia.org/wiki/Quantum_Field_Theory_in_a_Nutshell
 https://en.wikipedia.org/wiki/Quantum_finite_automaton
+https://en.wikipedia.org/wiki/Quantum_fluctuation
 https://en.wikipedia.org/wiki/Quantum_foam
 https://en.wikipedia.org/wiki/Quantum_information
 https://en.wikipedia.org/wiki/Quantum_information_science
@@ -35969,6 +35979,7 @@ https://en.wikipedia.org/wiki/Quantum_mechanics_of_time_travel
 https://en.wikipedia.org/wiki/Quantum_network
 https://en.wikipedia.org/wiki/Quantum_noise
 https://en.wikipedia.org/wiki/Quantum_number
+https://en.wikipedia.org/wiki/Quantum_optics
 https://en.wikipedia.org/wiki/Quantum_statistical_mechanics
 https://en.wikipedia.org/wiki/Quantum_superposition
 https://en.wikipedia.org/wiki/Quantum_Theory:_Concepts_and_Methods
@@ -36037,6 +36048,7 @@ https://en.wikipedia.org/wiki/Quotient_type
 https://en.wikipedia.org/wiki/Quo_Vadis_(novel)
 https://en.wikipedia.org/wiki/Quran
 https://en.wikipedia.org/wiki/Quraysh
+https://en.wikipedia.org/wiki/QuTiP
 https://en.wikipedia.org/wiki/Qwen
 https://en.wikipedia.org/wiki/R10000
 https://en.wikipedia.org/wiki/R2000_microprocessor
@@ -38145,6 +38157,7 @@ https://en.wikipedia.org/wiki/Single_instruction,_single_data
 https://en.wikipedia.org/wiki/Single-lens_reflex_camera
 https://en.wikipedia.org/wiki/Single-level_store
 https://en.wikipedia.org/wiki/Single-page_application
+https://en.wikipedia.org/wiki/Single-photon_source
 https://en.wikipedia.org/wiki/Single_program,_multiple_data
 https://en.wikipedia.org/wiki/Single-serving_visitor_pattern
 https://en.wikipedia.org/wiki/Single_sign-on
@@ -41927,6 +41940,7 @@ https://en.wikipedia.org/wiki/Von_Bertalanffy_function
 https://en.wikipedia.org/wiki/Von_Karman_Institute_for_Fluid_Dynamics
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem
+https://en.wikipedia.org/wiki/Von_Neumann_entropy
 https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
 https://en.wikipedia.org/wiki/V-optimal_histograms
 https://en.wikipedia.org/wiki/Vorbis
@@ -45505,6 +45519,7 @@ https://github.com/BVLC/caffe
 https://github.com/bytecodealliance/wasmtime
 https://github.com/bytedeco/javacpp
 https://github.com/bytedeco/javacv
+https://github.com/BYUCamachoLab/pyrolab
 https://github.com/BYU-PRISM/GEKKO
 https://github.com/C2SP/CCTV
 https://github.com/c3js/c3
@@ -46805,6 +46820,7 @@ https://github.com/ipinfo
 https://github.com/ipinfo/cli
 https://github.com/iptv-org/iptv
 https://github.com/ipython/ipython
+https://github.com/irmen/Pyro5
 https://github.com/IronLanguages/dlr
 https://github.com/IronLanguages/ironpython3
 https://github.com/isc-projects
@@ -54535,6 +54551,7 @@ https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.021026
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.77.137
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.80.1061
+https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.015004
 https://journals.biologists.com/jeb/article/222/Suppl_1/jeb187971/2806/Non-Euclidean-navigation
 https://journals.bmj.com/home
 https://journals.elsevier.com/journal-of-symbolic-computation
@@ -57987,6 +58004,7 @@ https://link.springer.com/chapter/10.1007/978-3-540-88071-4_11
 https://link.springer.com/chapter/10.1007/978-3-642-01156-6_11
 https://link.springer.com/chapter/10.1007/978-3-642-02397-2_16
 https://link.springer.com/chapter/10.1007/978-3-642-03073-4_26
+https://link.springer.com/chapter/10.1007/978-3-642-04138-9_23
 https://link.springer.com/chapter/10.1007/978-3-642-10868-6_9
 https://link.springer.com/chapter/10.1007/978-3-642-20662-7_32
 https://link.springer.com/chapter/10.1007/978-3-642-21735-7_6
@@ -66588,6 +66606,7 @@ https://pypsa.readthedocs.io/en/latest/
 https://pypy.org/
 https://pyqtgraph.org/
 https://pyquil-docs.rigetti.com/
+https://pyro5.readthedocs.io/en/latest/
 https://pyro.ai/
 https://pysal.org/
 https://pyscaffold.org/en/stable/
@@ -66717,6 +66736,7 @@ https://qmazda.p.lodz.pl/
 https://qms.nextgis.com/
 https://qntm.org/clean
 https://qorvo.com/
+https://qrandom.io/
 https://qr.blinry.org/
 https://qrcode.com/en/
 https://qrcode.com/en/history/
@@ -66928,6 +66948,7 @@ https://quotes.cat-v.org/programming/
 https://quoteunquoteapps.com/courierprime/
 https://qupath.github.io/
 https://qutip.org/
+https://qutip.readthedocs.io/en/stable/
 https://quut.com/c/num-recipes-in-c.html
 https://qwant.com/
 https://qwenlm.github.io/
@@ -72668,6 +72689,7 @@ https://taylorfrancis.com/series/routledge-concise-grammars/766
 https://taylorfrancis.com/series/routledge-essential-grammars/SE0549
 https://taylorfrancis.com/series/routledge-grammar-workbooks/SE0519
 https://taylorfrancis.com/series/routledge-reference-grammars/RRG
+https://taylorfrancis.proxyucr.elogim.com/books/mono/10.1201/9781003287292/computational-mathematics-dimitrios-mitsotakis
 https://taz.de/
 https://tc.computer.org/tcmm/
 https://tc.computer.org/tcuarch/
@@ -78401,6 +78423,7 @@ https://www.nature.com/articles/385810a0
 https://www.nature.com/articles/d41586-025-02260-z
 https://www.nature.com/articles/s41567-025-02995-6
 https://www.nature.com/articles/s41586-024-08404-x
+https://www.nature.com/articles/s41586-025-09054-3
 https://www.nature.com/articles/s41586-025-09430-z
 https://www.nature.com/articles/s41928-025-01410-5
 https://www.nature.com/articles/s43247-025-02901-1
@@ -78432,6 +78455,7 @@ https://www.nist.gov/cybersecurity
 https://www.nist.gov/cybersecurity/what-post-quantum-cryptography
 https://www.nist.gov/itl
 https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices
+https://www.nist.gov/news-events/news/2025/06/nist-and-partners-use-quantum-mechanics-make-factory-random-numbers
 https://www.nist.gov/pqcrypto
 https://www.noamross.net/
 https://www.noamross.net/archives/2013-04-25-faster-talk/
@@ -78885,6 +78909,7 @@ https://www.quantamagazine.org/tag/qa/
 https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/
 https://www.quantamagazine.org/what-is-analog-computing-20240802/
 https://www.quantinuum.com/
+https://www.quantinuum.com/glossary-item/quantum-random-number-generator
 https://www.quantlibguide.com/
 https://www.quantlib.org/
 https://www.qubes-os.org/
@@ -79099,6 +79124,7 @@ https://www.routledge.com/Chapman--HallCRC-Texts-in-Statistical-Science/book-ser
 https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER
 https://www.routledge.com/Combinatorial-Algorithms-Generation-Enumeration-and-Search/Kreher-Stinson/p/book/9780367400156
 https://www.routledge.com/Combinatorial-Algorithms-Generation-Enumeration-and-Search/Kreher-Stinson/p/book/9780849339882
+https://www.routledge.com/Computational-Mathematics-An-introduction-to-Numerical-Analysis-and-Sc/Mitsotakis/p/book/9781032262390
 https://www.routledge.com/computer-science/software-engineering-systems-development
 https://www.routledge.com/computer-science/software-engineering-systems-development/programming-programming-languages
 https://www.routledge.com/Cryptography-Theory-and-Practice/Stinson-Paterson/p/book/9781032476049
@@ -79115,6 +79141,7 @@ https://www.routledge.com/Handbook-of-Data-Structures-and-Applications/Mehta-Sah
 https://www.routledge.com/Hierarchical-Modeling-and-Analysis-for-Spatial-Data/Banerjee-Carlin-Gelfand/p/book/9781439819173
 https://www.routledge.com/Interactive-Web-Based-Data-Visualization-with-R-plotly-and-shiny/Sievert/p/book/9781138331457
 https://www.routledge.com/Introduction-to-Compiler-Construction-in-a-Java-World/Campbell-Iyer-Akbal-Delibas/p/book/9781439860885
+https://www.routledge.com/Introduction-to-Engineering-and-Scientific-Computing-with-Python/Clough-Chapra/p/book/9781032188973
 https://www.routledge.com/Introduction-to-Enumerative-and-Analytic-Combinatorics/Bona/p/book/9781032302706
 https://www.routledge.com/Java-Programming-Exercises-Volume-One-Language-Fundamentals-and-Core-Concepts/Ullenboom/p/book/9781032579849
 https://www.routledge.com/Java-Programming-Exercises-Volume-One-Language-Fundamentals-and-Core-/Ullenboom/p/book/9781032579849
@@ -79214,6 +79241,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S1877584518301175
 https://www.sciencedirect.com/science/article/abs/pii/S2214212618307634
 https://www.sciencedirect.com/science/article/pii/0022000084900709
 https://www.sciencedirect.com/science/article/pii/S0167739X25002699
+https://www.sciencedirect.com/science/article/pii/S0370157325002704
 https://www.sciencedirect.com/science/article/pii/S037026931200857X
 https://www.sciencedirect.com/science/article/pii/S0370269312008581
 https://www.sciencedirect.com/science/article/pii/S0890540197926432
@@ -79415,6 +79443,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9781003029878/engineering-produ
 https://www.taylorfrancis.com/books/mono/10.1201/9781003068006/combinatorial-algorithms-donald-kreher-douglas-stinson
 https://www.taylorfrancis.com/books/mono/10.1201/9781003124924/outstanding-user-interfaces-shiny-david-granjon
 https://www.taylorfrancis.com/books/mono/10.1201/9781003222354/programming-language-explorations-ray-toal-sage-strieker-marco-berardini
+https://www.taylorfrancis.com/books/mono/10.1201/9781003256861/introduction-engineering-scientific-computing-python-david-clough-steven-chapra
 https://www.taylorfrancis.com/books/mono/10.1201/9781003276142/garbage-collection-handbook-richard-jones-antony-hosking-eliot-moss
 https://www.taylorfrancis.com/books/mono/10.1201/9781003454502/java-programming-exercises-christian-ullenboom?context=ubx&refId=d3147d29-4910-4549-81ee-ef242ba41a4e
 https://www.taylorfrancis.com/books/mono/10.1201/9781003461289/graphs-digraphs-gary-chartrand-heather-jordon-vincent-vatter-ping-zhang
@@ -79750,6 +79779,7 @@ https://www.wolfssl.com/
 https://www.worldhistory.org/
 https://www.worldofinteriors.com/
 https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire
+https://www.worldscientific.com/doi/abs/10.1142/S0219749916400098
 https://www.worldswritingsystems.org/
 https://www.wqed.org/
 https://www.wqxr.org/
