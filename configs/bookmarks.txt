@@ -13168,6 +13168,7 @@ https://docs.python.org/3/library/dataclasses.html
 https://docs.python.org/3/library/datatypes.html
 https://docs.python.org/3/library/datetime.html
 https://docs.python.org/3/library/decimal.html
+https://docs.python.org/3/library/development.html
 https://docs.python.org/3/library/difflib.html
 https://docs.python.org/3/library/dis.html
 https://docs.python.org/3/library/doctest.html
@@ -13200,6 +13201,7 @@ https://docs.python.org/3/library/pdb.html
 https://docs.python.org/3/library/pickle.html
 https://docs.python.org/3/library/pprint.html
 https://docs.python.org/3/library/pwd.html
+https://docs.python.org/3/library/pydoc.html
 https://docs.python.org/3/library/random.html
 https://docs.python.org/3/library/readline.html
 https://docs.python.org/3/library/re.html
@@ -13226,7 +13228,9 @@ https://docs.python.org/3/library/tkinter.html
 https://docs.python.org/3/library/tokenize.html
 https://docs.python.org/3/library/turtle.html
 https://docs.python.org/3/library/types.html
+https://docs.python.org/3/library/typing.html
 https://docs.python.org/3/library/unicodedata.html
+https://docs.python.org/3/library/unittest.html
 https://docs.python.org/3/library/weakref.html
 https://docs.python.org/3/library/zipfile.html
 https://docs.python.org/3/library/zlib.html
@@ -16285,6 +16289,7 @@ https://en.wikipedia.org/wiki/Architectural_mythology
 https://en.wikipedia.org/wiki/Architectural_pattern
 https://en.wikipedia.org/wiki/Architecture_domain
 https://en.wikipedia.org/wiki/Architecture_of_the_medieval_cathedrals_of_England
+https://en.wikipedia.org/wiki/Architecture_of_Windows_NT
 https://en.wikipedia.org/wiki/Archives_of_Terror
 https://en.wikipedia.org/wiki/Archive.today
 https://en.wikipedia.org/wiki/Arch_Linux
@@ -17770,6 +17775,7 @@ https://en.wikipedia.org/wiki/Brownian_motion
 https://en.wikipedia.org/wiki/Browser_engine
 https://en.wikipedia.org/wiki/Browser_security
 https://en.wikipedia.org/wiki/Browser_speed_test
+https://en.wikipedia.org/wiki/Browser_wars
 https://en.wikipedia.org/wiki/Broyden%27s_method
 https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm
 https://en.wikipedia.org/wiki/Bruce_Alberts
@@ -18598,6 +18604,7 @@ https://en.wikipedia.org/wiki/Category:DNS_software
 https://en.wikipedia.org/wiki/Category:Document-oriented_databases
 https://en.wikipedia.org/wiki/Category:Domain-specific_programming_languages
 https://en.wikipedia.org/wiki/Category:DOS_command_shells
+https://en.wikipedia.org/wiki/Category:DOS_drivers
 https://en.wikipedia.org/wiki/Category:DOS_games
 https://en.wikipedia.org/wiki/Category:DOS_software
 https://en.wikipedia.org/wiki/Category:Dutch_computer_scientists
@@ -19230,6 +19237,7 @@ https://en.wikipedia.org/wiki/Category:Public-key_cryptographers
 https://en.wikipedia.org/wiki/Category:Public-key_cryptography
 https://en.wikipedia.org/wiki/Category:Public_radio_in_the_United_States
 https://en.wikipedia.org/wiki/Category:Purchasing_power
+https://en.wikipedia.org/wiki/Category:Python_(programming_language)
 https://en.wikipedia.org/wiki/Category:Python_(programming_language)_libraries
 https://en.wikipedia.org/wiki/Category:Python_(programming_language)_scientific_libraries
 https://en.wikipedia.org/wiki/Category:Python_(programming_language)-scripted_video_games
@@ -20739,6 +20747,7 @@ https://en.wikipedia.org/wiki/Comparison_of_disk_encryption_software
 https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
 https://en.wikipedia.org/wiki/Comparison_of_DNS_server_software
 https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages
+https://en.wikipedia.org/wiki/Comparison_of_DOS_operating_systems
 https://en.wikipedia.org/wiki/Comparison_of_e-book_formats
 https://en.wikipedia.org/wiki/Comparison_of_EDA_software
 https://en.wikipedia.org/wiki/Comparison_of_e-readers
@@ -22324,6 +22333,7 @@ https://en.wikipedia.org/wiki/Design%E2%80%93Expert
 https://en.wikipedia.org/wiki/Design_language
 https://en.wikipedia.org/wiki/Design_matrix
 https://en.wikipedia.org/wiki/Design_of_experiments
+https://en.wikipedia.org/wiki/Design_of_the_FAT_file_system
 https://en.wikipedia.org/wiki/Design_Patterns
 https://en.wikipedia.org/wiki/Design_rationale
 https://en.wikipedia.org/wiki/Design_Science_License
@@ -23139,6 +23149,7 @@ https://en.wikipedia.org/wiki/Ed_Hawkins_(climatologist)
 https://en.wikipedia.org/wiki/Edinburgh_IMP
 https://en.wikipedia.org/wiki/Edit_distance
 https://en.wikipedia.org/wiki/Editorial_board
+https://en.wikipedia.org/wiki/Editor_war
 https://en.wikipedia.org/wiki/Ed_Krol
 https://en.wikipedia.org/wiki/Edmond_de_Belamy
 https://en.wikipedia.org/wiki/Edmond_Halley
@@ -24259,6 +24270,7 @@ https://en.wikipedia.org/wiki/Figshare
 https://en.wikipedia.org/wiki/Figure_of_merit
 https://en.wikipedia.org/wiki/Figure_of_the_Earth
 https://en.wikipedia.org/wiki/Fiji_(software)
+https://en.wikipedia.org/wiki/File_Allocation_Table
 https://en.wikipedia.org/wiki/File_archiver
 https://en.wikipedia.org/wiki/File:Arnold_B%C3%B6cklin_-_Die_Toteninsel_III_(Alte_Nationalgalerie,_Berlin).jpg
 https://en.wikipedia.org/wiki/File_Commander
@@ -24266,6 +24278,7 @@ https://en.wikipedia.org/wiki/File_descriptor
 https://en.wikipedia.org/wiki/File_Explorer
 https://en.wikipedia.org/wiki/File-hosting_service
 https://en.wikipedia.org/wiki/File_manager
+https://en.wikipedia.org/wiki/Filename
 https://en.wikipedia.org/wiki/Files_(Apple)
 https://en.wikipedia.org/wiki/Files_(Google)
 https://en.wikipedia.org/wiki/File:The_Red_Tower_by_Giorgio_de_Chirico.jpg
@@ -25440,6 +25453,7 @@ https://en.wikipedia.org/wiki/Global_Forecast_System
 https://en.wikipedia.org/wiki/Global_governance
 https://en.wikipedia.org/wiki/Global_illumination
 https://en.wikipedia.org/wiki/Global_Information_Assurance_Certification
+https://en.wikipedia.org/wiki/Global_interpreter_lock
 https://en.wikipedia.org/wiki/Global_Investigative_Journalism_Network
 https://en.wikipedia.org/wiki/Globalization_and_World_Cities_Research_Network
 https://en.wikipedia.org/wiki/Global_language_system
@@ -26596,6 +26610,7 @@ https://en.wikipedia.org/wiki/History_of_Soviet_Russia_and_the_Soviet_Union_(191
 https://en.wikipedia.org/wiki/History_of_statistics
 https://en.wikipedia.org/wiki/History_of_the_Balkans
 https://en.wikipedia.org/wiki/History_of_the_battery
+https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution
 https://en.wikipedia.org/wiki/History_of_the_Church%E2%80%93Turing_thesis
 https://en.wikipedia.org/wiki/History_of_the_Internet
 https://en.wikipedia.org/wiki/History_of_the_Internet_in_Russia
@@ -28157,6 +28172,7 @@ https://en.wikipedia.org/wiki/Java_Database_Connectivity
 https://en.wikipedia.org/wiki/Java_Data_Mining
 https://en.wikipedia.org/wiki/Java_Data_Objects
 https://en.wikipedia.org/wiki/Java_Development_Kit
+https://en.wikipedia.org/wiki/Javadoc
 https://en.wikipedia.org/wiki/JavaFX
 https://en.wikipedia.org/wiki/Java_GUI_for_R
 https://en.wikipedia.org/wiki/Java_logging_framework
@@ -32404,6 +32420,7 @@ https://en.wikipedia.org/wiki/Mr._Men
 https://en.wikipedia.org/wiki/Mr._Robot
 https://en.wikipedia.org/wiki/M._S._Bartlett
 https://en.wikipedia.org/wiki/MS-DOS
+https://en.wikipedia.org/wiki/MS-DOS_7
 https://en.wikipedia.org/wiki/MS_M%C3%BCnchen
 https://en.wikipedia.org/wiki/MSNBC
 https://en.wikipedia.org/wiki/MSN_Games
@@ -34528,6 +34545,7 @@ https://en.wikipedia.org/wiki/PDFtk
 https://en.wikipedia.org/wiki/PDF/UA
 https://en.wikipedia.org/wiki/PDF/VT
 https://en.wikipedia.org/wiki/PDF/X
+https://en.wikipedia.org/wiki/Pdoc
 https://en.wikipedia.org/wiki/PDP-1
 https://en.wikipedia.org/wiki/PDP-10
 https://en.wikipedia.org/wiki/PDP-11
@@ -34631,6 +34649,7 @@ https://en.wikipedia.org/wiki/Perl_Foundation
 https://en.wikipedia.org/wiki/Perlin_noise
 https://en.wikipedia.org/wiki/Perl_language_structure
 https://en.wikipedia.org/wiki/Perl_module
+https://en.wikipedia.org/wiki/Perl_Programming_Documentation
 https://en.wikipedia.org/wiki/Perma.cc
 https://en.wikipedia.org/wiki/Permafrost
 https://en.wikipedia.org/wiki/Permanent_(mathematics)
@@ -35834,6 +35853,7 @@ https://en.wikipedia.org/wiki/P_versus_NP_problem
 https://en.wikipedia.org/wiki/Pvlib_python
 https://en.wikipedia.org/wiki/PWB_shell
 https://en.wikipedia.org/wiki/PwC
+https://en.wikipedia.org/wiki/Pydoc
 https://en.wikipedia.org/wiki/Pylint
 https://en.wikipedia.org/wiki/Pylons_project
 https://en.wikipedia.org/wiki/PyMC
@@ -35852,6 +35872,7 @@ https://en.wikipedia.org/wiki/Pythagoreanism
 https://en.wikipedia.org/wiki/Pythia
 https://en.wikipedia.org/wiki/Python_Conference
 https://en.wikipedia.org/wiki/Python_Imaging_Library
+https://en.wikipedia.org/wiki/Python_Package_Index
 https://en.wikipedia.org/wiki/Python_(programming_language)
 https://en.wikipedia.org/wiki/Python_Software_Foundation
 https://en.wikipedia.org/wiki/Python_Software_Foundation_License
@@ -36320,6 +36341,7 @@ https://en.wikipedia.org/wiki/Realism_(international_relations)
 https://en.wikipedia.org/wiki/Reality_Labs
 https://en.wikipedia.org/wiki/Realization_(probability)
 https://en.wikipedia.org/wiki/Realme
+https://en.wikipedia.org/wiki/Real_mode
 https://en.wikipedia.org/wiki/Real_number
 https://en.wikipedia.org/wiki/Realpolitik
 https://en.wikipedia.org/wiki/Real_projective_space
@@ -41491,10 +41513,12 @@ https://en.wikipedia.org/wiki/UNIX_Network_Programming
 https://en.wikipedia.org/wiki/Unix_shell
 https://en.wikipedia.org/wiki/UNIX_System_V
 https://en.wikipedia.org/wiki/UnixWare
+https://en.wikipedia.org/wiki/Unix_wars
 https://en.wikipedia.org/wiki/Unknowability
 https://en.wikipedia.org/wiki/Unlicense
 https://en.wikipedia.org/wiki/UN/LOCODE
 https://en.wikipedia.org/wiki/Unreal_Engine
+https://en.wikipedia.org/wiki/Unreal_mode
 https://en.wikipedia.org/wiki/UN_Russian_Language_Day
 https://en.wikipedia.org/wiki/Unsharp_masking
 https://en.wikipedia.org/wiki/UN_Spanish_Language_Day
@@ -42330,10 +42354,13 @@ https://en.wikipedia.org/wiki/Wim_Cohen
 https://en.wikipedia.org/wiki/WinBUGS
 https://en.wikipedia.org/wiki/Window_function
 https://en.wikipedia.org/wiki/Window_function_(SQL)
+https://en.wikipedia.org/wiki/Windows_3.1
 https://en.wikipedia.org/wiki/Windows_Calculator
 https://en.wikipedia.org/wiki/Windows_File_Manager
 https://en.wikipedia.org/wiki/Windows_Hardware_Engineering_Conference
 https://en.wikipedia.org/wiki/Windows_IoT
+https://en.wikipedia.org/wiki/Windows_NT
+https://en.wikipedia.org/wiki/Windows_NT_3.1
 https://en.wikipedia.org/wiki/Windows_Package_Manager
 https://en.wikipedia.org/wiki/Windows_Presentation_Foundation
 https://en.wikipedia.org/wiki/Windows_Server
@@ -47592,6 +47619,7 @@ https://github.com/mit-han-lab/mcunet
 https://github.com/mit-han-lab/tinyml
 https://github.com/MithrilJS/mithril.js
 https://github.com/mitmproxy/mitmproxy
+https://github.com/mitmproxy/pdoc
 https://github.com/mit-pdos
 https://github.com/mit-pdos/biscuit
 https://github.com/mit-pdos/noria
@@ -48390,7 +48418,10 @@ https://github.com/Pyomo/PyomoGallery
 https://github.com/Pyomo/PyomoGallery/wiki
 https://github.com/pypa
 https://github.com/pypa/pip
+https://github.com/pypa/pipenv
+https://github.com/pypa/pipx
 https://github.com/pypa/virtualenv
+https://github.com/pypa/wheel
 https://github.com/py-pdf/pypdf
 https://github.com/pyproj4/pyproj
 https://github.com/PyPSA/PyPSA
@@ -48400,6 +48431,7 @@ https://github.com/pyRiemann/pyRiemann
 https://github.com/pysal/pysal
 https://github.com/pyscaffold/pyscaffold
 https://github.com/pytest-dev/pytest
+https://github.com/pytest-dev/pytest/
 https://github.com/python
 https://github.com/python/codespeed/
 https://github.com/python/cpython
@@ -49264,6 +49296,8 @@ https://github.com/testingisdocumenting/webtau
 https://github.com/testingisdocumenting/znai
 https://github.com/testng-team/testng
 https://github.com/textbrowser/dooble
+https://github.com/Textualize/rich
+https://github.com/Textualize/textual
 https://github.com/Textualize/toolong
 https://github.com/textX/textX
 https://github.com/TeXworks/texworks
@@ -51060,6 +51094,7 @@ https://gpuscore.com/benchmarks/gpuscore/
 https://gqlstandards.org/
 https://graal.cloud/
 https://graal.cloud/gdk/
+https://graalpy.org/
 https://graalvm.org/
 https://graceframework.org/
 https://gradientdescending.com/deep-neural-network-from-scratch-in-r/
@@ -64140,6 +64175,8 @@ https://packages.fedoraproject.org/
 https://packages.gentoo.org/
 https://packages.renjin.org/
 https://packages.termux.dev/
+https://packaging.python.org/
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
 https://packagist.org/
 https://packetizer.com/ipmc/h323_vs_sip/
 https://packetpushers.net/
@@ -64648,6 +64685,7 @@ https://pdl.cmu.edu/
 https://pdl.cmu.edu/index.shtml
 https://pdl.cmu.edu/PDL-FTP/Database/CMU-CS-23-144.pdf
 https://pdl.perl.org/
+https://pdoc.dev/
 https://pdos.csail.mit.edu/
 https://pdos.csail.mit.edu/6.1810/2022/labs/net.html
 https://pdos.csail.mit.edu/6.1810/2024/xv6.html
@@ -65291,6 +65329,7 @@ https://pinyin.info/chinese_characters/
 https://pinyin.info/news/
 https://pinyin.info/readings/texts/ideographic_myth.html
 https://piolabs.com/
+https://pipenv.pypa.io/en/latest/
 https://pipewire.org/
 https://piqnt.com/stage.js/
 https://piqueshow.com/home/2017/11/13/an-unbroken-seal-on-the-third-shrine-of-tutankhamuns-tomb-untouched-for-32-centuries
@@ -76999,6 +77038,7 @@ https://www.computerhistory.org/siliconengine/microprocessor-integrates-cpu-func
 https://www.computerhistory.org/timeline/1995/
 https://www.computerhistory.org/timeline/memory-storage/
 https://www.computerhope.com/
+https://www.computerhope.com/history/dos.htm
 https://www.computer.org/csdl/magazine/so
 https://www.computer.org/csdl/proceedings-article/sp/2025/223600a075/21B7Rj8C5lC
 https://www.computerworld.com/
@@ -78911,6 +78951,7 @@ https://www.pylint.org/
 https://www.pymc.io/
 https://www.pymc.io/welcome.html
 https://www.pyopenssl.org/en/latest/
+https://www.pypa.io/
 https://www.python-httpx.org/
 https://www.python.org/
 https://www.python.org/community/
@@ -79347,6 +79388,7 @@ https://www.space.com/
 https://www.spektrum.de/
 https://www.spglobal.com/spdji/en/index-family/equity/us-equity/
 https://www.spglobal.com/spdji/en/indices/equity/dow-jones-industrial-average/
+https://www.sphinx-doc.org/
 https://www.sphinx-doc.org/en/master/
 https://www.spiceworks.com/it-security/endpoint-security/articles/bluesnarfing-vs-bluejacking/
 https://www.spiegel.de/
@@ -79514,6 +79556,7 @@ https://www.teradata.com/
 https://www.tesselle.org/
 https://www.testmuai.com/
 https://www.textfiles.com/magazines/
+https://www.textualize.io/
 https://www.theatlantic.com/
 https://www.theatlantic.com/projects/beneath-the-cloud/
 https://www.theatlantic.com/technology/archive/2015/11/where-was-the-internet-born/413221/
