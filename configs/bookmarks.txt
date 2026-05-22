@@ -3128,6 +3128,7 @@ https://ast-grep.github.io/
 https://ast-grep.github.io/catalog/c/
 https://astian.org/
 https://astian.org/midori-browser/
+https://astral.sh/
 https://astree.ens.fr/
 https://astroautomata.com/SymbolicRegression.jl/dev/
 https://astro.build/
@@ -3948,6 +3949,7 @@ https://bibtex.com/s/bibliography-style-misc-apa/
 https://bibtex.eu/
 https://bibtex.org/
 https://bicc.de/
+https://bidict.readthedocs.io/en/main/
 https://bielik.ai/
 https://bigbookofr.com/
 https://bigdatachina.csis.org/measurement-muddle-chinas-gdp-growth-data-and-potential-proxies/
@@ -4302,6 +4304,8 @@ https://blog.fiff.de/
 https://blog.filippo.io/hi/
 https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/
 https://blog.filippo.io/the-ecb-penguin/
+https://blog.flipper.net/
+https://blog.flipper.net/flipper-one-we-need-your-help/
 https://blog.fogus.me/2012/07/25/some-lisp-books-and-then-some/
 https://blog.g3rt.nl/upgrade-your-ssh-keys.html
 https://blog.gaijinpot.com/
@@ -9473,6 +9477,7 @@ https://cyberciti.biz/faq/linux-find-windows-10-oem-product-key-command/
 https://cyberciti.biz/tips/compiling-linux-kernel-26.html
 https://cybercrime.de/
 https://cybercultural.com/
+https://cyberdeck.cafe/
 https://cyberdefenders.org/
 https://cybereason.com/blog
 https://cyber.gc.ca/en/
@@ -21690,6 +21695,7 @@ https://en.wikipedia.org/wiki/Cyanogen
 https://en.wikipedia.org/wiki/Cyanogen_chloride
 https://en.wikipedia.org/wiki/Cyber-arms_industry
 https://en.wikipedia.org/wiki/Cyberattack
+https://en.wikipedia.org/wiki/Cyberdeck
 https://en.wikipedia.org/wiki/Cyberethics
 https://en.wikipedia.org/wiki/Cybernetics
 https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine
@@ -44112,6 +44118,7 @@ https://flintlib.org
 https://flintlib.org/
 https://flintlib.org/doc/references.html
 https://flipboard.com/
+https://flipper.net/
 https://flipperzero.one/
 https://flockport.com/guides/automating-builds
 https://floklimm.github.io/
@@ -45398,6 +45405,7 @@ https://github.com/beejjorgensen/bgnet
 https://github.com/beemdevelopment/aegis
 https://github.com/beemdevelopment/Aegis
 https://github.com/bee-san/Ares
+https://github.com/bee-san/Ciphey
 https://github.com/bee-san/pyWhat
 https://github.com/begriffs/libc
 https://github.com/benchopt/benchopt
@@ -45725,6 +45733,7 @@ https://github.com/corkami/pocs
 https://github.com/cosai-oasis
 https://github.com/CosmiQ/solaris
 https://github.com/CosmosOS/Cosmos
+https://github.com/cossacklabs/themis
 https://github.com/coturn/coturn
 https://github.com/coursier/coursier
 https://github.com/cpitclaudel/company-coq/
@@ -46512,6 +46521,7 @@ https://github.com/google/filament
 https://github.com/google/flatbuffers
 https://github.com/google/flax
 https://github.com/google/fully-homomorphic-encryption
+https://github.com/google/fuzzbench
 https://github.com/google/fuzztest
 https://github.com/google/glog
 https://github.com/google/goexpect
@@ -46738,6 +46748,7 @@ https://github.com/hyphanet/fred
 https://github.com/hypotext/notation
 https://github.com/hypotext/notation/blob/master/README.md
 https://github.com/hypothesis/h
+https://github.com/HypothesisWorks/hypothesis
 https://github.com/hyrise/hyrise
 https://github.com/i2p/i2p.i2p
 https://github.com/IAIK/meltdown/blob/master/README.md
@@ -46837,6 +46848,7 @@ https://github.com/ivanr/bulletproof-tls
 https://github.com/ivanyu/awesome-deterministic-simulation-testing
 https://github.com/ivmai/bdwgc
 https://github.com/ivpn
+https://github.com/jab/bidict
 https://github.com/jackaudio/jack2
 https://github.com/jacktrip/jacktrip
 https://github.com/jacobian/infosec-engineering
@@ -47961,6 +47973,7 @@ https://github.com/openlayers/openlayers
 https://github.com/openmainframeproject/cobol-programming-course
 https://github.com/OpenMathLib/OpenBLAS
 https://github.com/open-metadata/OpenMetadata
+https://github.com/OpenMined/PySyft
 https://github.com/openml
 https://github.com/open-mmlab/mmpose
 https://github.com/OpenModelica/OpenModelica
@@ -48440,6 +48453,7 @@ https://github.com/quotient-im/Quaternion
 https://github.com/quozd/awesome-dotnet
 https://github.com/quozd/awesome-dotnet/blob/master/README.md
 https://github.com/qupath/qupath
+https://github.com/qutebrowser/qutebrowser
 https://github.com/qutip/qutip
 https://github.com/QwenLM/Qwen
 https://github.com/QwenLM/Qwen2.5-Omni
@@ -58537,6 +58551,7 @@ https://lucettebourdin.bandcamp.com/
 https://lucettebourdin.bandcamp.com/album/nordic-waves
 https://lucidchart.com/blog/how-to-tell-a-story-with-data
 https://luckymanekineko.wordpress.com/2012/10/01/left-paw-or-right-black-white-or-red-decoding-the-lucky-cat/
+https://lucumr.pocoo.org/
 https://ludeme.eu/
 https://ludumdare.com/
 https://ludwig.guru/s/along+the+lines+of
@@ -63442,6 +63457,7 @@ https://openmaptiles.org/
 https://openmbee.org/
 https://open-metadata.org/
 https://open-meteo.com/
+https://openmined.org/
 https://openml.org/
 https://openmmlab.com/
 https://openmodelica.org/
@@ -66512,6 +66528,7 @@ https://pybamm.org/
 https://pycon.asia/
 https://pycon.org/
 https://pycose.readthedocs.io/en/latest/
+https://pycqa.org/
 https://pycryptodome.org/
 https://pycryptodome.readthedocs.io/en/latest/src/introduction.html
 https://pycrypto.org/
@@ -76990,6 +77007,7 @@ https://www.computinghistory.org.uk/cgi/archive.pl?type=Books&platform=&publishe
 https://www.confluent.io/
 https://www.corej2eepatterns.com/
 https://www.corewars.org/
+https://www.cossacklabs.com/themis/
 https://www.counterpunch.org/
 https://www.cpan.org/
 https://www.cpan.org/modules/INSTALL.html
@@ -78304,6 +78322,7 @@ https://www.mediawiki.org/wiki/MediaWiki
 https://www.meilisearch.com/
 https://www.memorysafety.org/docs/memory-safety/
 https://www.mentofacturing.com/vincent/implementations.html
+https://www.mercurial-scm.org/
 https://www.mercurylang.org/
 https://www.metacritic.com/
 https://www.metal-archives.com/albums/Tristania/Widow%27s_Weeds/423
@@ -78887,9 +78906,11 @@ https://www.pulumi.com/
 https://www.puppet.com/
 https://www.purl.dev/
 https://www.pycryptodome.org/
+https://www.pycrypto.org/
 https://www.pylint.org/
 https://www.pymc.io/
 https://www.pymc.io/welcome.html
+https://www.pyopenssl.org/en/latest/
 https://www.python-httpx.org/
 https://www.python.org/
 https://www.python.org/community/
@@ -78913,6 +78934,7 @@ https://www.quantinuum.com/glossary-item/quantum-random-number-generator
 https://www.quantlibguide.com/
 https://www.quantlib.org/
 https://www.qubes-os.org/
+https://www.qutebrowser.org/
 https://www.rackspace.com/
 https://www.radare.org/
 https://www.rad.com/product/ethernet-access-devices-routers/etx-203ax-carrier-ethernet/
@@ -79343,6 +79365,7 @@ https://www.sprind.org/
 https://www.sprind.org/en/actions/projects/ulmann
 https://www.springer.com/
 https://www.springernature.com/
+https://www.sqlalchemy.org/
 https://www.sqlite.org/
 https://www.sqlite.org/csv.html
 https://www.sqlitetutorial.net/
