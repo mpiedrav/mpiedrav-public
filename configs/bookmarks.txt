@@ -12132,6 +12132,7 @@ https://dl.acm.org/doi/10.1145/3384613.3384640
 https://dl.acm.org/doi/10.1145/3385412.3386037
 https://dl.acm.org/doi/10.1145/3385658.3385668
 https://dl.acm.org/doi/10.1145/3386320
+https://dl.acm.org/doi/10.1145/3386331
 https://dl.acm.org/doi/10.1145/3386334
 https://dl.acm.org/doi/10.1145/3400903.3401691
 https://dl.acm.org/doi/10.1145/3406534
@@ -16510,6 +16511,7 @@ https://en.wikipedia.org/wiki/Assuwa
 https://en.wikipedia.org/wiki/Assyria
 https://en.wikipedia.org/wiki/Assyrian_people
 https://en.wikipedia.org/wiki/Astaroth
+https://en.wikipedia.org/wiki/Asterids
 https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
 https://en.wikipedia.org/wiki/Asteroids_(video_game)
 https://en.wikipedia.org/wiki/Astralwerks
@@ -17640,7 +17642,9 @@ https://en.wikipedia.org/wiki/Bosque_(programming_language)
 https://en.wikipedia.org/wiki/Boston
 https://en.wikipedia.org/wiki/Boston_Dynamics
 https://en.wikipedia.org/wiki/Boston_Latin_School
+https://en.wikipedia.org/wiki/Botanical_nomenclature
 https://en.wikipedia.org/wiki/Botan_(programming_library)
+https://en.wikipedia.org/wiki/Botany
 https://en.wikipedia.org/wiki/Botnet
 https://en.wikipedia.org/wiki/Bottom_type
 https://en.wikipedia.org/wiki/Bouncy_Castle_(cryptography)
@@ -21628,6 +21632,7 @@ https://en.wikipedia.org/wiki/Cubic_plane_curve
 https://en.wikipedia.org/wiki/Cuckoo_filter
 https://en.wikipedia.org/wiki/Cuckoo_hashing
 https://en.wikipedia.org/wiki/Cucurbita
+https://en.wikipedia.org/wiki/Cucurbitaceae
 https://en.wikipedia.org/wiki/CUDA
 https://en.wikipedia.org/wiki/CUDI
 https://en.wikipedia.org/wiki/Cuisenaire_rods
@@ -23733,6 +23738,7 @@ https://en.wikipedia.org/wiki/Euclidean_space
 https://en.wikipedia.org/wiki/Euclid_(programming_language)
 https://en.wikipedia.org/wiki/Euclid's_Elements
 https://en.wikipedia.org/wiki/Eudaimonia
+https://en.wikipedia.org/wiki/Eudicots
 https://en.wikipedia.org/wiki/EU_Digital_COVID_Certificate
 https://en.wikipedia.org/wiki/Eugene_Charniak
 https://en.wikipedia.org/wiki/Eugene_Dynkin
@@ -24017,6 +24023,7 @@ https://en.wikipedia.org/wiki/Exynos
 https://en.wikipedia.org/wiki/Eye_for_an_eye
 https://en.wikipedia.org/wiki/Ezra_Cornell
 https://en.wikipedia.org/wiki/EZTV
+https://en.wikipedia.org/wiki/Fabaceae
 https://en.wikipedia.org/wiki/Fabian_Society
 https://en.wikipedia.org/wiki/Fabrice_Bellard
 https://en.wikipedia.org/wiki/Facade_pattern
@@ -24043,6 +24050,7 @@ https://en.wikipedia.org/wiki/Factory_method_pattern
 https://en.wikipedia.org/wiki/Factotum_(software)
 https://en.wikipedia.org/wiki/Faculty_of_Engineering,_Lund_University
 https://en.wikipedia.org/wiki/Faddeeva_function
+https://en.wikipedia.org/wiki/Fagales
 https://en.wikipedia.org/wiki/Fahrenheit_451
 https://en.wikipedia.org/wiki/Failure_rate
 https://en.wikipedia.org/wiki/Fairchild_F8
@@ -24071,6 +24079,7 @@ https://en.wikipedia.org/wiki/Faltings%27s_theorem
 https://en.wikipedia.org/wiki/Famicom_Disk_System
 https://en.wikipedia.org/wiki/Family_of_curves
 https://en.wikipedia.org/wiki/Family_of_sets
+https://en.wikipedia.org/wiki/Family_(taxonomy)
 https://en.wikipedia.org/wiki/Family_tree_of_British_monarchs
 https://en.wikipedia.org/wiki/Family_tree_of_Russian_monarchs
 https://en.wikipedia.org/wiki/Fan_chart_(statistics)
@@ -24438,6 +24447,7 @@ https://en.wikipedia.org/wiki/Floris_Takens
 https://en.wikipedia.org/wiki/FLOSS_Manuals
 https://en.wikipedia.org/wiki/Flow-based_generative_model
 https://en.wikipedia.org/wiki/Flowchart
+https://en.wikipedia.org/wiki/Flowering_plant
 https://en.wikipedia.org/wiki/Flowgrind
 https://en.wikipedia.org/wiki/Flow_map
 https://en.wikipedia.org/wiki/Flow_(mathematics)
@@ -26354,6 +26364,7 @@ https://en.wikipedia.org/wiki/Hera
 https://en.wikipedia.org/wiki/Heracles
 https://en.wikipedia.org/wiki/Heraclitus
 https://en.wikipedia.org/wiki/Heraklion
+https://en.wikipedia.org/wiki/Herb
 https://en.wikipedia.org/wiki/Herbert_A._Simon
 https://en.wikipedia.org/wiki/Herbert_Goldstein
 https://en.wikipedia.org/wiki/Herbert_Marcuse
@@ -34117,6 +34128,7 @@ https://en.wikipedia.org/wiki/Outline_of_finance
 https://en.wikipedia.org/wiki/Outline_of_formal_science
 https://en.wikipedia.org/wiki/Outline_of_free_software
 https://en.wikipedia.org/wiki/Outline_of_geometry
+https://en.wikipedia.org/wiki/Outline_of_herbs_and_spices
 https://en.wikipedia.org/wiki/Outline_of_industrial_organization
 https://en.wikipedia.org/wiki/Outline_of_linear_algebra
 https://en.wikipedia.org/wiki/Outline_of_logic
@@ -34238,6 +34250,7 @@ https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana
 https://en.wikipedia.org/wiki/Palazzo_Orsini_(Bomarzo)
 https://en.wikipedia.org/wiki/Palembang
 https://en.wikipedia.org/wiki/Pale_Moon
+https://en.wikipedia.org/wiki/Paleobotany
 https://en.wikipedia.org/wiki/Paleoclimatology
 https://en.wikipedia.org/wiki/Paleo-European_languages
 https://en.wikipedia.org/wiki/Paleohispanic_languages
@@ -36990,6 +37003,8 @@ https://en.wikipedia.org/wiki/Root-mean-square_deviation
 https://en.wikipedia.org/wiki/Root_name_server
 https://en.wikipedia.org/wiki/Root_of_unity
 https://en.wikipedia.org/wiki/Rope_(data_structure)
+https://en.wikipedia.org/wiki/Rosaceae
+https://en.wikipedia.org/wiki/Rosales
 https://en.wikipedia.org/wiki/Rosalind_Franklin
 https://en.wikipedia.org/wiki/Rosa_Luxemburg
 https://en.wikipedia.org/wiki/Roscosmos
@@ -38489,6 +38504,7 @@ https://en.wikipedia.org/wiki/Sogou
 https://en.wikipedia.org/wiki/Sokal_affair
 https://en.wikipedia.org/wiki/Sokoban
 https://en.wikipedia.org/wiki/Sol-20
+https://en.wikipedia.org/wiki/Solanaceae
 https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory
 https://en.wikipedia.org/wiki/Solar_cell
 https://en.wikipedia.org/wiki/Solar_cycle
@@ -38759,6 +38775,7 @@ https://en.wikipedia.org/wiki/Spherical_trigonometry
 https://en.wikipedia.org/wiki/Spheroid
 https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)
 https://en.wikipedia.org/wiki/Sphinx_(search_engine)
+https://en.wikipedia.org/wiki/Spice
 https://en.wikipedia.org/wiki/SPICE
 https://en.wikipedia.org/wiki/Spice_Lisp
 https://en.wikipedia.org/wiki/SpiderMonkey
@@ -66911,6 +66928,7 @@ https://quantumcomputinginc.com/
 https://quantum.country/
 https://quantum.isogeny.org/
 https://quantum.microsoft.com/en-us/explore/concepts/what-is-quantum-computing
+https://quantumnumbers.anu.edu.au/
 https://quarkline.net/basez/
 https://quarkus.io/
 https://quartic-software.co.uk
@@ -78145,6 +78163,8 @@ https://www.jbang.dev/
 https://www.jedit.org/
 https://www.jedsoft.org/jed/
 https://www.jedsoft.org/slang/
+https://www.jeffgeerling.com/
+https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/
 https://www.jenkins.io/
 https://www.jetbrains.com/
 https://www.jetbrains.com/clion/
@@ -78268,6 +78288,7 @@ https://www.libtom.net/LibTomFloat/
 https://www.libtom.net/LibTomMath/
 https://www.libtom.net/LibTomPoly/
 https://www.libtom.net/TomsFastMath/
+https://www.libvips.org/
 https://www.lightningdesignsystem.com/
 https://www.lighttpd.net/
 https://www.linaro.org/
@@ -78351,6 +78372,7 @@ https://www.mathunion.org/
 https://www.math.uwaterloo.ca/~bico/
 https://www.math.uwaterloo.ca/tsp/
 https://www.math.uwaterloo.ca/tsp/data/
+https://www.mathworks.com/company/aboutus/founders/clevemoler.html
 https://www.maxar.com/
 https://www.maxar.com/open-data
 https://www.maxmind.com/
@@ -78484,6 +78506,7 @@ https://www.nature.com/articles/s41567-025-02995-6
 https://www.nature.com/articles/s41586-024-08404-x
 https://www.nature.com/articles/s41586-025-09054-3
 https://www.nature.com/articles/s41586-025-09430-z
+https://www.nature.com/articles/s41598-021-95388-7
 https://www.nature.com/articles/s41928-025-01410-5
 https://www.nature.com/articles/s43247-025-02901-1
 https://www.nature.com/articles/s44384-026-00049-6
@@ -78967,7 +78990,11 @@ https://www.quantamagazine.org/chiral-key-found-to-origin-of-life-20141126/
 https://www.quantamagazine.org/climate-physicists-face-the-ghosts-in-their-machines-clouds-20260220/
 https://www.quantamagazine.org/computer-science/
 https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/
+https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/
+https://www.quantamagazine.org/tag/cryptography/
 https://www.quantamagazine.org/tag/qa/
+https://www.quantamagazine.org/tag/quantum-cryptography/
+https://www.quantamagazine.org/tag/quantum-physics/
 https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/
 https://www.quantamagazine.org/what-is-analog-computing-20240802/
 https://www.quantinuum.com/
@@ -79317,6 +79344,7 @@ https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-qu
 https://www.scientificamerican.com/article/how-to-identify-a-prime-number-without-a-computer/
 https://www.scientificamerican.com/article/lifes-evil-twins-mirror-cells-could-doom-earth-if-scientists-dont-stop-them/
 https://www.scientificamerican.com/article/the-science-behind-sudoku/
+https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/
 https://www.scientificamerican.com/mathematics/
 https://www.scmp.com/
 https://www.scons.org/
