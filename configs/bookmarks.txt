@@ -79201,6 +79201,7 @@ https://www.rollingstone.com/
 https://www.romanroads.org/
 https://www.routledge.com/A-Cultural-History-of-Early-Modern-English-Cryptography-Manuals/Ellison/p/book/9780367139339
 https://www.routledge.com/Adversarial-Risk-Analysis/Banks-Aliaga-Insua/p/book/9781498712392
+https://www.routledge.com/AK-PetersCRC-Recreational-Mathematics-Series/book-series/RECMATH
 https://www.routledge.com/Analog-Synthesizers-Understanding-Performing-Buying-From-the-Legacy-of-Moog-to-Software-Synthesis/Jenkins/p/book/9781138319363
 https://www.routledge.com/Analysis-On-Manifolds/Munkres/p/book/9780201315967
 https://www.routledge.com/A-Survey-of-Modern-Algebra/Birkhoff-MacLane/p/book/9781568814544
@@ -79562,6 +79563,7 @@ https://www.taylorfrancis.com/collections/data-science-curated-2-0/ubxa124
 https://www.taylorfrancis.com/collections/data-science-curated/ubxa05
 https://www.taylorfrancis.com/collections/statsnetbase/wb020
 https://www.taylorfrancis.com/series
+https://www.taylorfrancis.com/series/ak-peters-crc-recreational-mathematics-series-colm-mulcahy-jun-mitani-carolyn-yackel-robert-fathauer-snezana-lawrence-peter-winkler/RECMATH
 https://www.taylorfrancis.com/series/chapman-hall-crc-computer-information-science-series-sartaj-sahni/CHCOMINFSCI
 https://www.taylorfrancis.com/series/chapman-hall-crc-cryptography-network-security-series-douglas-stinson-jonathan-katz/CHCRYNETSEC
 https://www.taylorfrancis.com/series/chapman-hall-crc-data-science-series/CHDSS
