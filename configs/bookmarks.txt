@@ -43625,6 +43625,7 @@ https://events.ccc.de/congress/2005/fahrplan/events/559.en.html
 https://events.ccc.de/congress/2023/infos/startpage.html
 https://events.linuxfoundation.org/
 https://evert.meulie.net/2011/12/01/active-gopher-servers/
+https://evervault.com/papers
 https://every-layout.dev/
 https://everything.curl.dev/
 https://everytimezone.com/
@@ -74909,6 +74910,8 @@ https://veripool.org/verilator/
 https://verisign.com/
 https://verizoninternet.com/bookmark/how-wifi-works/
 https://vern.cc/
+https://veronicaexplains.net/
+https://veronicaexplains.net/my-first-writerdeck/
 https://versionmuseum.com/
 https://versionsof.net/
 https://versionsof.net/core/
@@ -79880,6 +79883,7 @@ https://www.worldswritingsystems.org/
 https://www.wqed.org/
 https://www.wqxr.org/
 https://www.wqxr.org/streams/
+https://www.writerdeck.org/
 https://www.wunc.org/
 https://www.xda-developers.com/
 https://www.xda-developers.com/linux-distros-built-for-privacy/
