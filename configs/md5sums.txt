@@ -1,4 +1,4 @@
-538967badbec1367ef14eb73b55b4be6  /home/mpiedrav/books/Bishop - Pattern Recognition and Machine Learning - Springer - 2006.pdf
+42aefaa7b61b6197d5269544a7e3f9bd  /home/mpiedrav/books/Bishop and Bishop - Deep Learning - Springer - 2024.pdf
 102effe6da23eb8e62cd121608acc73b  /home/mpiedrav/books/Cormen, Leiserson, Rivest, and Stein - Introduction to Algorithms - The MIT Press - 2022.pdf
 66e0d283747c7e7cf3dbc78ecbf600b1  /home/mpiedrav/books/Hastie, Tibshirani, and Friedman - The Elements of Statistical Learning - Springer - 2009.pdf
 7d5dc1756540342f85fe9e259a27ccdb  /home/mpiedrav/books/Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf

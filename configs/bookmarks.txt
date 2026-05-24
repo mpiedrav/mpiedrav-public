@@ -420,7 +420,9 @@ https://advait.org/
 https://advancedsqlpuzzles.com/
 https://advances-in-vision.github.io/
 https://advances.realtimerendering.com/
+https://adversarial-ml-tutorial.org/
 https://adversarial-robustness-toolbox.org/
+https://adversarial-robustness-toolbox.readthedocs.io/
 https://advgrouptheory.com/journal/
 https://advintel.io/post/discontinued-the-end-of-conti-s-brand-marks-new-chapter-for-cybercrime-landscape
 https://adv-r.hadley.nz/
@@ -2333,6 +2335,7 @@ https://arxiv.org/abs/2010.00506
 https://arxiv.org/abs/2010.05234
 https://arxiv.org/abs/2010.08678
 https://arxiv.org/abs/2010.08895
+https://arxiv.org/abs/2010.09670
 https://arxiv.org/abs/2010.11267
 https://arxiv.org/abs/2010.11929
 https://arxiv.org/abs/2011.00583
@@ -2629,6 +2632,7 @@ https://arxiv.org/abs/2312.08499
 https://arxiv.org/abs/2312.10035
 https://arxiv.org/abs/2312.10046
 https://arxiv.org/abs/2312.10256
+https://arxiv.org/abs/2312.10911
 https://arxiv.org/abs/2312.10997
 https://arxiv.org/abs/2312.11122
 https://arxiv.org/abs/2312.11754
@@ -45676,6 +45680,7 @@ https://github.com/cksystemsteaching/selfie
 https://github.com/claceio/clace
 https://github.com/clasp-developers/clasp
 https://github.com/cleanlab/cleanlab
+https://github.com/cleverhans-lab/cleverhans
 https://github.com/ClickHouse/ClickBench
 https://github.com/ClickHouse/ClickHouse
 https://github.com/ClickHouse/ClickHouse/
@@ -47271,6 +47276,8 @@ https://github.com/leonardomso/33-js-concepts/blob/master/README.md
 https://github.com/lessthanoptimal/BoofCV
 https://github.com/letsencrypt/boulder
 https://github.com/LewisJEllis/awesome-lua
+https://github.com/lfai
+https://github.com/lfai/lfai-landscape
 https://github.com/lfortran/lfortran
 https://github.com/lgg/awesome-keepass
 https://github.com/liabru/matter-js
@@ -48689,6 +48696,7 @@ https://github.com/robjhyndman/fma
 https://github.com/robjhyndman/forecast
 https://github.com/robjhyndman/tsfeatures
 https://github.com/robpike/ivy
+https://github.com/RobustBench/robustbench
 https://github.com/rochus-keller/Simula
 https://github.com/RocketChat/Rocket.Chat
 https://github.com/roc-lang/roc
@@ -49563,6 +49571,10 @@ https://github.com/triska/the-power-of-prolog
 https://github.com/troglobit
 https://github.com/troglobit/mg
 https://github.com/troglobit/MicroEMACS
+https://github.com/Trusted-AI
+https://github.com/Trusted-AI/adversarial-robustness-toolbox
+https://github.com/Trusted-AI/AIF360
+https://github.com/Trusted-AI/AIX360
 https://github.com/tryghost/ghost
 https://github.com/TryGhost/Ghost
 https://github.com/tsenart/vegeta
@@ -68066,6 +68078,7 @@ https://robotsguide.com/
 https://robotsguide.com/robots/universal
 https://robots.ox.ac.uk/
 https://robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html
+https://robustbench.github.io/
 https://roche.com/sustainability/what_we_do/for_communities_and_environment/philanthropy/science_education/pathways.htm
 https://ro-che.info/articles/2017-08-20-understanding-ans
 https://rochester.edu/newscenter/opinion-russias-october-revolution-not-marx-mind-279962/
@@ -69460,6 +69473,7 @@ https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_gabor
 https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_glcm.html
 https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_local_binary_pattern.html
 https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_shape_index.html
+https://scikit-learn.org/
 https://scikit-learn.org/stable/
 https://scikit-learn.org/stable/api/sklearn.ensemble.html
 https://scikit-learn.org/stable/api/sklearn.gaussian_process.html
@@ -69984,6 +69998,7 @@ https://shattered.io/
 https://shawnleezx.github.io/blog/2015/09/07/on-linux-laptop-battery/
 https://shd.mit.edu/home/
 https://sheffield.ac.uk/cs
+https://sheffieldml.github.io/
 https://shelfjoy.com/shelfjoy/alan-kay-from-viewpoints-research-institute-recommends-his-reading-list-for-beginners
 https://shell.duckdb.org/
 https://shells.com/l/en-US/
@@ -79584,6 +79599,7 @@ https://www.telcomhistory.org/
 https://www.telediario.cr/
 https://www.telepolis.de/
 https://www.teletica.com/
+https://www.tensorflow.org/
 https://www.teradata.com/
 https://www.tesselle.org/
 https://www.testmuai.com/
