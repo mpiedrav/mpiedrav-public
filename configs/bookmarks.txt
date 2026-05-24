@@ -634,6 +634,7 @@ https://airbyte.com/
 https://airc.nist.gov/home
 https://aircrack-ng.org/
 https://airflow.apache.org/
+https://airflow.apache.org/use-cases/etl_analytics/
 https://airplanes.live/
 https://airqualitystripes.info/
 https://airsnarf.shmoo.com/
@@ -2037,6 +2038,7 @@ https://arxiv.org/abs/1410.5401
 https://arxiv.org/abs/1410.8001
 https://arxiv.org/abs/1411.4038
 https://arxiv.org/abs/1411.4958
+https://arxiv.org/abs/1412.6572
 https://arxiv.org/abs/1412.6980
 https://arxiv.org/abs/1502.05767
 https://arxiv.org/abs/1503.02406
@@ -2815,6 +2817,7 @@ https://arxiv.org/abs/2505.04588
 https://arxiv.org/abs/2505.15917
 https://arxiv.org/abs/2506.07838
 https://arxiv.org/abs/2506.08872
+https://arxiv.org/abs/2506.13024
 https://arxiv.org/abs/2508.03016
 https://arxiv.org/abs/2511.03298
 https://arxiv.org/abs/cs/0010019
@@ -3193,6 +3196,8 @@ https://atlas.cern/Resources/Fact-sheets
 https://atlas.cern/Resources/Opendata
 https://atlas.cid.harvard.edu/
 https://atlas.co/
+https://atlas.mitre.org/
+https://atlas.mitre.org/matrices/ATLAS
 https://atlasobscura.com/articles/best-superstores-architecture
 https://atlasobscura.com/articles/blankets-summer-hot
 https://atlasobscura.com/articles/deep-roots-italian-song-sounds-like-english-american-medieval-comedy-nonsense
@@ -4364,6 +4369,7 @@ https://blog.jetbrains.com/rust/2025/05/13/is-rust-the-future-of-programming/
 https://blog.jetbrains.com/security/
 https://blog.jgc.org/
 https://blog.jgc.org/2010/06/facebooks-dkim-rsa-key-should-be.html
+https://blog.jgc.org/2023/07/how-to-beat-adaptivebayesian-spam.html
 https://blog.jgc.org/2023/11/my-primality-testing-code-is-6x-faster.html
 https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html
 https://blog.jonlu.ca/posts/the-federalist-papers-author-identification-through-k-means-clustering
@@ -10125,12 +10131,6 @@ https://decision-procedures.org/toc/
 https://de-cix.net/
 https://deck.gl/
 https://deckgl.readthedocs.io/
-https://airflow.apache.org/use-cases/etl_analytics/
-https://airflow.apache.org/
-https://github.com/spotify/luigi
-https://www.bonobo-project.org/
-https://github.com/topics/machine-learning
-https://github.com/topics/data-science
 https://deckofcardsapi.com/
 https://deck-of-cards.js.org/
 https://de-crypt.org/
@@ -12077,6 +12077,7 @@ https://dl.acm.org/doi/10.1145/3076253
 https://dl.acm.org/doi/10.1145/3077136.3080789
 https://dl.acm.org/doi/10.1145/3079856.3080246
 https://dl.acm.org/doi/10.1145/312129.312274
+https://dl.acm.org/doi/10.1145/3134599
 https://dl.acm.org/doi/10.1145/3136014.3136031
 https://dl.acm.org/doi/10.1145/3158154
 https://dl.acm.org/doi/10.1145/3158668
@@ -30677,6 +30678,7 @@ https://en.wikipedia.org/wiki/Lists_of_holidays
 https://en.wikipedia.org/wiki/Lists_of_integrals
 https://en.wikipedia.org/wiki/Lists_of_mathematics_topics
 https://en.wikipedia.org/wiki/Lists_of_network_protocols
+https://en.wikipedia.org/wiki/Lists_of_open-source_artificial_intelligence_software
 https://en.wikipedia.org/wiki/Lists_of_operas
 https://en.wikipedia.org/wiki/Lists_of_people_who_disappeared
 https://en.wikipedia.org/wiki/Lists_of_programming_languages
@@ -32261,6 +32263,7 @@ https://en.wikipedia.org/wiki/Molecular_sieve
 https://en.wikipedia.org/wiki/Molecule_mining
 https://en.wikipedia.org/wiki/Mollifier
 https://en.wikipedia.org/wiki/Molly_Millions
+https://en.wikipedia.org/wiki/Moltbook
 https://en.wikipedia.org/wiki/Molten-salt_battery
 https://en.wikipedia.org/wiki/Moment-generating_function
 https://en.wikipedia.org/wiki/Moment_(mathematics)
@@ -33723,6 +33726,7 @@ https://en.wikipedia.org/wiki/OpenBUGS
 https://en.wikipedia.org/wiki/Open_Camera
 https://en.wikipedia.org/wiki/Open_Chemistry
 https://en.wikipedia.org/wiki/OpenCL
+https://en.wikipedia.org/wiki/OpenClaw
 https://en.wikipedia.org/wiki/Open_collector
 https://en.wikipedia.org/wiki/Open_Computing_Facility
 https://en.wikipedia.org/wiki/OpenConf
@@ -47982,6 +47986,7 @@ https://github.com/openbsd/src/blob/master/sys/crypto/siphash.h
 https://github.com/openbsd/src/blob/master/usr.bin/nc/netcat.c
 https://github.com/OpenChemistry/chemicaljson
 https://github.com/opencitymodel/opencitymodel
+https://github.com/openclaw/openclaw
 https://github.com/opencollab/arpack-ng
 https://github.com/opencontainers/runc
 https://github.com/opencpu/opencpu
@@ -49105,6 +49110,7 @@ https://github.com/sphinxsearch/sphinx
 https://github.com/SpiderLabs/ModSecurity
 https://github.com/splintchecker/splint
 https://github.com/spotify/annoy
+https://github.com/spotify/luigi
 https://github.com/spotify/sparkey
 https://github.com/spring-projects/spring-ai
 https://github.com/spring-projects/spring-authorization-server
@@ -49436,6 +49442,7 @@ https://github.com/topics/ctf-tools
 https://github.com/topics/dancing-links
 https://github.com/topics/database
 https://github.com/topics/data-labeling
+https://github.com/topics/data-science
 https://github.com/topics/debugger
 https://github.com/topics/decryption
 https://github.com/topics/dependent-types
@@ -49465,6 +49472,7 @@ https://github.com/topics/lisp
 https://github.com/topics/logic-programming
 https://github.com/topics/logic-programming?l=c%2B%2B
 https://github.com/topics/lua
+https://github.com/topics/machine-learning
 https://github.com/topics/malloc
 https://github.com/topics/math
 https://github.com/topics/matrix-exponentiation
@@ -56269,6 +56277,7 @@ https://link.springer.com/article/10.1007/s10676-024-09782-6
 https://link.springer.com/article/10.1007/s10708-022-10663-y?fromPaywallRec=false
 https://link.springer.com/article/10.1007/s10714-022-02957-w
 https://link.springer.com/article/10.1007/s10955-022-02871-0
+https://link.springer.com/article/10.1007/s10994-010-5207-6
 https://link.springer.com/article/10.1007/s11047-022-09913-2
 https://link.springer.com/article/10.1007/s11063-006-9013-x
 https://link.springer.com/article/10.1007/s11081-017-9366-1
@@ -76770,6 +76779,7 @@ https://www.bluequbit.io/quantum-computing-companies
 https://www.bmftr.bund.de/
 https://www.bmftr.bund.de/DE/Home/home_node.html
 https://www.bnlearn.com/
+https://www.bonobo-project.org/
 https://www.bookstackapp.com/
 https://www.boost.org/
 https://www.boost.org/doc/libs/1_89_0/libs/beast/doc/html/index.html
@@ -78925,6 +78935,7 @@ https://www.pouet.net/
 https://www.powerdns.com/
 https://www.pracdata.io/
 https://www.pracdata.io/p/open-source-data-engineering-landscape-2025
+https://www.practical-devsecops.com/mitre-atlas-framework-guide-securing-ai-systems/
 https://www.premium-minds.com/
 https://www.primefaces.org/
 https://www.princexml.com/
