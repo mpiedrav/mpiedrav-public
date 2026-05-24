@@ -1,50 +1,5 @@
-a550e437f9d237ac5050a034199d54a4  books/courant/Pólya und Szegő - Aufgaben und Lehrsätze aus der Analysis, Band 1 - Springer - 1970.pdf
-6c6bb7b6e894da02a0b1a4cf5852bda9  books/courant/Knopp - Theorie und Anwendung der unendlichen Reihen - Springer - 1996.pdf
-764a43a5d3de6b2e8b37da24bdb8fe3f  books/courant/van der Waerden - Algebra 1 - Springer - 1993.pdf
-3a1b9106edc7569c36a91981e67d8f1a  books/courant/Hilbert und Cohn-Vossen - Anschauliche Geometrie - Springer - 1996.pdf
-0d5ee8303a84ba724999db429c285ae9  books/courant/Courant - Vorlesungen über Differential- und Integralrechnung, Band 2 - Springer - 1972.pdf
-fe9038b48c21c75985f10d8ce6ac44ac  books/courant/Courant und Hilbert - Methoden der mathematischen Physik - Springer - 1993.pdf
-1de36363f4fa4bf41d61617104c9e87e  books/courant/Courant - Vorlesungen über Differential- und Integralrechnung, Band 1 - Springer - 1971.pdf
-1e69ac821fa49b57376f30c37050047b  books/courant/Hurwitz - Vorlesungen über allgemeine Funktionentheorie und elliptische Funktionen - Springer - 2000.pdf
-cb5f0f7d981b9b6b3c72e2cd45c203f9  books/courant/van der Waerden - Algebra 2 - Springer - 1993.pdf
-15aec865b9b439a6aabba21530017f40  books/courant/Pólya und Szegő - Aufgaben und Lehrsätze aus der Analysis, Band 2 - Springer - 1971.pdf
-f7288aa468a731c468d80f6c8cba257f  books/datascience/Witten, Frank, Hall, and Pal - Data Mining - Morgan Kaufmann - 2017.pdf
-42aefaa7b61b6197d5269544a7e3f9bd  books/datascience/Bishop and Bishop - Deep Learning - Springer - 2024.pdf
-7ea8b6552592a7c2096ee3ebcc3fb4bf  books/datascience/Silberschatz, Korth, and Sudarshan - Database System Concepts - McGraw-Hill - 2020.pdf
-9f9b32db687e6c13a941acc13423d299  books/datascience/Kleppmann and Riccomini - Designing Data-Intensive Applications - O_Reilly - 2026.pdf
-7a18ebc149dea96a4345b3b3c1c451ab  books/datascience/Steven S. Skiena - The Data Science Design Manual (2017, Springer) - libgen.li.pdf
-90c930779c8f928df6ff4481fc59f9a3  books/datascience/Han, Pei, and Tong - Data Mining - Morgan Kaufmann - 2023.pdf
-beb01dc946f5aee6cd4c8ab504aedcd1  books/datascience/Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - O_Reilly - 2023.pdf
-385782cf8b38137659c865ae61251601  books/datascience/Elmasri and Navathe - Fundamentals of Database Systems - Pearson - 2016.pdf
-fe2799007bc57cbfd45809344399721f  books/datascience/McKinney - Python for Data Analysis - O_Reilly - 2022.pdf
-66e0d283747c7e7cf3dbc78ecbf600b1  books/datascience/Hastie, Tibshirani, and Friedman - The Elements of Statistical Learning - Springer - 2009.pdf
-a971124643304708c1a6066ec28438eb  books/cryptology/Stinson and Paterson - Cryptography - CRC Press - 2019.pdf
-7d5dc1756540342f85fe9e259a27ccdb  books/cryptology/Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
-9c326aad403d438ed5c297e059ed4d90  books/cryptology/Goldreich - Foundations of Cryptography 1 - Cambridge University Press - 2004.pdf
-ace4de942d037de8ea5835bc9fbe57cd  books/cryptology/Aumasson - Serious Cryptography - No Starch Press - 2025.pdf
-dfe908164ee18908e61ce52f0cca8d9c  books/cryptology/Paar, Pelzl, and Güneysu - Understanding Cryptography - Springer - 2024.pdf
-7f77f131e06992be50397be9b4a3b64d  books/cryptology/Schneier - Applied Cryptography - Wiley - 1996.pdf
-99c9a496c8c9b85c816053a175277250  books/cryptology/Dunin and Schmeh - Codebreaking - No Starch Press - 2023.pdf
-c0fd5bfe6d0a8fa375777bf9b4e81550  books/cryptology/Goldreich - Foundations of Cryptography 2 - Cambridge University Press - 2004.pdf
-9bff04425adf9ec2018dddebf35de652  books/cryptology/Bauer - Decrypted Secrets - Springer - 2007.pdf
-43dc9e0485c6bb8d1f4a1da4187fbab4  books/cryptology/Menezes, van Oorschot, and Vanstone - Handbook of Applied Cryptography - CRC Press - 1997.pdf
-3c5e5ba6627031aa1db00a44f1bf5fc1  books/knuth/Knuth - Computers and Typesetting B - Addison-Wesley - 2021.pdf
-25895c809caa7df453f6768aaa01d2cf  books/knuth/Knuth - The Art of Computer Programming 3 - Addison-Wesley - 1998.pdf
-dae73c7848f87fab19a5e80723507da5  books/knuth/Knuth - The Art of Computer Programming 2 - Addison-Wesley - 1998.pdf
-f2637a0dd548c819d4500220806283ce  books/knuth/Knuth - The Art of Computer Programming 1 - Addison-Wesley - 1997.pdf
-a78ec4f7942cbd62328060ac7a8360bf  books/knuth/Knuth - The Art of Computer Programming 4B - Addison-Wesley - 2023.pdf
-0e044c668fcb6392577a3211cdd499c4  books/knuth/Knuth - Computers and Typesetting E - Addison-Wesley - 2021.pdf
-697a7306ff714bee8c8c8e2e31bd471e  books/knuth/Knuth - The Art of Computer Programming 4A - Addison-Wesley - 2011.pdf
-b2d9500f89a7dbe5620217b95215feb8  books/knuth/Knuth - Computers and Typesetting D - Addison-Wesley - 2021.pdf
-24698ee5bef9ece2dd07ecf7972c2afe  books/knuth/Knuth - Computers and Typesetting A - Addison-Wesley - 2021.pdf
-236275a6c8149fb777db5b0168800231  books/knuth/Knuth - Computers and Typesetting C - Addison-Wesley - 2021.pdf
-102effe6da23eb8e62cd121608acc73b  books/computing/Cormen, Leiserson, Rivest, and Stein - Introduction to Algorithms - The MIT Press - 2022.pdf
-7312960d0fb110104ea01347f30cc98a  books/computing/Silberschatz, Galvin, and Gagne - Operating System Concepts - Wiley - 2018.pdf
-373c67b0c5e22c9b92b1d8facdc47e68  books/computing/Patterson and Hennessy - Computer Architecture and Design - Morgan Kaufmann - 2021.pdf
-a75db603342da398d61868404be3f176  books/computing/Tanenbaum and Bos - Modern Operating Systems - Pearson - 2023.pdf
-c7ead738b08913984e424bef03fcab0c  books/computing/Stroustrup - The C++ Programming Language - Addison-Wesley - 2013.pdf
-fb25c0a3e04f12f61b5db0eb0426dbbf  books/computing/Skiena - The Algorithm Design Manual - Springer - 2020.pdf
-c5de86c5b4441595d45ecc7110b6506e  books/computing/Tanenbaum, Feamster, and Wetherall - Computer Networks - Pearson - 2021.pdf
-58734dae75228cd8ccf1be995da2893a  books/computing/Hennessy and Patterson - Computer Architecture - Morgan Kaufmann - 2019.pdf
-5bd5e097958bc8e8a15a4de99e62921c  books/computing/Scott - Programming Language Pragmatics - Morgan Kaufmann - 2016.pdf
-8029c566492118e1baebc10a7d9c1ab2  books/computing/Cooper and Torczon - Engineering a Compiler - Morgan Kaufmann - 2023.pdf
+538967badbec1367ef14eb73b55b4be6  /home/mpiedrav/books/Bishop - Pattern Recognition and Machine Learning - Springer - 2006.pdf
+66e0d283747c7e7cf3dbc78ecbf600b1  /home/mpiedrav/books/Hastie, Tibshirani, and Friedman - The Elements of Statistical Learning - Springer - 2009.pdf
+dfe908164ee18908e61ce52f0cca8d9c  /home/mpiedrav/books/Paar, Pelzl, and Güneysu - Understanding Cryptography - Springer - 2024.pdf
+fb25c0a3e04f12f61b5db0eb0426dbbf  /home/mpiedrav/books/Skiena - The Algorithm Design Manual - Springer - 2020.pdf
+7a18ebc149dea96a4345b3b3c1c451ab  /home/mpiedrav/books/Skiena - The Data Science Design Manual - Springer - 2017.pdf
