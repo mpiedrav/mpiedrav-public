@@ -1,0 +1,53 @@
+/home/mpiedrav/books:
+cryptology
+grundlehren
+informatics
+physik
+
+/home/mpiedrav/books/cryptology:
+Aumasson - Serious Cryptography - No Starch - 2025.pdf
+Bauer - Decrypted Secrets - Springer - 2007.pdf
+Boura and Naya-Plasencia - Symmetric Cryptography 1 - Wiley - 2023.pdf
+Boura and Naya-Plasencia - Symmetric Cryptography 2 - Wiley - 2023.pdf
+Dunin and Schmeh - Codebreaking - No Starch - 2023.pdf
+Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
+Menezes, van Oorschot, and Vanstone - Handbook of Applied Cryptography - CRC Press - 1997.pdf
+Pointcheval - Asymmetric Cryptography - Wiley - 2022.pdf
+Schneier - Applied Cryptography - Wiley - 1996.pdf
+Stinson and Paterson - Cryptography - CRC Press - 2019.pdf
+
+/home/mpiedrav/books/grundlehren:
+Courant und Hilbert - Methoden der mathematischen Physik - Springer - 1993.pdf
+Courant - Vorlesungen über Differential- und Integralrechnung, Band 1 - Springer - 1971.pdf
+Courant - Vorlesungen über Differential- und Integralrechnung, Band 2 - Springer - 1972.pdf
+Hilbert und Cohn-Vossen - Anschauliche Geometrie - Springer - 1996.pdf
+Hurwitz - Vorlesungen über allgemeine Funktionentheorie und elliptische Funktionen - Springer - 2000.pdf
+Knopp - Theorie und Anwendung der unendlichen Reihen - Springer - 1996.pdf
+Pólya und Szegő - Aufgaben und Lehrsätze aus der Analysis, Band 1 - Springer - 1970.pdf
+Pólya und Szegő - Aufgaben und Lehrsätze aus der Analysis, Band 2 - Springer - 1971.pdf
+van der Waerden - Algebra 1 - Springer - 1993.pdf
+van der Waerden - Algebra 2 - Springer - 1993.pdf
+
+/home/mpiedrav/books/informatics:
+Cooper and Torczon - Engineering a Compiler - Morgan Kaufmann - 2023.pdf
+Cormen, Leiserson, Rivest, and Stein - Introduction to Algorithms - The MIT Press - 2022.pdf
+Hennessy and Patterson - Computer Architecture - Morgan Kaufmann - 2019.pdf
+Patterson and Hennessy - Computer Architecture and Design - Morgan Kaufmann - 2021.pdf
+Scott - Programming Language Pragmatics - Morgan Kaufmann - 2016.pdf
+Silberschatz, Galvin, and Gagne - Operating System Concepts - Wiley - 2018.pdf
+Silberschatz, Korth, and Sudarshan - Database System Concepts - McGraw-Hill - 2020.pdf
+Stroustrup - The C++ Programming Language - Addison-Wesley - 2013.pdf
+Tanenbaum and Bos - Modern Operating Systems - Pearson - 2023.pdf
+Tanenbaum, Feamster, and Wetherall - Computer Networks - Pearson - 2021.pdf
+
+/home/mpiedrav/books/physik:
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 01 - Akademie-Verlag - 1990.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 02 - Akademie-Verlag - 1992.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 03 - Akademie-Verlag - 1988.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 04 - Akademie-Verlag - 1991.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 05 - Akademie-Verlag - 1987.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 06 - Akademie-Verlag - 1991.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 07 - Akademie-Verlag - 1991.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 08 - Akademie-Verlag - 1985.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 09 - Akademie-Verlag - 1989.pdf
+Landau und Lifschitz - Lehrbuch der theoretischen Physik 10 - Akademie-Verlag - 1991.pdf
