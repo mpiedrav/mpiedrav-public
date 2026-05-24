@@ -757,8 +757,7 @@ https://alios.cn/
 https://aliramadhan.me/
 https://alire.ada.dev/
 https://alitajs.com/
-https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/
-https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html
+https://a-little-book-of-r-for-time-series.readthedocs.io/
 https://alizila.com/
 https://alizila.com/alibaba-cloud-releases-qwen2-5-omni-7b-an-end-to-end-multimodal-ai-model/
 https://aljazeera.com/
@@ -3065,7 +3064,7 @@ https://asee.org/
 https://asee.org/public/conferences/64/papers/15903/view
 https://asg.ed.tum.de/gis/startseite/
 https://asg.ed.tum.de/lrt/startseite/
-https://asgi.readthedocs.io/en/latest/
+https://asgi.readthedocs.io/
 https://ashvardanian.com/posts/stringzilla/
 https://asiabriefing.com/
 https://asiacenter.harvard.edu/
@@ -3312,7 +3311,7 @@ https://autobahn.security/
 https://autodidacts.io/troubleshooting/
 https://auto-differentiation.github.io/
 https://autodiff.org/
-https://autogis-site.readthedocs.io/en/latest/
+https://autogis-site.readthedocs.io/
 https://autokeras.com/
 https://autokeras.com/tutorial/overview/
 https://automapper.org/
@@ -3523,14 +3522,7 @@ https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learn
 https://azeria-labs.com/writing-arm-assembly-part-1/
 https://azeria-labs.com/writing-arm-shellcode/
 https://azlyrics.com/lyrics/aerosmith/dreamon.html
-https://a-z.readthedocs.io/en/latest/
-https://a-z.readthedocs.io/en/latest/awk.html
-https://a-z.readthedocs.io/en/latest/awk_.html
-https://a-z.readthedocs.io/en/latest/bash.html
-https://a-z.readthedocs.io/en/latest/index.html
-https://a-z.readthedocs.io/en/latest/matlab.html
-https://a-z.readthedocs.io/en/latest/sh.html
-https://a-z.readthedocs.io/en/latest/tcl.html
+https://a-z.readthedocs.io/
 https://azul.com/
 https://azure.microsoft.com/en-us/
 https://azure.microsoft.com/en-us/blog/
@@ -3649,7 +3641,7 @@ https://basemark.com/
 https://baserow.io/
 https://basex.org/
 https://basicbooks.com/
-https://basic-matrix-library.readthedocs.io/en/latest/
+https://basic-matrix-library.readthedocs.io/
 https://basilisk-browser.org/
 https://bastiaanquast.com/
 https://bastian.rieck.me/blog/posts/2018/cxx_meta_analysis/
@@ -3949,7 +3941,7 @@ https://bibtex.com/s/bibliography-style-misc-apa/
 https://bibtex.eu/
 https://bibtex.org/
 https://bicc.de/
-https://bidict.readthedocs.io/en/main/
+https://bidict.readthedocs.io/
 https://bielik.ai/
 https://bigbookofr.com/
 https://bigdatachina.csis.org/measurement-muddle-chinas-gdp-growth-data-and-potential-proxies/
@@ -4029,7 +4021,7 @@ https://bitsavers.org/pdf/att/unix/7th_Edition/UNIX_Programmers_Manual_Seventh_E
 https://bitsavers.org/pdf/ibm/360/princOps/A22-6821-0_360PrincOps.pdf
 https://bitsavers.org/pdf/mits/
 https://bits.debian.org/
-https://bitstruct.readthedocs.io/en/latest/
+https://bitstruct.readthedocs.io/
 https://bits-und-baeume.org/
 https://bitwarden.com/
 https://bitwarden.com/help/secrets-manager-overview/
@@ -4049,7 +4041,6 @@ https://blackhat.com/presentations/bh-usa-08/Chawdhary_Uppal/BH_US_08_Chawdhary_
 https://blackhat.com/us-23/
 https://blackhat.com/us-23/briefings/
 https://black.readthedocs.io/
-https://black.readthedocs.io/en/stable/
 https://blaetter.de/
 https://blahcat.github.io/
 https://blake2.net
@@ -5165,7 +5156,7 @@ https://c64-wiki.com/wiki/Main_Page
 https://c82.net/blog/?id=79
 https://c82.net/euclid/
 https://c9x.me/compile/bib/
-https://cabal.readthedocs.io/en/stable/
+https://cabal.readthedocs.io/
 https://cabinetmagazine.org/issues/26/prochnik.php
 https://cabinetmagazine.org/issues/27/foer.php
 https://cachengo.com/
@@ -6274,7 +6265,7 @@ https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html
 https://cgal.org/
 https://cgdev.org/
 https://cgdev.org/blog/global-map-subnational-gdp
-https://cget.readthedocs.io/en/latest/
+https://cget.readthedocs.io/
 https://cgi.di.uoa.gr/~stheodor/
 https://cgip.org/
 https://cgit.freebsd.org/
@@ -6356,7 +6347,7 @@ https://channel9.msdn.com/Shows/5-Things/Episode-24-Five-Things-About-NLP
 https://channelnewsasia.com/
 https://channelnewsasia.com/asia
 https://channelnewsasia.com/international
-https://channels.readthedocs.io/en/latest/
+https://channels.readthedocs.io/
 https://chaosradio.de/
 https://chaoxuprime.com/blog.html
 https://chapelierfou.bandcamp.com/album/613-lp-2010
@@ -6511,7 +6502,7 @@ https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/
 https://chipsandcheese.com/p/loongson-3a6000-a-star-among-chinese-cpus
 https://chipsandcheese.com/p/running-spec-cpu2017-on-chinese-cpus
 https://chipsandcheese.com/p/zhaoxins-kx-7000
-https://chipwhisperer.readthedocs.io/en/latest/
+https://chipwhisperer.readthedocs.io/
 https://chiraaggohel.com/posts/llms-eda/
 https://chireviewofbooks.com/
 https://chisel-lang.org/
@@ -6821,7 +6812,7 @@ https://clippoly.sourceforge.net/
 https://clipsrules.net/
 https://cli.rs/
 https://clisp.sourceforge.io/
-https://clld.readthedocs.io/en/latest/
+https://clld.readthedocs.io/
 https://clmp.org/
 https://clmp.org/readers/directory-of-publishers/
 https://clojurecademy.com
@@ -6877,7 +6868,7 @@ https://cloud-gpus.com/
 https://cloudinfrastructuremap.com/
 https://cloudingmine.com/idempotence-what-is-it-and-why-should-i-care/
 https://cloud-init.io/
-https://cloudinit.readthedocs.io/en/latest/index.html
+https://cloudinit.readthedocs.io/
 https://cloudns.net/
 https://cloudorado.com/
 https://cloud.r-project.org/
@@ -7633,7 +7624,7 @@ https://corewar.co.uk/
 https://corewar.co.uk/armchairuniverse.htm
 https://corewar.co.uk/dewdney/
 https://corewar.co.uk/dewdney/1984-05.htm
-https://corewar-docs.readthedocs.io/en/latest/redcode/
+https://corewar-docs.readthedocs.io/
 https://corewar.info/
 https://cornell.edu/
 https://cornell.edu/video/playlist/richard-feynman-messenger-lectures
@@ -9299,7 +9290,6 @@ https://cs.virginia.edu/~evans/greatworks/
 https://cs.virginia.edu/~robins/YouAndYourResearch.html
 https://csv.js.org/
 https://csvkit.readthedocs.io/
-https://csvkit.readthedocs.io/en/latest/
 https://cs.vu.nl/~ast/
 https://cs.vu.nl/~ast/intel/
 https://cs.vu.nl/~ceriel/
@@ -9608,6 +9598,7 @@ https://dare-riscv.eu/home/
 https://dare-riscv.eu/launch-of-dare-sga1-project/
 https://dare.uva.nl/search?arno.record.id=473278
 https://daringfireball.net/
+https://daringfireball.net/projects/markdown/
 https://darioamodei.com/
 https://darioamodei.com/post/the-urgency-of-interpretability
 https://dariusforoux.com/25-things-about-life/
@@ -10133,8 +10124,13 @@ https://dechifro.org/dcraw/
 https://decision-procedures.org/toc/
 https://de-cix.net/
 https://deck.gl/
-https://deckgl.readthedocs.io/en/latest/
-https://deckgl.readthedocs.io/en/latest/#
+https://deckgl.readthedocs.io/
+https://airflow.apache.org/use-cases/etl_analytics/
+https://airflow.apache.org/
+https://github.com/spotify/luigi
+https://www.bonobo-project.org/
+https://github.com/topics/machine-learning
+https://github.com/topics/data-science
 https://deckofcardsapi.com/
 https://deck-of-cards.js.org/
 https://de-crypt.org/
@@ -10361,7 +10357,7 @@ https://desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_column
 https://desy.de/user/projects/Physics/index.html
 https://desy.de/user/projects/Physics/Relativity/SR/light_mass.html
 https://desy.de/user/projects/Physics/Relativity/SR/mass.html
-https://detectron2.readthedocs.io/en/stable/
+https://detectron2.readthedocs.io/
 https://detekt.dev/
 https://deusinmachina.net/p/simula-the-forgotten-programming
 https://deutschegrammophon.com/de/katalog/produkte/bach-the-complete-orchestral-works-9819
@@ -11826,7 +11822,7 @@ https://diw.de/deutsch
 https://diy.inria.fr/
 https://django-cms.org/
 https://django-cms.org/en/
-https://django-imagekit.readthedocs.io/en/latest/
+https://django-imagekit.readthedocs.io/
 https://djangopackages.org/
 https://djangoproject.com/
 https://djangoproject.com/foundation/
@@ -13249,6 +13245,7 @@ https://docs.quic.tech/quiche/
 https://docs.racket-lang.org/bitsyntax/
 https://docs.racket-lang.org/guide/dialects.html
 https://docs.ray.io/en/latest/rllib/index.html
+https://docs.readthedocs.com/
 https://docs.redhat.com/
 https://docs.redhat.com/en
 https://docs.renjin.org/en/latest/
@@ -14012,7 +14009,7 @@ https://duo.com/
 https://duo.com/blog/redesigning-the-security-narrative
 https://duo.com/decipher
 https://duo.com/solutions/passwordless
-https://duplicity.readthedocs.io/en/latest/
+https://duplicity.readthedocs.io/
 https://duplicity.us/
 https://duriansoftware.com/joe/Optimizing-is-multiple-checks-with-modular-arithmetic.html?
 https://dusko.org/security/
@@ -14495,7 +14492,6 @@ https://elgato.com/us/en
 https://elgato.com/us/en/p/prompter
 https://elharo.com/
 https://eli5.readthedocs.io/
-https://eli5.readthedocs.io/en/latest/
 https://elibrary.imf.org/display/book/9781589067929/ch002.xml
 https://elibrary.imf.org/view/journals/024/1982/004/article-A004-en.xml
 https://elie.net/
@@ -14623,7 +14619,6 @@ https://embed.tidymodels.org/
 https://emberjs.com/
 https://emboss.github.io/blog/2012/12/14/breaking-murmur-hash-flooding-dos-reloaded/
 https://emcee.readthedocs.io/
-https://emcee.readthedocs.io/en/stable/
 https://e-medida.es/numero-10/historia-de-la-metrologia-en-costa-rica/
 https://emerald.com/insight/content/doi/10.1108/02640471111156777/full/html
 https://emeraldgrouppublishing.com/
@@ -43938,8 +43933,7 @@ https://fedoraproject.org/wiki/Firefox_Hardware_acceleration
 https://fedoraproject.org/wiki/Licensing:MIT
 https://fedoraproject.org/wiki/OpenH264
 https://fedoraproject.org/workstation/
-https://fedora-scientific.readthedocs.io/en/latest/
-https://fedora-scientific.readthedocs.io/en/latest/tools.html
+https://fedora-scientific.readthedocs.io/
 https://feedbooks.com/
 https://feedbooks.com/catalog/public_domain
 https://feedforward.github.io/blog/depthmap-prediction-from-a-single/
@@ -44059,7 +44053,7 @@ https://finos.org/
 https://finseth.com/emacs.html
 https://finurls.com
 https://finurls.com/
-https://fiona.readthedocs.io/en/stable/
+https://fiona.readthedocs.io/
 https://firaconsortium.org/
 https://firamath.github.io/
 https://firebase.google.com/
@@ -44128,7 +44122,7 @@ https://flask.palletsprojects.com/en/stable/patterns/javascript/
 https://flask.palletsprojects.com/en/stable/patterns/sqlite3/
 https://flask.palletsprojects.com/en/stable/patterns/wtforms/
 https://flask.palletsprojects.com/en/stable/web-security/
-https://flask-security-too.readthedocs.io/en/stable/
+https://flask-security-too.readthedocs.io/
 https://flatassembler.net/
 https://flatbuffers.dev/
 https://flathub.org/
@@ -44816,7 +44810,7 @@ https://geeksforgeeks.org/category/data-structures/c-strings/
 https://geeksforgeeks.org/fundamentals-of-algorithms/
 https://geeksforgeeks.org/the-knights-tour-problem-backtracking-1/
 https://geemap.org/
-https://gef.readthedocs.io/en/master/
+https://gef.readthedocs.io/
 https://gegl.org/
 https://gekkio.fi/
 https://gekkio.fi/files/gb-docs/gbctr.pdf
@@ -44828,7 +44822,7 @@ https://gemini.google.com/app
 https://gemini.google/overview/gemini-in-chrome/
 https://gem-library.github.io/gem/
 https://gempy.org/
-https://gemseo.readthedocs.io/en/5.0.1/index.html
+https://gemseo.readthedocs.io/
 https://genbeta.com/
 https://genealogy.math.ndsu.nodak.edu/
 https://genealogy.math.ndsu.nodak.edu/id.php?id=12555
@@ -44902,7 +44896,7 @@ https://geographiclib.sourceforge.io/
 https://geographiclib.sourceforge.io/geod.html
 https://geographyrealm.com/
 https://geohistoriahumanidades.wordpress.com/2011/08/06/la-tierra-y-sus-recursos/
-https://geoip2.readthedocs.io/en/latest/
+https://geoip2.readthedocs.io/
 https://geojson.io/
 https://geojsonlint.com/
 https://geojson.org/
@@ -44922,7 +44916,7 @@ https://geopandas.org/
 https://geopandas.org/en/stable/
 https://geopaparazzi.org/smash/index.html
 https://geopolars.org/latest/
-https://geopy.readthedocs.io/en/stable/
+https://geopy.readthedocs.io/
 https://georgefairbanks.com/book/
 https://georgeflanagin.com/quilts-tiles-and-music-of-elliott-carter.php
 https://georgeho.org/
@@ -44934,7 +44928,7 @@ https://geoshen.com/recommended
 https://geospatial.netlify.app/
 https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/
 https://geospatialworld.net/prime/different-types-of-geospatial-datasets/
-https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/
+https://geostat-framework.readthedocs.io/
 https://geo-television.de/
 https://geotools.org/
 https://geotrellis.io/
@@ -45012,7 +45006,7 @@ https://ginac.de/CLN/
 https://gin-gonic.com/
 https://ginkgoch.com/
 https://ginkgo-project.github.io/
-https://girder.readthedocs.io/en/latest/
+https://girder.readthedocs.io/
 https://gisfundamentals.org/
 https://gisgeography.com/
 https://gisgeography.com/great-circle-geodesic-line-shortest-flight-path/
@@ -48552,6 +48546,8 @@ https://github.com/reactive-python/reactpy-django
 https://github.com/reactos/reactos
 https://github.com/readme
 https://github.com/readthedocs/
+https://github.com/readthedocs-examples/awesome-read-the-docs
+https://github.com/readthedocs-examples/example-sphinx-basic
 https://github.com/readthedocs/sphinx_rtd_theme
 https://github.com/realpine/alpine
 https://github.com/realworldocaml/book
@@ -50232,7 +50228,7 @@ https://gmplib.org/manual/index
 https://gmplib.org/manual/Number-Theoretic-Functions
 https://gmplib.org/manual/References
 https://gmpreussner.com/research/dimensional-analysis-in-programming-languages
-https://gmpy2.readthedocs.io/en/latest/
+https://gmpy2.readthedocs.io/
 https://gmsl.jgc.org/
 https://gnn.seas.upenn.edu/
 https://gnome.org/
@@ -51762,9 +51758,7 @@ https://hbr.org/topic/subject/ai-and-machine-learning
 https://hc.apache.org/
 https://hcs64.com/files/Sammet%20-%20Programming%20Languages%20-%20History%20and%20Fundamentals.pdf
 https://hcs64.com/lostfiles.html
-https://hdbscan.readthedocs.io/en/latest/
-https://hdbscan.readthedocs.io/en/latest/index.html
-https://hdbscan.readthedocs.io/en/latest/parameter_selection.html
+https://hdbscan.readthedocs.io/
 https://hdfgroup.org/
 https://hdfgroup.org/solutions/hdf5
 https://hdfgroup.org/solutions/hdf5/
@@ -52473,7 +52467,7 @@ https://humblebundle.com/books/hacking-2024-no-starch-books
 https://humblebundle.com/books/programming-cookbooks
 https://hunch.net/
 https://hund.io/
-https://hunter.readthedocs.io/en/latest/
+https://hunter.readthedocs.io/
 https://hunting.abuse.ch/
 https://hup.harvard.edu/catalog.php?isbn=9780674088078
 https://hup.harvard.edu/series/loeb-classical-library
@@ -53709,7 +53703,7 @@ https://inst.eecs.berkeley.edu/~cs276/fa20/
 https://instructables.com/
 https://int10h.org/oldschool-pc-fonts/
 https://int10h.org/oldschool-pc-fonts/fontlist/
-https://intake.readthedocs.io/en/latest/
+https://intake.readthedocs.io/
 https://intechopen.com/books/2263
 https://integral-calculator.com/
 https://intel.com/content/www/us/en/architecture-and-technology/advanced-encryption-standard-aes/data-protection-aes-general-technology.html
@@ -53987,7 +53981,7 @@ https://isi-web.org/committee/astrostatistics-special-interest-group
 https://iskcon.org/
 https://isko.org/cyclo/science_mapping
 https://islandora.ca/
-https://islp.readthedocs.io/en/latest/
+https://islp.readthedocs.io/
 https://isl.stanford.edu/~cover/papers/transIT/0827cove.pdf
 https://is.mpg.de/
 https://is.mpg.de/~bs
@@ -54280,9 +54274,7 @@ https://javascriptweekly.com/
 https://javolution.org/
 https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 https://jax.quantecon.org/intro.html
-https://jax.readthedocs.io/en/latest/
-https://jax.readthedocs.io/en/latest/notebooks/autodiff_cookbook.html
-https://jax.readthedocs.io/en/latest/quickstart.html
+https://jax.readthedocs.io/
 https://jaycarlson.net/
 https://jaycarlson.net/2023/02/04/the-cheapest-flash-microcontroller-you-can-buy-is-actually-an-arm-cortex-m0/
 https://jaycarlson.net/embedded-linux/
@@ -54563,7 +54555,7 @@ https://josefsson.org/base64/
 https://josefsson.org/base-encoding/
 https://josefsson.org/pubs.html
 https://josem.co/the-beauty-of-finished-software/
-https://jose.readthedocs.io/en/latest/
+https://jose.readthedocs.io/
 https://jose.theoj.org/
 https://joshalman.com/
 https://joshldavis.com/2013/05/20/the-path-to-dijkstras-handwriting/
@@ -54824,7 +54816,7 @@ https://junit.org/junit5/
 https://jupedsim.org/
 https://jupedsim.org/stable/index.html
 https://jupyterbook.org/en/stable/intro.html
-https://jupyterlite.readthedocs.io/en/stable/
+https://jupyterlite.readthedocs.io/
 https://jupyter.org/
 https://juris.de/
 https://juris-m.github.io/
@@ -55130,7 +55122,7 @@ https://kitware.com/open-source/
 https://kitware.com/software-releases/
 https://kitware.com/trame/
 https://kiwihellenist.blogspot.com/2019/06/bad-latin-constantine.html
-https://kiwisolver.readthedocs.io/en/latest/
+https://kiwisolver.readthedocs.io/
 https://kiwix.org/en/
 https://kiwix.org/en/kiwix-hotspot/
 https://klassikradio.de/
@@ -55175,7 +55167,7 @@ https://koreascience.kr/article/JAKO200710737025670.page
 https://koreatimes.co.kr/
 https://kore.io/
 https://kornel.ski/rust-c-speed
-https://kornia.readthedocs.io/en/stable/
+https://kornia.readthedocs.io/
 https://kornshell.com/
 https://koschei.fedoraproject.org/
 https://kosuch.eu/en/stefanie/teaching/introsco_hocom.pdf
@@ -56018,7 +56010,7 @@ https://libarchive.org/
 https://libb64.sourceforge.net/
 https://libbsd.freedesktop.org/wiki/
 https://libcamera.org/
-https://libcbor.readthedocs.io/en/latest/
+https://libcbor.readthedocs.io/
 https://libccv.org/
 https://libcds.sourceforge.net/
 https://libcinder.org/
@@ -56164,8 +56156,6 @@ https://lightbluetouchpaper.org/
 https://lightbluetouchpaper.org/2022/01/20/arm-releases-experimental-cheri-enabled-morello-board-as-part-of-187m-ukri-digital-security-by-design-programme/
 https://lightboard.info/
 https://lightgbm.readthedocs.io/
-https://lightgbm.readthedocs.io/en/latest/
-https://lightgbm.readthedocs.io/en/stable/
 https://lighthousereports.com/
 https://lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/
 https://lightmatter.co/
@@ -58329,8 +58319,8 @@ https://lithub.com/the-study-of-economics-could-learn-a-lot-from-science-fiction
 https://lithub.com/watching-a-magazine-reading-a-movie-on-wes-andersons-the-french-dispatch/
 https://litmaps.com/
 https://litreactor.com/columns/haunted-the-album-inspired-by-mark-z-danielewskis-house-of-leaves
-https://little-ball-of-fur.readthedocs.io/en/latest/
-https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/index.html
+https://little-ball-of-fur.readthedocs.io/
+https://little-book-of-r-for-multivariate-analysis.readthedocs.io/
 https://littleosbook.github.io/
 https://littlewingpinball.com/doc/en/ypsilon/
 https://livebench.ai/
@@ -58635,6 +58625,7 @@ https://lux.camera/
 https://lux.camera/what-is-hdr/
 https://lvc.github.io/api-sanity-checker/
 https://lvdmaaten.github.io/tsne/
+https://lvfs.readthedocs.io/
 https://lvgl.io/
 https://lvguowei.me/post/ultimate-list-of-youtube-programming-channels/
 https://lvh.io/
@@ -59029,7 +59020,7 @@ https://magneticscrolls.net/
 https://magnum.graphics/
 https://magnus.li/ifirooms/
 https://magrittr.tidyverse.org/
-https://mahotas.readthedocs.io/en/latest/
+https://mahotas.readthedocs.io/
 https://mahout.apache.org/
 https://mahugh.com/2006/04/02/the-memos-of-edsger-w-dijkstra/
 https://mail-archive.com/
@@ -59350,7 +59341,6 @@ https://markusthill.github.io/
 https://markusthill.github.io/ml/programming/zalandos-fashion-mnist-dataset/
 https://marl-book.com/
 https://marllib.readthedocs.io/
-https://marllib.readthedocs.io/en/latest/
 https://marquette.edu/polisci/faculty_swank.shtml
 https://marsdd.com/
 https://martijnhols.nl/blog/moving-away-from-us-cloud-services
@@ -60753,7 +60743,7 @@ https://mkws.sh/
 https://mlai.uni-heidelberg.de/en
 https://mlatcl.github.io/
 https://mlb.com/news/yogisms-best-yogi-berra-sayings
-https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html
+https://ml-cheatsheet.readthedocs.io/
 https://ml.cms.waikato.ac.nz/weka
 https://ml.cms.waikato.ac.nz/weka/
 https://ml.cms.waikato.ac.nz/weka/arff.html
@@ -60797,7 +60787,7 @@ https://mmix.cs.hm.edu/
 https://mml-book.github.io/
 https://mml-book.github.io/neurips2020/10-adjoint.pdf
 https://mml-book.github.io/slopes-expectations.html
-https://mmpose.readthedocs.io/en/latest/
+https://mmpose.readthedocs.io/
 https://mnin.org/
 https://mnot.net/
 https://mnot.net/blog/2016/04/22/ideal-http
@@ -60847,7 +60837,7 @@ https://modern-sql.com/
 https://modern-sql.com/caniuse/bigint_(column_type)
 https://modernstatisticswithr.com/
 https://mode-s.org/decode/index.html
-https://modin.readthedocs.io/en/stable/
+https://modin.readthedocs.io/
 https://modsecurity.org/
 https://modsecurity.org/crs/
 https://modular.com/max/mojo
@@ -61590,7 +61580,7 @@ https://nerdfonts.com/
 https://nesbox.itch.io/tic80
 https://nesdev.org/wiki/Nesdev_Wiki
 https://nesssoftware.com/home/mwc/source.php
-https://nested-pandas.readthedocs.io/en/latest/tutorials/data_manipulation.html
+https://nested-pandas.readthedocs.io/
 https://nestjs.com/
 https://nestpick.com/best-cities-for-startup-employees/?currency=usd
 https://netactuate.com/
@@ -62111,7 +62101,7 @@ https://nginx.org/en/docs/http/ngx_http_proxy_module.html
 https://nginx.org/en/docs/http/ngx_http_ssl_module.html
 https://ngrok.com/
 https://ngspice.sourceforge.io/
-https://nh3.readthedocs.io/en/latest/?badge=latest
+https://nh3.readthedocs.io/
 https://nhigham.com/
 https://nhigham.com/2015/05/21/numerical-methods-that-usually-work/
 https://nhigham.com/2020/11/24/what-is-a-nonnormal-matrix/
@@ -62227,7 +62217,7 @@ https://nlm.nih.gov/
 https://nlnetlabs.nl/
 https://nlnet.nl/
 https://nlnet.nl/project/
-https://nlopt.readthedocs.io/en/latest/
+https://nlopt.readthedocs.io/
 https://nlpers.blogspot.com/
 https://nlplanet.org/
 https://nlpprogress.com/
@@ -62616,7 +62606,7 @@ https://numa.cs.kuleuven.be/
 https://numa.cs.kuleuven.be/research/numerical-linear-and-multilinear-algebra
 https://numba.pydata.org
 https://numba.pydata.org/
-https://numba.readthedocs.io/en/stable/
+https://numba.readthedocs.io/
 https://number-none.com/blow/john_carmack_on_inlined_code.html
 https://numbertheory.org/
 https://numbertheory.org/ntw/list.html
@@ -62823,7 +62813,7 @@ https://ocf.fi.cr/
 https://ocindex.net/
 https://ocr4all.org/
 https://ocre-project.eu/
-https://ocrmypdf.readthedocs.io/en/latest/
+https://ocrmypdf.readthedocs.io/
 https://ocropus.github.io/
 https://octave.org/
 https://octave.sourceforge.io/octave/function/svd.html
@@ -63645,6 +63635,7 @@ https://opensource.org/license/MPL-2.0
 https://opensource.org/license/postgresql
 https://opensource.org/osd
 https://opensourcesatellite.org/
+https://opensourcesecurity.io/
 https://opensourceshakespeare.org/
 https://open-source.softwareag.com/
 https://opensource.srlabs.de/projects/snoopsnitch/
@@ -63779,7 +63770,7 @@ https://oracle.com/technetwork/database/database-technologies/instant-client/ove
 https://oracle.com/technetwork/java/index-136113.html
 https://oracle.com/technetwork/topics/intel-macsoft-096467.html
 https://oracle.com/technetwork/topics/linuxx86-64soft-092277.html
-https://oracle.readthedocs.io/en/latest/plsql/basics/
+https://oracle.readthedocs.io/
 https://oracletutorial.com/
 https://orangedatamining.com/
 https://orangepi.org/
@@ -64670,7 +64661,7 @@ https://pcjs.org/documents/books/programming/
 https://pcjs.org/machines/dec/pdp11/1170/panel/debugger/rt11/
 https://pcjs.org/software/pcx86/app/other/visicalc/1981/
 https://pcloud.com/
-https://pcl.readthedocs.io/projects/tutorials/en/latest/normal_estimation.html
+https://pcl.readthedocs.io/
 https://pcmag.com/
 https://pcmag.com/picks/the-best-vpn-services
 https://pcmag.com/reviews/lenovo-thinkpad-x1-carbon-gen-11-2023
@@ -65332,7 +65323,7 @@ https://pii-tools.com/
 https://pijul.org/
 https://pike.lysator.liu.se/
 https://pikvm.org/
-https://pillow.readthedocs.io/en/stable/
+https://pillow.readthedocs.io/
 https://pi.math.cornell.edu/~mec/Summer2009/Mahmood/Intro.html
 https://pi.math.cornell.edu/~morris/135/letfreq.html
 https://pims.math.ca/
@@ -65342,7 +65333,6 @@ https://pineapple-one.github.io/
 https://pingcap.com/
 https://pinot.apache.org/
 https://pint.readthedocs.io/
-https://pint.readthedocs.io/en/stable/
 https://pinvoke.net/
 https://pinyin.info/
 https://pinyin.info/chinese_characters/
@@ -65746,7 +65736,6 @@ https://polly.llvm.org/
 https://poloclub.github.io/cnn-explainer/
 https://polyglotconference.com/faqs
 https://polyglot.readthedocs.io/en/latest/
-https://polyglot.readthedocs.io/en/latest/index.html
 https://polygon.com/
 https://polygon.io/
 https://polygonjs.com/
@@ -65900,7 +65889,7 @@ https://powercurbers.com/products/curb-machines/
 https://powercurbers.com/products/multipurpose-machines/
 https://powerdns.com/
 https://powerdns.org/hello-dns/
-https://powerforensics.readthedocs.io/en/latest/
+https://powerforensics.readthedocs.io/
 https://powershellgallery.com/
 https://powers-of-10.github.io/
 https://poynter.org/
@@ -66144,7 +66133,7 @@ https://probml.github.io/pml-book/book0.html
 https://probml.github.io/pml-book/book1.html
 https://probml.github.io/pml-book/book2.html
 https://probmods.org/
-https://probnum.readthedocs.io/en/latest/
+https://probnum.readthedocs.io/
 https://proceedings.juliacon.org/
 https://proceedings.mlr.press/
 https://proceedings.mlr.press/faq.html
@@ -66586,10 +66575,10 @@ https://pyav.org/docs/stable/
 https://pybamm.org/
 https://pycon.asia/
 https://pycon.org/
-https://pycose.readthedocs.io/en/latest/
+https://pycose.readthedocs.io/
 https://pycqa.org/
 https://pycryptodome.org/
-https://pycryptodome.readthedocs.io/en/latest/src/introduction.html
+https://pycryptodome.readthedocs.io/
 https://pycrypto.org/
 https://pycsw.org/
 https://pydantic.dev/
@@ -66605,7 +66594,7 @@ https://pygis.io/docs/e_interpolation.html
 https://pygmt.org/
 https://pyg.org/
 https://pygresql.org/
-https://pygsp.readthedocs.io/en/stable/
+https://pygsp.readthedocs.io/
 https://py.imagej.net/en/stable/GLCM.html
 https://pyimagesearch.com/
 https://pyimagesearch.com/2020/01/27/yolo-and-tiny-yolo-object-detection-on-the-raspberry-pi-and-movidius-ncs/
@@ -66614,8 +66603,8 @@ https://pyimagesearch.com/2024/10/14/photogrammetry-explained-from-multi-view-st
 https://pyimagesearch.com/blog/
 https://pyimagesearch.com/deep-learning-computer-vision-python-book/
 https://pyjanitor-devs.github.io/pyjanitor/
-https://pyjwt.readthedocs.io/en/stable/
-https://pylint.readthedocs.io/en/stable/
+https://pyjwt.readthedocs.io/
+https://pylint.readthedocs.io/
 https://pylonsproject.org/
 https://pymanopt.org/
 https://pymc.io/
@@ -66625,20 +66614,19 @@ https://pymc.io/welcome.html
 https://pymol.org/2/
 https://pymolwiki.org/index.php/Main_Page
 https://pymoo.org/algorithms/moo/nsga2.html
-https://pynacl.readthedocs.io/en/latest/
+https://pynacl.readthedocs.io/
 https://pyodide.org/en/stable/
-https://pyod.readthedocs.io/en/latest/
-https://pyogrio.readthedocs.io/en/latest/
+https://pyod.readthedocs.io/
+https://pyogrio.readthedocs.io/
 https://pyomo.org/
 https://pyomo.org/impact
-https://pyomo.readthedocs.io/en/stable/
+https://pyomo.readthedocs.io/
 https://pyopengl.sourceforge.net/
 https://pyopenssl.org/en/latest/
 https://pyopenssl.org/en/stable/
-https://pypdf.readthedocs.io/en/latest/
+https://pypdf.readthedocs.io/
 https://pyperformance.readthedocs.io/
 https://pyperf.readthedocs.io/
-https://pyperf.readthedocs.io/en/latest/
 https://pypi.org/
 https://pypi.org/project/arulespy/
 https://pypi.org/project/bitformat/
@@ -66678,11 +66666,11 @@ https://pypl.github.io/PYPL.html
 https://py.processing.org/
 https://pyproj4.github.io/pyproj/stable/
 https://pypsa.org/
-https://pypsa.readthedocs.io/en/latest/
+https://pypsa.readthedocs.io/
 https://pypy.org/
 https://pyqtgraph.org/
 https://pyquil-docs.rigetti.com/
-https://pyro5.readthedocs.io/en/latest/
+https://pyro5.readthedocs.io/
 https://pyro.ai/
 https://pysal.org/
 https://pyscaffold.org/en/stable/
@@ -66690,7 +66678,7 @@ https://pyspread.gitlab.io/
 https://pystan.readthedocs.io/
 https://pystatgen.github.io/sgkit/latest/
 https://pytables.org/
-https://pytensor.readthedocs.io/en/latest/
+https://pytensor.readthedocs.io/
 https://python3statement.org/
 https://python-advanced.quantecon.org/intro.html
 https://python.arviz.org/
@@ -66735,9 +66723,7 @@ https://python-visualization.github.io/folium/
 https://python-visualization.github.io/folium/latest/
 https://python-visualization.github.io/folium/latest/advanced_guide.html
 https://pythonwheels.com/
-https://pytorch-geometric.readthedocs.io/en/latest/
-https://pytorch-geometric.readthedocs.io/en/stable/
-https://pytorch-geometric.readthedocs.io/en/stable/get_started/introduction.html
+https://pytorch-geometric.readthedocs.io/
 https://pytorch.org/
 https://pytorch.org/audio/stable/index.html
 https://pytorch.org/data/beta/index.html
@@ -67007,7 +66993,7 @@ https://quintus.sics.se/
 https://quip.com/
 https://quip.com/dev
 https://qunitjs.com/
-https://quodlibet.readthedocs.io/en/latest/
+https://quodlibet.readthedocs.io/
 https://quora.com/Did-Joseph-Conrad-ever-publish-anything-in-Polish
 https://quora.com/How-many-lines-of-code-do-professional-programmers-write-per-hour
 https://quora.com/What-are-the-major-unsolved-problems-in-programming-language-theory
@@ -67025,7 +67011,7 @@ https://quotes.cat-v.org/programming/
 https://quoteunquoteapps.com/courierprime/
 https://qupath.github.io/
 https://qutip.org/
-https://qutip.readthedocs.io/en/stable/
+https://qutip.readthedocs.io/
 https://quut.com/c/num-recipes-in-c.html
 https://qwant.com/
 https://qwenlm.github.io/
@@ -67384,7 +67370,7 @@ https://recharts.org/en-US/
 https://recipes.tidymodels.org/
 https://recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning
 https://recognize-speech.com/
-https://recometrics.readthedocs.io/en/latest/
+https://recometrics.readthedocs.io/
 https://recommenders-team.github.io/recommenders/intro.html
 https://recommender-systems.com/recsys-basics/state-of-the-art-algorithms/
 https://recommendmeabook.com/
@@ -67533,7 +67519,7 @@ https://relay.dev/
 https://relay.firefox.com/
 https://release.gnome.org/
 https://release.gnome.org/48/
-https://reliability.readthedocs.io/en/latest/
+https://reliability.readthedocs.io/
 https://reliefweb.int/
 https://relyze.com/
 https://remarkable.com/
@@ -67585,10 +67571,8 @@ https://reproducibility.acm.org/
 https://reproducible-builds.org
 https://reproducible-builds.org/
 https://rep.routledge.com/articles/thematic/arche/v-1
-https://requests-oauthlib.readthedocs.io/en/latest/index.html
+https://requests-oauthlib.readthedocs.io/
 https://requests.readthedocs.io/
-https://requests.readthedocs.io/en/latest/
-https://requests.readthedocs.io/en/master/user/quickstart/
 https://research.checkpoint.com/2019/malware-against-the-c-monoculture/
 https://research.cloudflare.com/
 https://research.cornell.edu/news-features/algorithmic-game-theory-whats-it-about
@@ -67977,7 +67961,7 @@ https://risc.jku.at/software/casa/
 https://risc.jku.at/study-at-risc/
 https://risc.jku.at/studying-symbolic-computation/
 https://riscvbook.com/
-https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
+https://risc-v-getting-started-guide.readthedocs.io/
 https://riscv.github.io/riscv-cheri/
 https://riscv.org/
 https://riscv.org/about/
@@ -71110,6 +71094,7 @@ https://sphincs.cr.yp.to/
 https://sphincs.org/
 https://sphinx-doc.org/en/master/
 https://sphinx-doc.org/en/master/usage/theming.html
+https://sphinx-rtd-theme.readthedocs.io/
 https://sphinx-rtd-theme.readthedocs.io/en/stable/
 https://sphinxsearch.com/
 https://sphinx-themes.org/
@@ -78441,6 +78426,7 @@ https://www.mis.mpg.de/
 https://www.mitmproxy.org/
 https://www.mitre.org/
 https://www.mitsubishielectric-rce.eu/
+https://www.mkdocs.org/
 https://www.mlrelated.com/
 https://www.mobygames.com/
 https://www.mobygames.com/game/5012/chips-challenge/
