@@ -62372,6 +62372,7 @@ https://nostarch.com/hardwarehacking
 https://nostarch.com/machine-learning-q-and-ai
 https://nostarch.com/malware
 https://nostarch.com/math-programming
+https://nostarch.com/metasploit-2nd-edition
 https://nostarch.com/nature-code
 https://nostarch.com/networkprotocols
 https://nostarch.com/obenbsd2e
@@ -62380,6 +62381,7 @@ https://nostarch.com/pf3
 https://nostarch.com/practical-iot-hacking
 https://nostarch.com/PracticalVulnerability
 https://nostarch.com/rootkits
+https://nostarch.com/ruby
 https://nostarch.com/rum
 https://nostarch.com/Rust
 https://nostarch.com/rust-programming-language-2nd-edition

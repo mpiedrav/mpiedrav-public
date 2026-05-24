@@ -13,7 +13,7 @@ BartleAnalysis
 BauerCryptology
 BauerKryptologie
 BeckTdd
-BishopDeep
+BishopPattern
 BlochJava
 BooleanOdonnell
 BosCryptography
@@ -28,6 +28,7 @@ CooperCompiler
 CoriLogic
 CormenAlgorithms
 CourantIntegralrechnung
+DanjouPython
 DonovanGo
 EagleGhidra
 ElmasriDatabase
@@ -41,7 +42,7 @@ GramaParallel
 GreggPerformance
 GriffithsElectrodynamics
 HallidayPhysics
-HanMining
+HanDatamining
 HarrisDigital
 HastieLearning
 HaytCircuit
@@ -51,6 +52,7 @@ HillierOperations
 HorowitzElectronics
 HorstmannJava
 HuangHacker
+HughesGraphics
 HurwitzFunktionentheorie
 JacobsonAlgebra
 JohanssonNumerical
@@ -94,7 +96,7 @@ SchneierCryptography
 SchwartzPerl
 ScottPragmatics
 SearsPhysics
-SeitzPython
+ShaughnessyRuby
 SilberschatzOperating
 SkienaDesign
 SlossArm
