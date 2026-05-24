@@ -1,5 +1,5 @@
+1101b92e47288e9d5a156f6ad2084a93  /home/mpiedrav/books/Anderson - Security Engineering - Wiley - 2020.pdf
 42aefaa7b61b6197d5269544a7e3f9bd  /home/mpiedrav/books/Bishop and Bishop - Deep Learning - Springer - 2024.pdf
-102effe6da23eb8e62cd121608acc73b  /home/mpiedrav/books/Cormen, Leiserson, Rivest, and Stein - Introduction to Algorithms - The MIT Press - 2022.pdf
-66e0d283747c7e7cf3dbc78ecbf600b1  /home/mpiedrav/books/Hastie, Tibshirani, and Friedman - The Elements of Statistical Learning - Springer - 2009.pdf
 7d5dc1756540342f85fe9e259a27ccdb  /home/mpiedrav/books/Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
-8ecfeeb2e1f9a19c770fba1ff85fa566  /home/mpiedrav/books/Murphy - Machine Learning - The MIT Press - 2012.pdf
+89aa83b924f03d49d6728df141d8e8c5  /home/mpiedrav/books/Murphy - Probabilistic Machine Learning 1 - The MIT Press - 2022.pdf
+4b75dd3408260acb0542dd5f29e634dd  /home/mpiedrav/books/Murphy - Probabilistic Machine Learning 2 - The MIT Press - 2023.pdf
