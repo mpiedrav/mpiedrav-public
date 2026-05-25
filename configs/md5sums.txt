@@ -1,5 +1,4 @@
-1101b92e47288e9d5a156f6ad2084a93  /home/mpiedrav/books/Anderson - Security Engineering - Wiley - 2020.pdf
-42aefaa7b61b6197d5269544a7e3f9bd  /home/mpiedrav/books/Bishop and Bishop - Deep Learning - Springer - 2024.pdf
+9c326aad403d438ed5c297e059ed4d90  /home/mpiedrav/books/Goldreich - Foundations of Cryptography 1 - Cambridge - 2004.pdf
+c0fd5bfe6d0a8fa375777bf9b4e81550  /home/mpiedrav/books/Goldreich - Foundations of Cryptography 2 - Cambridge - 2004.pdf
 7d5dc1756540342f85fe9e259a27ccdb  /home/mpiedrav/books/Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
-89aa83b924f03d49d6728df141d8e8c5  /home/mpiedrav/books/Murphy - Probabilistic Machine Learning 1 - The MIT Press - 2022.pdf
-4b75dd3408260acb0542dd5f29e634dd  /home/mpiedrav/books/Murphy - Probabilistic Machine Learning 2 - The MIT Press - 2023.pdf
+dfe908164ee18908e61ce52f0cca8d9c  /home/mpiedrav/books/Paar, Pelzl, and Güneysu - Understanding Cryptography - Springer - 2024.pdf
