@@ -689,6 +689,7 @@ https://alasdair.github.io/
 https://alastairreid.github.io/RelatedWork/notes/binary-lifter/
 https://alberton.info/nosql_databases_what_when_why_phpuk2011.html
 https://alchemistowl.org/pocorgtfo/
+https://alchitry.com/
 https://aldaily.com
 https://aldaily.com/
 https://aldebaran.com/en
@@ -70029,6 +70030,7 @@ https://shipilev.net/jvm/anatomy-quarks/23-compressed-references/
 https://shipilev.net/jvm/diy-gc/
 https://shiro.apache.org/
 https://shiyuzhao.net/
+https://shop.alchitry.com/
 https://shop.chessbase.com/
 https://shop.duden.de/
 https://shop.duden.de/Das-Bedeutungswoerterbuch/9783411041008
@@ -76536,6 +76538,7 @@ https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
 https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
 https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
 https://www.amazon.com/x86-Software-Reverse-Engineering-Cracking-Counter-Measures/dp/1394199880
+https://www.amd.com/en/products/adaptive-socs-and-fpgas/fpga/artix-7.html
 https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html
 https://www.americanscientist.org/
 https://www.americanscientist.org/article/100-or-so-books-that-shaped-a-century-of-science
