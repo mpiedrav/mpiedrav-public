@@ -64908,6 +64908,7 @@ https://people.csail.mit.edu/virgi/
 https://people.cs.clemson.edu/~mark/330/eagle.html
 https://people.cs.clemson.edu/~mark/hist.html
 https://people.cs.clemson.edu/~mark/interrupts.html
+https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
 https://people.cs.georgetown.edu/~kobbi/
 https://people.cs.gmu.edu/~sean/book/synthesis/
 https://people.cs.ksu.edu/~hitzler/
@@ -73898,6 +73899,7 @@ https://tobydriscoll.net/project/explode/
 https://tobydriscoll.net/project/fnc/
 https://tobydriscoll.net/tag/book/
 https://toc.cryptobook.us/
+https://toc.cryptobook.us/book.pdf
 https://toc.csail.mit.edu/
 https://toc.csail.mit.edu/cis
 https://toc.csail.mit.edu/Computation%20Economics
