@@ -6220,6 +6220,7 @@ https://cepr.org/
 https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise
 https://ceres-solver.org/
 https://cerias.purdue.edu/about/history/coast_resources/cryptography/
+https://cernandsocietyfoundation.cern/
 https://cerncourier.com/
 https://cerncourier.com/a/acceleration-but-not-as-we-know-it/
 https://cerncourier.com/a/an-introduction-to-the-standard-model-of-particle-physics-2nd-edition/
@@ -21292,6 +21293,7 @@ https://en.wikipedia.org/wiki/Convergence_of_random_variables
 https://en.wikipedia.org/wiki/Convergent_matrix
 https://en.wikipedia.org/wiki/Convergent_Research
 https://en.wikipedia.org/wiki/Convergent_series
+https://en.wikipedia.org/wiki/Convergent_thinking
 https://en.wikipedia.org/wiki/Conversational_user_interface
 https://en.wikipedia.org/wiki/Conversion_of_units
 https://en.wikipedia.org/wiki/Convex_analysis
@@ -22695,6 +22697,7 @@ https://en.wikipedia.org/wiki/Divergence-from-randomness_model
 https://en.wikipedia.org/wiki/Divergence_(statistics)
 https://en.wikipedia.org/wiki/Divergence_theorem
 https://en.wikipedia.org/wiki/Divergent_series
+https://en.wikipedia.org/wiki/Divergent_thinking
 https://en.wikipedia.org/wiki/Diversity_index
 https://en.wikipedia.org/wiki/Diversity_in_early_Christian_theology
 https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
@@ -23831,6 +23834,7 @@ https://en.wikipedia.org/wiki/European_Laboratory_for_Learning_and_Intelligent_S
 https://en.wikipedia.org/wiki/European_Mathematical_Society
 https://en.wikipedia.org/wiki/European_Parliament
 https://en.wikipedia.org/wiki/European_Patent_Office
+https://en.wikipedia.org/wiki/European_Research_Area
 https://en.wikipedia.org/wiki/European_Russia
 https://en.wikipedia.org/wiki/European_Social_Survey
 https://en.wikipedia.org/wiki/European_Southern_Observatory
@@ -26748,6 +26752,7 @@ https://en.wikipedia.org/wiki/Horace_Walpole
 https://en.wikipedia.org/wiki/Horapollo
 https://en.wikipedia.org/wiki/Horizon
 https://en.wikipedia.org/wiki/Horizon_(British_TV_series)
+https://en.wikipedia.org/wiki/Horizon_Europe
 https://en.wikipedia.org/wiki/Horizontal_coordinate_system
 https://en.wikipedia.org/wiki/Horn_clause
 https://en.wikipedia.org/wiki/Horner%27s_method
@@ -63591,6 +63596,7 @@ https://openprinting.github.io/
 https://openprinting.github.io/cups/
 https://openprinting.org/printer/Brother/Brother-HL-2240
 https://openprinting.org/printers
+https://open-quantum-institute.cern/
 https://openquantumsafe.org/
 https://openrailwaymap.org/
 https://openrefine.org/
@@ -75082,6 +75088,7 @@ https://visionbook.mit.edu/3d_learning.html
 https://visionbook.mit.edu/3d_scene_understanding_single_view.html
 https://vision-explorer.allenai.org/
 https://visirule.co.uk/
+https://visit.cern/
 https://viso.ai/blog/
 https://viso.ai/blog/computer-vision/
 https://viso.ai/blog/edge-ai/
@@ -78733,6 +78740,7 @@ https://www.oneplus.com/global/oxygenos16
 https://www.ookla.com/
 https://www.open3d.org/
 https://www.open3d.org/docs/latest/index.html
+https://www.openaire.eu/
 https://www.openanalytics.eu/
 https://www.openatom.org/
 https://www.openbsdfoundation.org/
