@@ -1,4 +1,0 @@
-9c326aad403d438ed5c297e059ed4d90  /home/mpiedrav/books/Goldreich - Foundations of Cryptography 1 - Cambridge - 2004.pdf
-c0fd5bfe6d0a8fa375777bf9b4e81550  /home/mpiedrav/books/Goldreich - Foundations of Cryptography 2 - Cambridge - 2004.pdf
-7d5dc1756540342f85fe9e259a27ccdb  /home/mpiedrav/books/Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
-dfe908164ee18908e61ce52f0cca8d9c  /home/mpiedrav/books/Paar, Pelzl, and Güneysu - Understanding Cryptography - Springer - 2024.pdf

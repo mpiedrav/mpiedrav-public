@@ -1,0 +1,16 @@
+C. E. Shannon, "A mathematical theory of communication," in The Bell System Technical Journal, vol. 27, no. 3, pp. 379-423, July 1948, doi: 10.1002/j.1538-7305.1948.tb01338.x.
+Abstract: The recent development of various methods of modulation such as PCM and PPM which exchange bandwidth for signal-to-noise ratio has intensified the interest in a general theory of communication. A basis for such a theory is contained in the important papers of Nyquist1 and Hartley2 on this subject. In the present paper we will extend the theory to include a number of new factors, in particular the effect of noise in the channel, and the savings possible due to the statistical structure of the original message and due to the nature of the final destination of the information.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6773024&isnumber=6773023
+
+
+C. E. Shannon, "A mathematical theory of communication," in The Bell System Technical Journal, vol. 27, no. 4, pp. 623-656, Oct. 1948, doi: 10.1002/j.1538-7305.1948.tb00917.x.
+Abstract: In this final installment of the paper we consider the case where the signals or the messages or both are continuously variable, in contrast with the discrete nature assumed until now. To a considerable extent the continuous case can be obtained through a limiting process from the discrete case by dividing the continuum of messages and signals into a large but finite number of small regions and calculating the various parameters involved on a discrete basis. As the size of the regions is decreased these parameters in general approach as limits the proper values for the continuous case. There are, however, a few new effects that appear and also a general change of emphasis in the direction of specialization of the general results to particular cases.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6773067&isnumber=6773065
+
+
+C. E. Shannon, "Communication theory of secrecy systems," in The Bell System Technical Journal, vol. 28, no. 4, pp. 656-715, Oct. 1949, doi: 10.1002/j.1538-7305.1949.tb00928.x.
+Abstract: THE problems of cryptography and secrecy systems furnish an interesting application of communication theory.1 In this paper a theory of secrecy systems is developed. The approach is on a theoretical level and is intended to complement the treatment found in standard works on cryptography.2 There, a detailed study is made of the many standard types of codes and ciphers, and of the ways of breaking them. We will be more concerned with the general mathematical structure and properties of secrecy systems.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6769090&isnumber=6769085
+
+
+

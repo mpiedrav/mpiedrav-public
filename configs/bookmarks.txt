@@ -52999,6 +52999,7 @@ https://ieeexplore.ieee.org/document/6733669
 https://ieeexplore.ieee.org/document/6756892
 https://ieeexplore.ieee.org/document/6769090
 https://ieeexplore.ieee.org/document/6770409
+https://ieeexplore.ieee.org/document/6771698
 https://ieeexplore.ieee.org/document/6772729
 https://ieeexplore.ieee.org/document/6773024
 https://ieeexplore.ieee.org/document/6773067
@@ -78612,6 +78613,7 @@ https://www.noemamag.com/the-clash-of-civilizations-is-the-politics-of-the-end-o
 https://www.noemamag.com/the-lost-art-of-thinking-historically/
 https://www.noemamag.com/the-politics-of-superintelligence/
 https://www.no-free-lunch.org/
+https://www.nokia.com/bell-labs/claude-shannon/
 https://www.nongnu.org/lzip/
 https://www.northeuralex.org/
 https://www.nosmallendeavor.com/
