@@ -21216,6 +21216,7 @@ https://en.wikipedia.org/wiki/Content_analysis
 https://en.wikipedia.org/wiki/Content_centric_networking
 https://en.wikipedia.org/wiki/Content_delivery_network
 https://en.wikipedia.org/wiki/Content_management_system
+https://en.wikipedia.org/wiki/Content_Scramble_System
 https://en.wikipedia.org/wiki/Context-based_access_control
 https://en.wikipedia.org/wiki/Context-free_grammar
 https://en.wikipedia.org/wiki/Context_switch
@@ -22164,6 +22165,7 @@ https://en.wikipedia.org/wiki/Decomposition_of_time_series
 https://en.wikipedia.org/wiki/Decorator_pattern
 https://en.wikipedia.org/wiki/Decorrelation_theory
 https://en.wikipedia.org/wiki/DEC_PRISM
+https://en.wikipedia.org/wiki/DeCSS
 https://en.wikipedia.org/wiki/DECwriter
 https://en.wikipedia.org/wiki/Dedekind%E2%80%93MacNeille_completion
 https://en.wikipedia.org/wiki/Deductive_reasoning
@@ -22506,6 +22508,7 @@ https://en.wikipedia.org/wiki/Digital_physics
 https://en.wikipedia.org/wiki/Digital_preservation
 https://en.wikipedia.org/wiki/Digital_renminbi
 https://en.wikipedia.org/wiki/Digital_Research
+https://en.wikipedia.org/wiki/Digital_rights_management
 https://en.wikipedia.org/wiki/Digital_rupee
 https://en.wikipedia.org/wiki/Digital_signal
 https://en.wikipedia.org/wiki/Digital_signal_processing
