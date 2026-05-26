@@ -1,0 +1,4 @@
+538967badbec1367ef14eb73b55b4be6  Bishop - Pattern Recognition and Machine Learning - Springer - 2006.pdf
+de7a433413950fb4cbee5671fde45d29  Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
+8ecfeeb2e1f9a19c770fba1ff85fa566  Murphy - Machine Learning - The MIT Press - 2012.pdf
+a971124643304708c1a6066ec28438eb  Stinson and Paterson - Cryptography - CRC Press - 2019.pdf

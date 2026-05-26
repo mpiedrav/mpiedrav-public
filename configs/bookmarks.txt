@@ -77220,6 +77220,7 @@ https://www.cs.utexas.edu/~EWD/
 https://www.cs.utexas.edu/~moore/
 https://www.cs.utexas.edu/~moore/acl2/
 https://www.cs.utexas.edu/~moore/best-ideas/nqthm/index.html
+https://www.cs.virginia.edu/~evans/greatworks/shannon1949.pdf
 https://www.cultrepo.com/
 https://www.culture.ru/
 https://www.culture.ru/poems/48263/svyashennaya-voina
