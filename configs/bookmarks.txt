@@ -2819,6 +2819,7 @@ https://arxiv.org/abs/2504.01157
 https://arxiv.org/abs/2504.06219
 https://arxiv.org/abs/2504.11259
 https://arxiv.org/abs/2505.04588
+https://arxiv.org/abs/2505.14696
 https://arxiv.org/abs/2505.15917
 https://arxiv.org/abs/2506.07838
 https://arxiv.org/abs/2506.08872
@@ -17757,6 +17758,7 @@ https://en.wikipedia.org/wiki/British_Library#Material_available_online
 https://en.wikipedia.org/wiki/British_Medical_Association
 https://en.wikipedia.org/wiki/British_Museum
 https://en.wikipedia.org/wiki/British_Raj
+https://en.wikipedia.org/wiki/British_royal_family
 https://en.wikipedia.org/wiki/British_Society_for_the_History_of_Mathematics
 https://en.wikipedia.org/wiki/British_television_Apollo_11_coverage
 https://en.wikipedia.org/wiki/Brjuno_number
@@ -17771,6 +17773,7 @@ https://en.wikipedia.org/wiki/Bromine
 https://en.wikipedia.org/wiki/Bronis%C5%82aw_Knaster
 https://en.wikipedia.org/wiki/Bronx_High_School_of_Science
 https://en.wikipedia.org/wiki/Bronze_Age
+https://en.wikipedia.org/wiki/Bronze_Age_Europe
 https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory
 https://en.wikipedia.org/wiki/Brookings_Institution
 https://en.wikipedia.org/wiki/Brooks%E2%80%93Iyengar_algorithm
@@ -18103,6 +18106,7 @@ https://en.wikipedia.org/wiki/CAP_computer
 https://en.wikipedia.org/wiki/Cape_Arkona
 https://en.wikipedia.org/wiki/Cape_of_Good_Hope
 https://en.wikipedia.org/wiki/Cape_Peninsula
+https://en.wikipedia.org/wiki/Capetian_dynasty
 https://en.wikipedia.org/wiki/Capgemini
 https://en.wikipedia.org/wiki/Capillary_action
 https://en.wikipedia.org/wiki/Capillary_number
@@ -18619,6 +18623,7 @@ https://en.wikipedia.org/wiki/Category:Dynamically_typed_programming_languages
 https://en.wikipedia.org/wiki/Category:Dynamical_systems
 https://en.wikipedia.org/wiki/Category:Dynamic_programming
 https://en.wikipedia.org/wiki/Category:Dynamics_of_the_Solar_System
+https://en.wikipedia.org/wiki/Category:Early_Germanic_culture
 https://en.wikipedia.org/wiki/Category:Early_Germanic_people
 https://en.wikipedia.org/wiki/Category:Early_Germanic_peoples
 https://en.wikipedia.org/wiki/Category:Econometric_models
@@ -19714,6 +19719,7 @@ https://en.wikipedia.org/wiki/Celtic_cross
 https://en.wikipedia.org/wiki/Celtic_Frost
 https://en.wikipedia.org/wiki/Celtic_languages
 https://en.wikipedia.org/wiki/Celtic_metal
+https://en.wikipedia.org/wiki/Celts
 https://en.wikipedia.org/wiki/Cemu
 https://en.wikipedia.org/wiki/Censoring_(statistics)
 https://en.wikipedia.org/wiki/Censorship_by_country
@@ -22598,6 +22604,7 @@ https://en.wikipedia.org/wiki/Discover_(magazine)
 https://en.wikipedia.org/wiki/Discovery_of_nuclear_fission
 https://en.wikipedia.org/wiki/Discovery_of_the_neutron
 https://en.wikipedia.org/wiki/Discrepancy_function
+https://en.wikipedia.org/wiki/Discrepancy_theory
 https://en.wikipedia.org/wiki/Discrete_Analysis
 https://en.wikipedia.org/wiki/Discrete_calculus
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
@@ -22994,6 +23001,7 @@ https://en.wikipedia.org/wiki/Dynamo_(storage_system)
 https://en.wikipedia.org/wiki/Dynamo_theory
 https://en.wikipedia.org/wiki/Dynasties_of_ancient_Egypt
 https://en.wikipedia.org/wiki/Dynasties_of_China
+https://en.wikipedia.org/wiki/Dynasty
 https://en.wikipedia.org/wiki/Dysarthria
 https://en.wikipedia.org/wiki/Dyscalculia
 https://en.wikipedia.org/wiki/Dyschronometria
@@ -23014,6 +23022,7 @@ https://en.wikipedia.org/wiki/Earley_parser
 https://en.wikipedia.org/wiki/Earliest_known_life_forms
 https://en.wikipedia.org/wiki/Early_Buddhist_texts
 https://en.wikipedia.org/wiki/Early_Germanic_calendars
+https://en.wikipedia.org/wiki/Early_Germanic_culture
 https://en.wikipedia.org/wiki/Early_Gothic_architecture
 https://en.wikipedia.org/wiki/Early_Greek_cosmology
 https://en.wikipedia.org/wiki/Early_medieval_literature
@@ -23562,6 +23571,7 @@ https://en.wikipedia.org/wiki/Entropy
 https://en.wikipedia.org/wiki/Entropy_and_life
 https://en.wikipedia.org/wiki/Entropy_coding
 https://en.wikipedia.org/wiki/Entropy_(computing)
+https://en.wikipedia.org/wiki/Entropy_(disambiguation)
 https://en.wikipedia.org/wiki/Entropy_encoding
 https://en.wikipedia.org/wiki/Entropy_estimation
 https://en.wikipedia.org/wiki/Entropy_(information_theory)
@@ -24949,6 +24959,7 @@ https://en.wikipedia.org/wiki/Galleria_Alberto_Sordi
 https://en.wikipedia.org/wiki/Galleria_Vittorio_Emanuele_II
 https://en.wikipedia.org/wiki/Gallery_of_curves
 https://en.wikipedia.org/wiki/Gallery_Project
+https://en.wikipedia.org/wiki/Gallic_Empire
 https://en.wikipedia.org/wiki/Gallic_Wars
 https://en.wikipedia.org/wiki/Galliformes
 https://en.wikipedia.org/wiki/Gallium
@@ -25021,6 +25032,7 @@ https://en.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol
 https://en.wikipedia.org/wiki/Gating_mechanism
 https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)
 https://en.wikipedia.org/wiki/Gauge_theory
+https://en.wikipedia.org/wiki/Gaul
 https://en.wikipedia.org/wiki/Gaulish
 https://en.wikipedia.org/wiki/Gauss%27s_law
 https://en.wikipedia.org/wiki/GaussDB
@@ -26760,6 +26772,7 @@ https://en.wikipedia.org/wiki/Hour_circle
 https://en.wikipedia.org/wiki/Housecarl
 https://en.wikipedia.org/wiki/Household_chemicals
 https://en.wikipedia.org/wiki/Householder%27s_method
+https://en.wikipedia.org/wiki/House_of_Bourbon
 https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)
 https://en.wikipedia.org/wiki/House_of_Cards_(British_TV_series)
 https://en.wikipedia.org/wiki/House_of_Cards_(novel)
@@ -26773,6 +26786,7 @@ https://en.wikipedia.org/wiki/House_of_Romanov
 https://en.wikipedia.org/wiki/House_of_the_Dragon
 https://en.wikipedia.org/wiki/House_of_the_Seven_Gables
 https://en.wikipedia.org/wiki/House_of_Usher_(film)
+https://en.wikipedia.org/wiki/House_of_Windsor
 https://en.wikipedia.org/wiki/House_of_Wisdom
 https://en.wikipedia.org/wiki/House_on_Haunted_Hill
 https://en.wikipedia.org/wiki/Hovm%C3%B6ller_diagram
@@ -26837,6 +26851,7 @@ https://en.wikipedia.org/wiki/Hudde%27s_rules
 https://en.wikipedia.org/wiki/Hudson_(software)
 https://en.wikipedia.org/wiki/Huffman_coding
 https://en.wikipedia.org/wiki/Hugging_Face
+https://en.wikipedia.org/wiki/Hugh_Capet
 https://en.wikipedia.org/wiki/Hugh_D._Young
 https://en.wikipedia.org/wiki/Hugh_Lowell_Montgomery
 https://en.wikipedia.org/wiki/Huginn_and_Muninn
@@ -28847,6 +28862,7 @@ https://en.wikipedia.org/wiki/Kinetic_theory_of_gases
 https://en.wikipedia.org/wiki/Kinetotroph
 https://en.wikipedia.org/wiki/King%27s_College_London
 https://en.wikipedia.org/wiki/King%27s_Cross,_London
+https://en.wikipedia.org/wiki/King%27s_Trust
 https://en.wikipedia.org/wiki/King_Abdullah_University_of_Science_and_Technology
 https://en.wikipedia.org/wiki/King_Arthur
 https://en.wikipedia.org/wiki/King_Crimson
@@ -29226,6 +29242,7 @@ https://en.wikipedia.org/wiki/Last_Night_in_Twisted_River
 https://en.wikipedia.org/wiki/LastPass
 https://en.wikipedia.org/wiki/Las_Vegas_algorithm
 https://en.wikipedia.org/wiki/Las_Vegas_Valley
+https://en.wikipedia.org/wiki/La_T%C3%A8ne_culture
 https://en.wikipedia.org/wiki/Late_antiquity
 https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse
 https://en.wikipedia.org/wiki/Late_Bronze_Age_Troy
@@ -30072,6 +30089,7 @@ https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
 https://en.wikipedia.org/wiki/List_of_freedom_indices
 https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators
 https://en.wikipedia.org/wiki/List_of_French-language_newspapers_published_in_the_United_States
+https://en.wikipedia.org/wiki/List_of_French_monarchs
 https://en.wikipedia.org/wiki/List_of_Frieren_chapters
 https://en.wikipedia.org/wiki/List_of_Frieren_characters
 https://en.wikipedia.org/wiki/List_of_fugitives_from_justice_who_disappeared
@@ -30481,7 +30499,9 @@ https://en.wikipedia.org/wiki/List_of_Renaissance_composers
 https://en.wikipedia.org/wiki/List_of_republics
 https://en.wikipedia.org/wiki/List_of_retro_style_video_game_consoles
 https://en.wikipedia.org/wiki/List_of_RFCs
+https://en.wikipedia.org/wiki/List_of_Roman_emperors
 https://en.wikipedia.org/wiki/List_of_Romantic-era_composers
+https://en.wikipedia.org/wiki/List_of_Roman_usurpers
 https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions
 https://en.wikipedia.org/wiki/List_of_router_firmware_projects
 https://en.wikipedia.org/wiki/List_of_ruling_political_parties_by_country
@@ -34629,6 +34649,7 @@ https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Daily
 https://en.wikipedia.org/wiki/People%27s_Liberation_Army_National_Defense_University
 https://en.wikipedia.org/wiki/People%27s_Police_(China)
 https://en.wikipedia.org/wiki/Peoples_Temple
+https://en.wikipedia.org/wiki/Pepin_the_Short
 https://en.wikipedia.org/wiki/Pepper%27s_ghost
 https://en.wikipedia.org/wiki/Peppercoin
 https://en.wikipedia.org/wiki/Pepper_(cryptography)
@@ -37054,7 +37075,9 @@ https://en.wikipedia.org/wiki/Royal_Aircraft_Establishment
 https://en.wikipedia.org/wiki/Royal_Comics_Syndicate
 https://en.wikipedia.org/wiki/Royal_Economic_Society
 https://en.wikipedia.org/wiki/Royal_Exchange,_London
+https://en.wikipedia.org/wiki/Royal_Foundation
 https://en.wikipedia.org/wiki/Royal_Game_of_Ur
+https://en.wikipedia.org/wiki/Royal_Households_of_the_United_Kingdom
 https://en.wikipedia.org/wiki/Royal_Institution
 https://en.wikipedia.org/wiki/Royal_Institution_Christmas_Lectures
 https://en.wikipedia.org/wiki/Royal_Mint
@@ -38086,6 +38109,7 @@ https://en.wikipedia.org/wiki/Signetics_2650
 https://en.wikipedia.org/wiki/Significance_(magazine)
 https://en.wikipedia.org/wiki/Signify_(album)
 https://en.wikipedia.org/wiki/Signomial
+https://en.wikipedia.org/wiki/Sign_sequence
 https://en.wikipedia.org/wiki/Sign_test
 https://en.wikipedia.org/wiki/Sign_value
 https://en.wikipedia.org/wiki/SIGPLAN
@@ -38663,6 +38687,7 @@ https://en.wikipedia.org/wiki/Spanish_Inquisition
 https://en.wikipedia.org/wiki/Spanish_language
 https://en.wikipedia.org/wiki/Spanish_National_Research_Council
 https://en.wikipedia.org/wiki/Spanish_Revolution_of_1936
+https://en.wikipedia.org/wiki/Spanish_royal_family
 https://en.wikipedia.org/wiki/Spanish_Steps
 https://en.wikipedia.org/wiki/Spanner_(database)
 https://en.wikipedia.org/wiki/SPARC
@@ -45609,6 +45634,7 @@ https://github.com/cayhorstmann/codecheck3
 https://github.com/cayleygraph/cayley
 https://github.com/cbeust/jcommander
 https://github.com/cbmarcum/skeletal
+https://github.com/cbueth/infomeasure
 https://github.com/cc65/cc65
 https://github.com/ccache/ccache
 https://github.com/cdesjardins/libedit
@@ -46519,6 +46545,7 @@ https://github.com/gnuradio/volk
 https://github.com/gnustep
 https://github.com/gnutls/gnutls
 https://github.com/gnutls/nettle
+https://github.com/godaddy/tartufo
 https://github.com/godotengine/godot
 https://github.com/go-gitea/gitea
 https://github.com/gogs/gogs
@@ -46748,6 +46775,7 @@ https://github.com/HongxuChen/awesome-llvm
 https://github.com/HongxuChen/awesome-llvm/blob/master/README.md
 https://github.com/honojs/hono
 https://github.com/horovod/horovod
+https://github.com/horsicq/Detect-It-Easy/
 https://github.com/HoTT/HoTT
 https://github.com/houz/phonedepth
 https://github.com/hoya012/deep_learning_object_detection
@@ -49461,6 +49489,7 @@ https://github.com/topics/distributed-systems
 https://github.com/topics/distributed-systems?l=c%2B%2B
 https://github.com/topics/distributed-systems?l=go
 https://github.com/topics/emacs
+https://github.com/topics/entropy
 https://github.com/topics/fraud-detection
 https://github.com/topics/geometric-deep-learning
 https://github.com/topics/git
@@ -52800,6 +52829,7 @@ https://ieeexplore.ieee.org/author/37327960200
 https://ieeexplore.ieee.org/author/37394328100
 https://ieeexplore.ieee.org/author/37531401100
 https://ieeexplore.ieee.org/author/38242110800
+https://ieeexplore.ieee.org/author/816998020764492
 https://ieeexplore.ieee.org/browse/periodicals/title
 https://ieeexplore.ieee.org/document/10013773
 https://ieeexplore.ieee.org/document/10015503
@@ -52968,6 +52998,7 @@ https://ieeexplore.ieee.org/document/6769090
 https://ieeexplore.ieee.org/document/6770409
 https://ieeexplore.ieee.org/document/6772729
 https://ieeexplore.ieee.org/document/6773024
+https://ieeexplore.ieee.org/document/6773067
 https://ieeexplore.ieee.org/document/6773080
 https://ieeexplore.ieee.org/document/6773263
 https://ieeexplore.ieee.org/document/6790553
@@ -53443,6 +53474,7 @@ https://infolab.stanford.edu/~ullman/focs.html
 https://infolab.stanford.edu/~ullman/pub/fundamentalism.html
 https://info.lse.ac.uk/current-students/careers/information-and-resources/type-of-organisation/think-tanks-by-region
 https://infomaniak.com/
+https://infomeasure.readthedocs.io/
 https://info.nvidia.com/recsys-at-work-best-practices-and-insights.html
 https://info.orcid.org/what-is-orcid/
 https://infoq.com/
@@ -54585,6 +54617,7 @@ https://joshtronic.com/2018/01/22/vps-showdown-january-2018-digitalocean-linode-
 https://josm.openstreetmap.de/
 https://joss.theoj.org/
 https://joss.theoj.org/papers/10.21105/joss.00037
+https://joss.theoj.org/papers/10.21105/joss.00738
 https://joss.theoj.org/papers/10.21105/joss.00765
 https://joss.theoj.org/papers/10.21105/joss.01686
 https://joss.theoj.org/papers/10.21105/joss.05073
@@ -58001,6 +58034,7 @@ https://link.springer.com/chapter/10.1007/3-540-45726-7_1
 https://link.springer.com/chapter/10.1007/3-540-45735-6_1
 https://link.springer.com/chapter/10.1007/3-540-45833-6_12
 https://link.springer.com/chapter/10.1007/3-540-46020-9_38
+https://link.springer.com/chapter/10.1007/3-540-46513-8_5
 https://link.springer.com/chapter/10.1007/3-540-48285-7_33
 https://link.springer.com/chapter/10.1007/3-540-48340-3_26
 https://link.springer.com/chapter/10.1007/3-540-48405-1_4
@@ -70380,6 +70414,7 @@ https://sites.research.google/datacardsplaybook/
 https://sites.research.google/open-buildings/
 https://sites.research.google/trc/about/
 https://sites.research.google/weatherbench/
+https://sites.santafe.edu/~simon/page7/page7.html
 https://sites.santafe.edu/~wbarthur/complexityeconomics.htm
 https://sites.stat.columbia.edu/gelman/
 https://sites.stat.columbia.edu/gelman/book/
@@ -76928,6 +76963,7 @@ https://www.cambus.net/
 https://www.canal9.cr/
 https://www.capstone-engine.org/
 https://www.casamerica.es/
+https://www.casareal.es/
 https://www.casio.com/us/watches/casio/
 https://www.casio.com/us/watches/casio/databank/
 https://www.catb.org/esr/
@@ -78397,6 +78433,8 @@ https://www.maxar.com/
 https://www.maxar.com/open-data
 https://www.maxmind.com/
 https://www.mdgx.com/
+https://www.mdpi.com/1099-4300/26/1/79
+https://www.mdpi.com/journal/entropy
 https://www.mdr.de/
 https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
 https://www.mediawiki.org/
@@ -78528,6 +78566,7 @@ https://www.nature.com/articles/s41586-024-08404-x
 https://www.nature.com/articles/s41586-025-09054-3
 https://www.nature.com/articles/s41586-025-09430-z
 https://www.nature.com/articles/s41598-021-95388-7
+https://www.nature.com/articles/s41598-025-14053-5
 https://www.nature.com/articles/s41928-025-01410-5
 https://www.nature.com/articles/s43247-025-02901-1
 https://www.nature.com/articles/s44384-026-00049-6
@@ -79276,6 +79315,7 @@ https://www.routledge.com/Textbooks-in-Mathematics/book-series/CANDHTEXBOOMTH
 https://www.routledge.com/The-BUGS-Book-A-Practical-Introduction-to-Bayesian-Analysis/Lunn-Jackson-Best-Thomas-Spiegelhalter/p/book/9781584888499
 https://www.routledge.com/The-Compiler-Design-Handbook-Optimizations-and-Machine-Code-Generation-Second-Edition/Srikant-Shankar/p/book/9781420043822
 https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032231785
+https://www.royal.uk/
 https://www.r-pkg.org/
 https://www.rplumber.io/
 https://www.r-project.org/
@@ -79729,6 +79769,8 @@ https://www.utoronto.ca/
 https://www.vadian.net/
 https://www.valnetinc.com/
 https://www.valnetinc.com/en/our-brands
+https://www.vatican.va/
+https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
 https://www.vaudenay.ch/crypto/classical.html
 https://www.versionsql.com/
 https://www.vice.com/en/article/the-most-clever-zip-bomb-ever-made-explodes-a-46mb-file-to-45-petabytes/
