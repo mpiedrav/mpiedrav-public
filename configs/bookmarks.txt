@@ -11603,6 +11603,7 @@ https://die.net/moon/
 https://di.ens.fr/~cousot/
 https://di.ens.fr/~fbach/
 https://diessi.ca/blog/computer-and-human-languages/
+https://diestel-graph-theory.com/
 https://diestel-graph-theory.com/index.html
 https://dievolkswirtschaft.ch/de/
 https://dievolkswirtschaft.ch/de/2022/07/trau-nicht-jeder-statistik/
@@ -36536,6 +36537,7 @@ https://en.wikipedia.org/wiki/Reification_(fallacy)
 https://en.wikipedia.org/wiki/Reina_Valera
 https://en.wikipedia.org/wiki/Reinforcement_learning
 https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback
+https://en.wikipedia.org/wiki/Reinhard_Diestel
 https://en.wikipedia.org/wiki/Rejection_sampling
 https://en.wikipedia.org/wiki/Related-key_attack
 https://en.wikipedia.org/wiki/Relational_algebra
@@ -48248,6 +48250,7 @@ https://github.com/patrick-kidger/equinox
 https://github.com/patrick-kidger/optimistix
 https://github.com/PaulRegular/SimSurvey/
 https://github.com/paulsmith/geodjango
+https://github.com/pavelkomarov/spectral-derivatives
 https://github.com/pbatard/rufus
 https://github.com/pcapng/pcapng
 https://github.com/PCRE2Project/pcre2
@@ -57781,6 +57784,7 @@ https://link.springer.com/book/10.1007/978-3-662-68142-8
 https://link.springer.com/book/10.1007/978-3-662-68478-8
 https://link.springer.com/book/10.1007/978-3-662-68907-3
 https://link.springer.com/book/10.1007/978-3-662-69007-9
+https://link.springer.com/book/10.1007/978-3-662-70107-2
 https://link.springer.com/book/10.1007/978-3-662-70400-4
 https://link.springer.com/book/10.1007/978-3-662-70506-3
 https://link.springer.com/book/10.1007/978-3-662-70872-9
@@ -72628,6 +72632,7 @@ https://tandfonline.com/toc/uasa20/92/440
 https://tandfonline.com/toc/ucgs20/current
 https://tandfonline.com/toc/ucry20/current
 https://tangled.sh/
+https://tangles-book.com/
 https://tang.sipeed.com/en/
 https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/
 https://tante.cc/
@@ -76240,6 +76245,7 @@ https://withouthotair.com/
 https://withpersona.com/
 https://wizardzines.com/
 https://wlcg.web.cern.ch/
+https://wmi.amu.edu.pl/en/research/series-of-lectures/rejewski-rozycki-zygalski-lectures
 https://wmo.int/
 https://wmo.int/media/magazine-article/imo-prize-lecture-2024-ensemble-weather-and-climate-prediction-from-origins-ai
 https://wmo.int/severe-weather-forecasting-programme-swfp
@@ -77717,6 +77723,7 @@ https://www.goodreads.com/book/show/366232.Claude_Elwood_Shannon
 https://www.goodreads.com/book/show/36742386-the-regtech-book
 https://www.goodreads.com/book/show/37510695-random-number-generators-principles-and-practices
 https://www.goodreads.com/book/show/38533694-poc-or-gtfo-volume-2
+https://www.goodreads.com/book/show/388052.Graph_Theory
 https://www.goodreads.com/book/show/3924336-etudes-for-programmers
 https://www.goodreads.com/book/show/394983.Arm_System_Developer_s_Guide
 https://www.goodreads.com/book/show/394983.ARM_System_Developer_s_Guide
@@ -79318,6 +79325,7 @@ https://www.routledge.com/Java-Programming-Exercises-Volume-One-Language-Fundame
 https://www.routledge.com/Java-Programming-Exercises-Volume-One-Language-Fundamentals-and-Core-/Ullenboom/p/book/9781032579849
 https://www.routledge.com/Java-Programming-Exercises-Volume-Two-Java-Standard-Library/Ullenboom/p/book/9781032798011
 https://www.routledge.com/Markov-Chain-Monte-Carlo-in-Practice/Gilks-Richardson-Spiegelhalter/p/book/9780412055515
+https://www.routledge.com/mathematics
 https://www.routledge.com/Modern-Mandarin-Chinese-Grammar-A-Practical-Guide-and-Workbook-SET/Ross-Ma-Chen-He-Yeh/p/book/9781032658599
 https://www.routledge.com/Modern-Mandarin-Chinese-Grammar-A-Practical-Guide/Ross-Ma-Chen-He-Yeh/p/book/9781032370507
 https://www.routledge.com/Modern-Mandarin-Chinese-Grammar-Workbook/Ross-Ma-He-Chen-Yeh/p/book/9781032369303
@@ -79597,6 +79605,7 @@ https://www.tagesschau.de/wissen/klima
 https://www.tagesschau.de/wissen/technologie
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1960.11989501
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1986.10475342
+https://www.tandfonline.com/doi/abs/10.1080/0161-110291890885
 https://www.tandfonline.com/doi/abs/10.1559/152304003100011090
 https://www.tarantool.io/en/
 https://www.tarantool.io/en/developers/
