@@ -79285,6 +79285,7 @@ https://www.routledge.com/Analog-Synthesizers-Understanding-Performing-Buying-Fr
 https://www.routledge.com/Analysis-On-Manifolds/Munkres/p/book/9780201315967
 https://www.routledge.com/A-Survey-of-Modern-Algebra/Birkhoff-MacLane/p/book/9781568814544
 https://www.routledge.com/Asymptotics-and-Special-Functions/Olver/p/book/9781568810690
+https://www.routledge.com/Bayesian-Data-Analysis/Carlin-Dunson-Gelman-Rubin-Stern-Vehtari/p/book/9781439840955
 https://www.routledge.com/Bayesian-Data-Analysis/Gelman-Carlin-Stern-Dunson-Vehtari-Rubin/p/book/9781439840955
 https://www.routledge.com/Bayesian-Networks-With-Examples-in-R/Scutari-Denis/p/book/9780367366513
 https://www.routledge.com/Beyond-Multiple-Linear-Regression-Applied-Generalized-Linear-Models-And-Multilevel-Models-in-R/Roback-Legler/p/book/9780367680442
@@ -79326,6 +79327,7 @@ https://www.routledge.com/Programming-Language-Explorations/Toal-Strieker-Berard
 https://www.routledge.com/Real-Time-Rendering-Fourth-Edition/Akenine-Moller-Haines-Hoffman/p/book/9781138627000
 https://www.routledge.com/Real-Time-Systems-Development-with-RTEMS-and-Multicore-Processors/Bloom-Sherrill-Hu-Bertolotti/p/book/9780367644369
 https://www.routledge.com/Spatio-Temporal-Statistics-with-R/Wikle-Zammit-Mangion-Cressie/p/book/9781138711136
+https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919
 https://www.routledge.com/Stochastic-Processes-with-R-An-Introduction/Korosteleva/p/book/9781032154732
 https://www.routledge.com/Techniques-for-Designing-and-Analyzing-Algorithms/Stinson/p/book/9780367228897
 https://www.routledge.com/Techniques-for-Designing-and-Analyzing-Algorithms/Stinson/p/book/9781032024103
