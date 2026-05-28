@@ -29,6 +29,7 @@ CoriLogic
 CormenAlgorithms
 CourantIntegralrechnung
 CoverInformation
+DaemenCryptography
 DanjouPython
 DiestelGraph
 DonovanGo
@@ -78,7 +79,7 @@ MathewsNumerical
 MatrosovRootkits
 MckinneyData
 MeadVlsi
-MenezesCryptography
+MittelbachCryptography
 MontgomeryExperiments
 MullerArithmetic
 MurphyLearning
@@ -100,6 +101,7 @@ RudinAnalysis
 SammetHistory
 SchneierCryptography
 SchwartzPerl
+SchwenkCryptography
 ScottPragmatics
 SearsPhysics
 ShannonInformation
