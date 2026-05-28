@@ -1,0 +1,2 @@
+de7a433413950fb4cbee5671fde45d29  Katz and Lindell - Introduction to Modern Cryptography - CRC Press - 2021.pdf
+43dc9e0485c6bb8d1f4a1da4187fbab4  Menezes, van Oorschot, and Vanstone - Handbook of Applied Cryptography - CRC Press - 1997.pdf
