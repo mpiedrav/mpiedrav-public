@@ -9385,6 +9385,7 @@ https://culture.pl/en/article/a-foreigners-guide-to-the-polish-alphabet
 https://culture.pl/en/article/central-europes-most-mysterious-language
 https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand
 https://culture.pl/en/article/maths-madness-and-the-manhattan-project-the-eccentric-lives-of-steinhaus-banach-and-ulam
+https://culture.pl/en/article/poland-didnt-always-speak-polish-the-lost-linguistic-diversity-of-europe
 https://culture.pl/en/article/seances-dragons-chakras-krakows-magical-past
 https://culture.pl/en/article/the-cursed-paintings-of-zdzislaw-beksinski
 https://culture.pl/en/artist/henryk-sienkiewicz
@@ -79793,6 +79794,8 @@ https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
 https://www-users.cse.umn.edu/~saad/books.html
 https://www-users.cse.umn.edu/~saad/software/SPARSKIT/
 https://www-users.cse.umn.edu/~stei0062/
+https://www.ustc.ac.uk/
+https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin
 https://www.utne.com/
 https://www.utoronto.ca/
 https://www.vadian.net/
