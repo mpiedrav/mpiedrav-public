@@ -96,9 +96,9 @@ PrincetonCompanion
 ProuffCryptography
 PurcellElectricity
 RamalhoPython
+RandomizedMotwani
 RosenDiscrete
 RudinAnalysis
-SammetHistory
 SchneierCryptography
 SchwartzPerl
 SchwenkCryptography
@@ -110,6 +110,7 @@ SilberschatzOperating
 SkienaDesign
 SlossArm
 StevensUnix
+StroustrupDesign
 StroustrupLanguage
 TanenbaumOperating
 TehranipoorSecurity
