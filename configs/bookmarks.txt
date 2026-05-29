@@ -6831,6 +6831,7 @@ https://clmp.org/readers/directory-of-publishers/
 https://clojurecademy.com
 https://clojure.org/
 https://clonezilla.org/
+https://cloudatlas.wmo.int/
 https://cloudatlas.wmo.int/home.html
 https://cloudblogs.microsoft.com/microsoftsecure/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/
 https://cloudblogs.microsoft.com/opensource/
@@ -20410,6 +20411,9 @@ https://en.wikipedia.org/wiki/Closure:_Live
 https://en.wikipedia.org/wiki/Closure_operator
 https://en.wikipedia.org/wiki/.cloud
 https://en.wikipedia.org/wiki/Cloud9_IDE
+https://en.wikipedia.org/wiki/Cloud_atlas
+https://en.wikipedia.org/wiki/Cloud_Atlas_(film)
+https://en.wikipedia.org/wiki/Cloud_Atlas_(novel)
 https://en.wikipedia.org/wiki/Cloudbleed
 https://en.wikipedia.org/wiki/CloudCompare
 https://en.wikipedia.org/wiki/Cloud_computing
@@ -30990,6 +30994,7 @@ https://en.wikipedia.org/wiki/Luigi_Miraglia
 https://en.wikipedia.org/wiki/Luis_von_Ahn
 https://en.wikipedia.org/wiki/Luis_Walter_Alvarez
 https://en.wikipedia.org/wiki/Luke%27s_variational_principle
+https://en.wikipedia.org/wiki/Luke_Howard_(meteorologist)
 https://en.wikipedia.org/wiki/Luke_Tierney
 https://en.wikipedia.org/wiki/Lule%C3%A5_University_of_Technology
 https://en.wikipedia.org/wiki/LULI
@@ -78623,6 +78628,7 @@ https://www.nist.gov/itl
 https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices
 https://www.nist.gov/news-events/news/2025/06/nist-and-partners-use-quantum-mechanics-make-factory-random-numbers
 https://www.nist.gov/pqcrypto
+https://www.noaa.gov/
 https://www.noamross.net/
 https://www.noamross.net/archives/2013-04-25-faster-talk/
 https://www.nobelprize.org/prizes/literature/1905/sienkiewicz/biographical/
