@@ -76961,6 +76961,7 @@ https://www.cambridge.org/core/books/modern-computer-arithmetic/B345DF9E08B232BC
 https://www.cambridge.org/core/books/practical-foundations-for-programming-languages/3D852B5A14F48F85C60B95A0BBCAB7D9
 https://www.cambridge.org/core/books/programming-in-ada-2022/144FA52E3F0C1F260CBF9DECD10A68C9
 https://www.cambridge.org/core/books/quantum-algorithms/EF7A52B88199BC0DA5A2CC99794A8C39
+https://www.cambridge.org/core/books/quantum-computing-for-computer-scientists/8AEA723BEE5CC9F5C03FDD4BA850C711
 https://www.cambridge.org/core/books/real-world-ocaml-functional-programming-for-the-masses/052E4BCCB09D56A0FE875DD81B1ED571
 https://www.cambridge.org/core/books/revolutions-in-twentiethcentury-physics/B0B2AD0F6445EC52784701A8C640D8EE
 https://www.cambridge.org/core/books/sidney-colemans-lectures-on-relativity/FECF7FD978F5F8404ECE5953EC7BACCA
@@ -76992,6 +76993,7 @@ https://www.cambridge.org/us/universitypress/subjects/computer-science/algorithm
 https://www.cambridge.org/us/universitypress/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/modern-computer-algebra-3rd-edition
 https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/artificial-intelligence-foundations-computational-agents-3rd-edition
 https://www.cambridge.org/us/universitypress/subjects/computer-science/cryptography-cryptology-and-coding/linear-cryptanalysis
+https://www.cambridge.org/us/universitypress/subjects/computer-science/cryptography-cryptology-and-coding/quantum-computing-computer-scientists
 https://www.cambridge.org/us/universitypress/subjects/computer-science/cryptography-cryptology-and-coding/secure-multiparty-computation-and-secret-sharing
 https://www.cambridge.org/us/universitypress/subjects/computer-science/programming-languages-and-applied-logic
 https://www.cambridge.org/us/universitypress/subjects/computer-science/programming-languages-and-applied-logic/cultures-programming-development-programming-concepts-and-methodologies
@@ -77855,6 +77857,7 @@ https://www.goodreads.com/en/book/show/1012201.The_Nature_of_the_Chemical_Bond_a
 https://www.goodreads.com/en/book/show/328647.Calculus_on_Manifolds
 https://www.goodreads.com/en/book/show/35684978-the-book-of-poc-gtfo
 https://www.goodreads.com/en/book/show/41801.ANSI_Common_Lisp
+https://www.goodreads.com/en/book/show/5299445-quantum-computing-for-computer-scientists
 https://www.goodreads.com/list/show/107856.MIT_Electrical_Engineering_and_Computer_Science_syllabus_books
 https://www.goodreads.com/list/show/108086.MIT_Mathematics_syllabus_books
 https://www.goodreads.com/list/show/137290._Alan_Kay_s_Reading_List
@@ -79982,6 +79985,8 @@ https://www.wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering+-p-97811
 https://www.wiley.com/en-us/Scheduling+in+Real-Time+Systems-p-9780470847664
 https://www.wiley.com/en-us/search?filters[author]=Mike%20Chapple&pq=++
 https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817
+https://www.wiley.com/en-us/shop/blackwell-reference-grammars-c-2367
+https://www.wiley.com/en-us/shop/general-introductory-linguistics/russian-grammar-workbook-2nd-edition-p-9781118327579
 https://www.wiley.com/en-us/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341
 https://www.wiley.com/en-us/Symmetric+Cryptography%2C+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781394256310
 https://www.wiley.com/en-us/The+Active+Defender%3A+Immersion+in+the+Offensive+Security+Mindset-p-9781119895237
