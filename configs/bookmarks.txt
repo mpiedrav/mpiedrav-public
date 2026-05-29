@@ -53054,6 +53054,7 @@ https://ieeexplore.ieee.org/document/6733669
 https://ieeexplore.ieee.org/document/6756892
 https://ieeexplore.ieee.org/document/6769090
 https://ieeexplore.ieee.org/document/6770409
+https://ieeexplore.ieee.org/document/6770988
 https://ieeexplore.ieee.org/document/6771698
 https://ieeexplore.ieee.org/document/6772729
 https://ieeexplore.ieee.org/document/6773024
@@ -79387,6 +79388,7 @@ https://www.routledge.com/Outstanding-User-Interfaces-with-Shiny/Granjon/p/book/
 https://www.routledge.com/Programming-Language-Explorations/Toal-Strieker-Berardini/p/book/9781032110844
 https://www.routledge.com/Real-Time-Rendering-Fourth-Edition/Akenine-Moller-Haines-Hoffman/p/book/9781138627000
 https://www.routledge.com/Real-Time-Systems-Development-with-RTEMS-and-Multicore-Processors/Bloom-Sherrill-Hu-Bertolotti/p/book/9780367644369
+https://www.routledge.com/Secure-Communications-And-Asymmetric-Cryptosystems/Simmons/p/book/9780367302344
 https://www.routledge.com/Spatio-Temporal-Statistics-with-R/Wikle-Zammit-Mangion-Cressie/p/book/9781138711136
 https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919
 https://www.routledge.com/Stochastic-Processes-with-R-An-Introduction/Korosteleva/p/book/9781032154732
@@ -79468,6 +79470,7 @@ https://www.sciencedirect.com/book/monograph/9781558607989/digital-arithmetic
 https://www.sciencedirect.com/bookseries/north-holland-mathematical-library/vol/7
 https://www.sciencedirect.com/handbook/handbook-of-statistics
 https://www.sciencedirect.com/handbook/handbook-of-statistics/vol/25/suppl/C
+https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences
 https://www.sciencedirect.com/journal/linear-algebra-and-its-applications
 https://www.sciencedirect.com/science/article/abs/pii/S0167404820301371
 https://www.sciencedirect.com/science/article/abs/pii/S0167739X99000886
@@ -79662,6 +79665,7 @@ https://www.tandfonline.com/doi/abs/10.1080/00029890.1960.11989501
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1986.10475342
 https://www.tandfonline.com/doi/abs/10.1080/00927872.2013.766827
 https://www.tandfonline.com/doi/abs/10.1080/0161-110291890885
+https://www.tandfonline.com/doi/abs/10.1080/01611194.2011.583711
 https://www.tandfonline.com/doi/abs/10.1559/152304003100011090
 https://www.tarantool.io/en/
 https://www.tarantool.io/en/developers/
@@ -79672,6 +79676,7 @@ https://www.taylorfrancis.com/books/edit/10.1201/9781315117195/handbook-approxim
 https://www.taylorfrancis.com/books/edit/10.1201/9781315119335/handbook-data-structures-applications-dinesh-mehta-sartaj-sahni
 https://www.taylorfrancis.com/books/edit/10.1201/9781315371825/differential-equations-applications-historical-notes-george-simmons
 https://www.taylorfrancis.com/books/edit/10.1201/b10905/handbook-markov-chain-monte-carlo-galin-jones-xiao-li-meng-andrew-gelman-steve-brooks
+https://www.taylorfrancis.com/books/edit/10.4324/9780429305634/secure-communications-asymmetric-cryptosystems-gustavus-simmons
 https://www.taylorfrancis.com/books/mono/10.1201/9780429029608/statistical-rethinking-richard-mcelreath
 https://www.taylorfrancis.com/books/mono/10.1201/9780429066665/beyond-multiple-linear-regression-julie-legler-paul-roback
 https://www.taylorfrancis.com/books/mono/10.1201/9780429277412/techniques-designing-analyzing-algorithms-douglas-stinson

@@ -23,6 +23,7 @@ BreierCryptography
 BrentArithmetic
 BrownChemistry
 BrownComplex
+ChildsAlgebra
 CochardDigital
 CooperCompiler
 CoriLogic
@@ -53,8 +54,10 @@ HarrisDigital
 HastieLearning
 HaytCircuit
 HennessyArchitecture
+HersteinAlgebra
 HilbertGeometrie
 HillierOperations
+HoffsteinCryptography
 HorowitzElectronics
 HorstmannJava
 HuangHacker
