@@ -19650,6 +19650,7 @@ https://en.wikipedia.org/wiki/Cavity_magnetron
 https://en.wikipedia.org/wiki/Cavium
 https://en.wikipedia.org/wiki/Cayley%E2%80%93Dickson_construction
 https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem
+https://en.wikipedia.org/wiki/Cayley%E2%80%93Purser_algorithm
 https://en.wikipedia.org/wiki/CBC-MAC
 https://en.wikipedia.org/wiki/CBC_News
 https://en.wikipedia.org/wiki/CBOR
@@ -25549,6 +25550,7 @@ https://en.wikipedia.org/wiki/Glucose
 https://en.wikipedia.org/wiki/Gluon
 https://en.wikipedia.org/wiki/Glycerol
 https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format
+https://en.wikipedia.org/wiki/GMR_(cryptography)
 https://en.wikipedia.org/wiki/GNATS
 https://en.wikipedia.org/wiki/GNOME
 https://en.wikipedia.org/wiki/GNOME_Calculator
@@ -32208,6 +32210,7 @@ https://en.wikipedia.org/wiki/Mixture_of_experts
 https://en.wikipedia.org/wiki/Mj%C3%B6lnir
 https://en.wikipedia.org/wiki/MLA_Handbook
 https://en.wikipedia.org/wiki/MLIR_(software)
+https://en.wikipedia.org/wiki/ML-KEM
 https://en.wikipedia.org/wiki/ML.NET
 https://en.wikipedia.org/wiki/MLOps
 https://en.wikipedia.org/wiki/Mlpack
@@ -32673,6 +32676,7 @@ https://en.wikipedia.org/wiki/Naamah_(Genesis)
 https://en.wikipedia.org/wiki/Nabu
 https://en.wikipedia.org/wiki/Na%C3%AFve_physics
 https://en.wikipedia.org/wiki/Na%C3%AFve_realism
+https://en.wikipedia.org/wiki/Naccache%E2%80%93Stern_cryptosystem
 https://en.wikipedia.org/wiki/Nacht_und_Nebel
 https://en.wikipedia.org/wiki/NaCl_(software)
 https://en.wikipedia.org/wiki/Nadir
@@ -33641,6 +33645,7 @@ https://en.wikipedia.org/wiki/Ohm%27s_law
 https://en.wikipedia.org/wiki/Ohnesorge_number
 https://en.wikipedia.org/wiki/Oja%27s_rule
 https://en.wikipedia.org/wiki/OjAlgo
+https://en.wikipedia.org/wiki/Okamoto%E2%80%93Uchiyama_cryptosystem
 https://en.wikipedia.org/wiki/Okapi_BM25
 https://en.wikipedia.org/wiki/Okinawa_Institute_of_Science_and_Technology
 https://en.wikipedia.org/wiki/Okular
@@ -36172,6 +36177,7 @@ https://en.wikipedia.org/wiki/RabbitMQ
 https://en.wikipedia.org/wiki/Rabies
 https://en.wikipedia.org/wiki/Rabies_vaccine
 https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm
+https://en.wikipedia.org/wiki/Rabin_signature_algorithm
 https://en.wikipedia.org/wiki/Race_condition
 https://en.wikipedia.org/wiki/Rachel_Carson
 https://en.wikipedia.org/wiki/Racing_the_Beam
@@ -37526,6 +37532,7 @@ https://en.wikipedia.org/wiki/Schlieren_photography
 https://en.wikipedia.org/wiki/Schloss_K%C3%B6then
 https://en.wikipedia.org/wiki/Schmidt_Family_Foundation
 https://en.wikipedia.org/wiki/Schmidt_number
+https://en.wikipedia.org/wiki/Schmidt-Samoa_cryptosystem
 https://en.wikipedia.org/wiki/Schnirelmann_density
 https://en.wikipedia.org/wiki/Schnorr_signature
 https://en.wikipedia.org/wiki/Scholasticism
@@ -41085,6 +41092,9 @@ https://en.wikipedia.org/wiki/Troilus_and_Criseyde
 https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot
 https://en.wikipedia.org/wiki/Trojan_War
 https://en.wikipedia.org/wiki/TRON_project
+https://en.wikipedia.org/wiki/Tropical_analysis
+https://en.wikipedia.org/wiki/Tropical_cryptography
+https://en.wikipedia.org/wiki/Tropical_geometry
 https://en.wikipedia.org/wiki/Tropical_semiring
 https://en.wikipedia.org/wiki/Tropical_year
 https://en.wikipedia.org/wiki/Tropic_of_Cancer
@@ -79650,6 +79660,7 @@ https://www.tagesschau.de/wissen/klima
 https://www.tagesschau.de/wissen/technologie
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1960.11989501
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1986.10475342
+https://www.tandfonline.com/doi/abs/10.1080/00927872.2013.766827
 https://www.tandfonline.com/doi/abs/10.1080/0161-110291890885
 https://www.tandfonline.com/doi/abs/10.1559/152304003100011090
 https://www.tarantool.io/en/
