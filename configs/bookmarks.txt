@@ -2288,6 +2288,7 @@ https://arxiv.org/abs/2002.04806
 https://arxiv.org/abs/2002.05709
 https://arxiv.org/abs/2002.08071
 https://arxiv.org/abs/2002.10078
+https://arxiv.org/abs/2003.06557
 https://arxiv.org/abs/2003.07669
 https://arxiv.org/abs/2003.08934
 https://arxiv.org/abs/2003.10014
@@ -3962,6 +3963,7 @@ https://bigeyedeer.wordpress.com/2007/03/28/this-cartoon-was-misdiagnosed-as-bei
 https://bigishdata.com/2017/01/14/popular-music-lyrics-have-become-more-negative-over-the-decades/
 https://bignieuws.nl/wp-content/uploads/2017/10/gima_thesis_Joris_van_den_Berg.pdf
 https://bigscience.huggingface.co/
+https://biham.cs.technion.ac.il/Reports/SkipJack/
 https://bikeshed.com/
 https://bikesuite.org/
 https://billmoyers.com/
@@ -15450,6 +15452,7 @@ https://en.wikipedia.org/wiki/AI_winter
 https://en.wikipedia.org/wiki/Akademia_pana_Kleksa_(novel)
 https://en.wikipedia.org/wiki/Akademset
 https://en.wikipedia.org/wiki/Akaike_information_criterion
+https://en.wikipedia.org/wiki/Akelarre_(cipher)
 https://en.wikipedia.org/wiki/Akimel_O%27odham
 https://en.wikipedia.org/wiki/Akira_(1988_film)
 https://en.wikipedia.org/wiki/Akira_(franchise)
@@ -15836,6 +15839,7 @@ https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses
 https://en.wikipedia.org/wiki/Analysis_of_covariance
 https://en.wikipedia.org/wiki/Analysis_of_Functional_NeuroImages
 https://en.wikipedia.org/wiki/Analysis_of_parallel_algorithms
+https://en.wikipedia.org/wiki/Analysis_of_similarities
 https://en.wikipedia.org/wiki/Analysis_of_variance
 https://en.wikipedia.org/wiki/Analysis_paralysis
 https://en.wikipedia.org/wiki/Analysis_Situs_(paper)
@@ -16324,6 +16328,7 @@ https://en.wikipedia.org/wiki/Argonauts
 https://en.wikipedia.org/wiki/Argonne_National_Laboratory
 https://en.wikipedia.org/wiki/Argument-dependent_name_lookup
 https://en.wikipedia.org/wiki/Argument_map
+https://en.wikipedia.org/wiki/ARIA_(cipher)
 https://en.wikipedia.org/wiki/Arial
 https://en.wikipedia.org/wiki/Ariane_5
 https://en.wikipedia.org/wiki/Ariane_flight_V88
@@ -17063,6 +17068,7 @@ https://en.wikipedia.org/wiki/Beam_splitter
 https://en.wikipedia.org/wiki/Bean_Scripting_Framework
 https://en.wikipedia.org/wiki/BeanShell
 https://en.wikipedia.org/wiki/Bean_Validation
+https://en.wikipedia.org/wiki/BEAR_and_LION_ciphers
 https://en.wikipedia.org/wiki/Bears_Discover_Fire
 https://en.wikipedia.org/wiki/Beat_Generation
 https://en.wikipedia.org/wiki/Beatrice_Meini
@@ -18196,6 +18202,7 @@ https://en.wikipedia.org/wiki/Cassandra
 https://en.wikipedia.org/wiki/Cassette_tape
 https://en.wikipedia.org/wiki/Cassowary_(software)
 https://en.wikipedia.org/wiki/CAST-128
+https://en.wikipedia.org/wiki/CAST-256
 https://en.wikipedia.org/wiki/Castor_(framework)
 https://en.wikipedia.org/wiki/Catalan_Countries
 https://en.wikipedia.org/wiki/Catalan_language
@@ -18284,6 +18291,7 @@ https://en.wikipedia.org/wiki/Category:Acoustics
 https://en.wikipedia.org/wiki/Category:Action_(philosophy)
 https://en.wikipedia.org/wiki/Category:Actuarial_science
 https://en.wikipedia.org/wiki/Category:Additive_number_theory
+https://en.wikipedia.org/wiki/Category:Advanced_Encryption_Standard
 https://en.wikipedia.org/wiki/Category:Affine_geometry
 https://en.wikipedia.org/wiki/Category:African-American_statisticians
 https://en.wikipedia.org/wiki/Category:Agent-based_model
@@ -18693,6 +18701,7 @@ https://en.wikipedia.org/wiki/Category:Fantasy_video_game_consoles
 https://en.wikipedia.org/wiki/Category:Fault-tolerant_computer_systems
 https://en.wikipedia.org/wiki/Category:F-divergences
 https://en.wikipedia.org/wiki/Category:Feature_detection_(computer_vision)
+https://en.wikipedia.org/wiki/Category:Feistel_ciphers
 https://en.wikipedia.org/wiki/Category:Female-fronted_musical_groups
 https://en.wikipedia.org/wiki/Category:Feudalism_in_England
 https://en.wikipedia.org/wiki/Category:FFT_algorithms
@@ -18864,6 +18873,7 @@ https://en.wikipedia.org/wiki/Category:Image_processing
 https://en.wikipedia.org/wiki/Category:Image_processing_software
 https://en.wikipedia.org/wiki/Category:Income_distribution
 https://en.wikipedia.org/wiki/Category:Income_inequality_metrics
+https://en.wikipedia.org/wiki/Category:Independence_(probability_theory)
 https://en.wikipedia.org/wiki/Category:Indian_theoretical_computer_scientists
 https://en.wikipedia.org/wiki/Category:Inductive_logic_programming
 https://en.wikipedia.org/wiki/Category:Inequalities
@@ -21606,6 +21616,7 @@ https://en.wikipedia.org/wiki/Cryptologia
 https://en.wikipedia.org/wiki/Cryptology_ePrint_Archive
 https://en.wikipedia.org/wiki/Cryptomathic
 https://en.wikipedia.org/wiki/Cryptome
+https://en.wikipedia.org/wiki/CRYPTON
 https://en.wikipedia.org/wiki/Cryptonomicon
 https://en.wikipedia.org/wiki/CrypTool
 https://en.wikipedia.org/wiki/Cryptosystem
@@ -22104,6 +22115,7 @@ https://en.wikipedia.org/wiki/Dead_mileage
 https://en.wikipedia.org/wiki/Dead_reckoning
 https://en.wikipedia.org/wiki/Dead_Sea_Scrolls
 https://en.wikipedia.org/wiki/Deadwing
+https://en.wikipedia.org/wiki/DEAL
 https://en.wikipedia.org/wiki/Deal.II
 https://en.wikipedia.org/wiki/Dean_Acheson
 https://en.wikipedia.org/wiki/DEAP_(software)
@@ -22367,6 +22379,7 @@ https://en.wikipedia.org/wiki/Desktop_environment
 https://en.wikipedia.org/wiki/Desktop_search
 https://en.wikipedia.org/wiki/DESMO-J
 https://en.wikipedia.org/wiki/Desmond_Higham
+https://en.wikipedia.org/wiki/DES_supplementary_material
 https://en.wikipedia.org/wiki/Destructor_(computer_programming)
 https://en.wikipedia.org/wiki/DES-X
 https://en.wikipedia.org/wiki/DESY
@@ -22419,6 +22432,7 @@ https://en.wikipedia.org/wiki/DEVS
 https://en.wikipedia.org/wiki/Devuan
 https://en.wikipedia.org/wiki/Dew_computing
 https://en.wikipedia.org/wiki/Dewey_Decimal_Classification
+https://en.wikipedia.org/wiki/DFC_(cipher)
 https://en.wikipedia.org/wiki/Dharmachakra
 https://en.wikipedia.org/wiki/D._H._Lehmer
 https://en.wikipedia.org/wiki/Dhrystone
@@ -23026,6 +23040,7 @@ https://en.wikipedia.org/wiki/Dziady
 https://en.wikipedia.org/wiki/Dziady_(poem)
 https://en.wikipedia.org/wiki/E0_(cipher)
 https://en.wikipedia.org/wiki/E.164
+https://en.wikipedia.org/wiki/E2_(cipher)
 https://en.wikipedia.org/wiki/E3
 https://en.wikipedia.org/wiki/EAGLE_(program)
 https://en.wikipedia.org/wiki/Ealdorman
@@ -25655,6 +25670,7 @@ https://en.wikipedia.org/wiki/Gonnect
 https://en.wikipedia.org/wiki/Gonvisor
 https://en.wikipedia.org/wiki/Goodhart%27s_law
 https://en.wikipedia.org/wiki/Good_King_Wenceslas
+https://en.wikipedia.org/wiki/Goodman_and_Kruskal%27s_gamma
 https://en.wikipedia.org/wiki/Goodness_of_fit
 https://en.wikipedia.org/wiki/Goodnight_Punpun
 https://en.wikipedia.org/wiki/Goodreads
@@ -26243,6 +26259,7 @@ https://en.wikipedia.org/wiki/Haskell_(programming_language)
 https://en.wikipedia.org/wiki/Hassaniya_Arabic
 https://en.wikipedia.org/wiki/Hasselblad
 https://en.wikipedia.org/wiki/Hasso_Plattner_Institute
+https://en.wikipedia.org/wiki/Hasty_Pudding_cipher
 https://en.wikipedia.org/wiki/Hatay_Province
 https://en.wikipedia.org/wiki/Hatch_mark
 https://en.wikipedia.org/wiki/Hattians
@@ -27065,6 +27082,7 @@ https://en.wikipedia.org/wiki/ICANN
 https://en.wikipedia.org/wiki/ICAO_airport_code
 https://en.wikipedia.org/wiki/Icarus_Verilog
 https://en.wikipedia.org/wiki/ICC_profile
+https://en.wikipedia.org/wiki/ICE_(cipher)
 https://en.wikipedia.org/wiki/ICES_Statistical_Rectangles
 https://en.wikipedia.org/wiki/ICFP_Programming_Contest
 https://en.wikipedia.org/wiki/ICMJE_recommendations
@@ -27434,6 +27452,7 @@ https://en.wikipedia.org/wiki/In-group_and_out-group
 https://en.wikipedia.org/wiki/Inherent_Vice
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Initial_condition
+https://en.wikipedia.org/wiki/Initialization_vector
 https://en.wikipedia.org/wiki/Initial-stress-derived_noun
 https://en.wikipedia.org/wiki/Initial_value_problem
 https://en.wikipedia.org/wiki/Initiative_for_Open_Citations
@@ -27581,6 +27600,7 @@ https://en.wikipedia.org/wiki/Intel_8086
 https://en.wikipedia.org/wiki/Intel_8088
 https://en.wikipedia.org/wiki/Intel_Binary_Compatibility_Standard
 https://en.wikipedia.org/wiki/Intel_C%2B%2B_Compiler
+https://en.wikipedia.org/wiki/Intel_Cascade_Cipher
 https://en.wikipedia.org/wiki/Intel_HEX
 https://en.wikipedia.org/wiki/Intel_i860
 https://en.wikipedia.org/wiki/Intel_i960
@@ -28143,6 +28163,7 @@ https://en.wikipedia.org/wiki/James_H._Davenport
 https://en.wikipedia.org/wiki/James_H._Ellis
 https://en.wikipedia.org/wiki/James_H._Moor
 https://en.wikipedia.org/wiki/James_H._Wilkinson
+https://en.wikipedia.org/wiki/James_Massey
 https://en.wikipedia.org/wiki/James_McGill
 https://en.wikipedia.org/wiki/James_Mickens
 https://en.wikipedia.org/wiki/James_Munkres
@@ -30852,6 +30873,7 @@ https://en.wikipedia.org/wiki/Log-structured_merge-tree
 https://en.wikipedia.org/wiki/Logtalk
 https://en.wikipedia.org/wiki/LOINC
 https://en.wikipedia.org/wiki/Lojban
+https://en.wikipedia.org/wiki/LOKI97
 https://en.wikipedia.org/wiki/Lola_(computing)
 https://en.wikipedia.org/wiki/London
 https://en.wikipedia.org/wiki/London_After_Midnight_(band)
@@ -31106,6 +31128,7 @@ https://en.wikipedia.org/wiki/Maenad
 https://en.wikipedia.org/wiki/Magadha
 https://en.wikipedia.org/wiki/Magan_(civilization)
 https://en.wikipedia.org/wiki/Magdeburg_rights
+https://en.wikipedia.org/wiki/MAGENTA
 https://en.wikipedia.org/wiki/Maghreb
 https://en.wikipedia.org/wiki/Maghrebi_Arabic
 https://en.wikipedia.org/wiki/Magi
@@ -31349,6 +31372,7 @@ https://en.wikipedia.org/wiki/Marquis_de_Condorcet
 https://en.wikipedia.org/wiki/Marrakesh
 https://en.wikipedia.org/wiki/Marr%E2%80%93Hildreth_algorithm
 https://en.wikipedia.org/wiki/Mars
+https://en.wikipedia.org/wiki/MARS_(cipher)
 https://en.wikipedia.org/wiki/Marsden_square
 https://en.wikipedia.org/wiki/MaRS_Discovery_District
 https://en.wikipedia.org/wiki/Marshall_Hall_(mathematician)
@@ -36361,6 +36385,7 @@ https://en.wikipedia.org/wiki/R%C3%B6yksopp
 https://en.wikipedia.org/wiki/R%C3%BCgen
 https://en.wikipedia.org/wiki/RC4
 https://en.wikipedia.org/wiki/RC5
+https://en.wikipedia.org/wiki/RC6
 https://en.wikipedia.org/wiki/RCA
 https://en.wikipedia.org/wiki/RCA_1802
 https://en.wikipedia.org/wiki/R_Commander
@@ -36795,6 +36820,7 @@ https://en.wikipedia.org/wiki/Richard_P._Brent
 https://en.wikipedia.org/wiki/Richard_Pevear_and_Larissa_Volokhonsky
 https://en.wikipedia.org/wiki/Richard_P._Stanley
 https://en.wikipedia.org/wiki/Richard_Rusczyk
+https://en.wikipedia.org/wiki/Richard_Schroeppel
 https://en.wikipedia.org/wiki/Richardson%27s_theorem
 https://en.wikipedia.org/wiki/Richardson_extrapolation
 https://en.wikipedia.org/wiki/Richard_S._Sutton
@@ -37693,6 +37719,7 @@ https://en.wikipedia.org/wiki/Security.txt
 https://en.wikipedia.org/wiki/Security_type_system
 https://en.wikipedia.org/wiki/Security_visualisation
 https://en.wikipedia.org/wiki/Sed
+https://en.wikipedia.org/wiki/SEED
 https://en.wikipedia.org/wiki/Seed7
 https://en.wikipedia.org/wiki/Seek_for_Surname_History
 https://en.wikipedia.org/wiki/Seek_truth_from_facts
@@ -38372,6 +38399,7 @@ https://en.wikipedia.org/wiki/Slovenes
 https://en.wikipedia.org/wiki/Slowcore
 https://en.wikipedia.org/wiki/Slow_light
 https://en.wikipedia.org/wiki/Sludge_metal
+https://en.wikipedia.org/wiki/SM4_(cipher)
 https://en.wikipedia.org/wiki/Small-C
 https://en.wikipedia.org/wiki/Small_Device_C_Compiler
 https://en.wikipedia.org/wiki/Small_Is_Beautiful
@@ -38589,6 +38617,7 @@ https://en.wikipedia.org/wiki/Solutions_of_the_Einstein_field_equations
 https://en.wikipedia.org/wiki/Solver
 https://en.wikipedia.org/wiki/SolverStudio
 https://en.wikipedia.org/wiki/Soman
+https://en.wikipedia.org/wiki/Somers%27_D
 https://en.wikipedia.org/wiki/Somerset
 https://en.wikipedia.org/wiki/Somerset_House
 https://en.wikipedia.org/wiki/Somerton_Man
@@ -43098,10 +43127,12 @@ https://eprint.iacr.org/2005/265.pdf
 https://eprint.iacr.org/2007/107
 https://eprint.iacr.org/2007/401
 https://eprint.iacr.org/2009/408.pdf
+https://eprint.iacr.org/2010/013
 https://eprint.iacr.org/2010/254
 https://eprint.iacr.org/2010/264
 https://eprint.iacr.org/2010/638.pdf
 https://eprint.iacr.org/2011/211
+https://eprint.iacr.org/2011/449
 https://eprint.iacr.org/2011/449.pdf
 https://eprint.iacr.org/2012/351
 https://eprint.iacr.org/2014/167
@@ -57405,6 +57436,7 @@ https://link.springer.com/book/10.1007/978-3-319-61143-3
 https://link.springer.com/book/10.1007/978-3-319-62533-1
 https://link.springer.com/book/10.1007/978-3-319-62543-0
 https://link.springer.com/book/10.1007/978-3-319-63113-4
+https://link.springer.com/book/10.1007/978-3-319-64110-2
 https://link.springer.com/book/10.1007/978-3-319-64707-4
 https://link.springer.com/book/10.1007/978-3-319-64867-5
 https://link.springer.com/book/10.1007/978-3-319-65599-4
@@ -58057,6 +58089,7 @@ https://link.springer.com/chapter/10.1007/3-540-46513-8_5
 https://link.springer.com/chapter/10.1007/3-540-48285-7_33
 https://link.springer.com/chapter/10.1007/3-540-48340-3_26
 https://link.springer.com/chapter/10.1007/3-540-48405-1_4
+https://link.springer.com/chapter/10.1007/3-540-48892-8_27
 https://link.springer.com/chapter/10.1007/3-540-48910-X_16
 https://link.springer.com/chapter/10.1007/3-540-49430-8_2
 https://link.springer.com/chapter/10.1007/3-540-54415-1_48
@@ -58222,6 +58255,7 @@ https://link.springer.com/referencework/10.1007/978-1-4899-7993-3
 https://link.springer.com/referencework/10.1007/978-1-4939-6883-1
 https://link.springer.com/referencework/10.1007/978-3-030-03243-2
 https://link.springer.com/referencework/10.1007/978-3-030-54621-2
+https://link.springer.com/referencework/10.1007/978-3-030-71522-9
 https://link.springer.com/referencework/10.1007/978-3-0348-0692-3
 https://link.springer.com/referencework/10.1007/978-3-319-06540-3
 https://link.springer.com/referencework/10.1007/978-3-319-07124-4
@@ -77165,6 +77199,8 @@ https://www.cryptography-textbook.com/
 https://www.cryptomuseum.com/
 https://www.cryptomuseum.com/crypto/usa/sigsaly/index.htm
 https://www.cryptomuseum.com/crypto/voice.htm
+https://www.cryptool.org/
+https://www.cryptool.org/en/cto/
 https://www.crypto.ruhr-uni-bochum.de/
 https://www.cs.cmu.edu/~awb/linux.history.html
 https://www.cs.cmu.edu/~pavlo/
@@ -79407,6 +79443,7 @@ https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-e
 https://www.schneier.com/books/
 https://www.schneier.com/books/applied-cryptography/
 https://www.schneier.com/books/cryptography-engineering
+https://www.schneier.com/crypto-gram/
 https://www.schneier.com/tag/cryptography/
 https://www.sciencedirect.com/book/9780080478654/introduction-to-statistical-pattern-recognition
 https://www.sciencedirect.com/book/9780080514895/probabilistic-reasoning-in-intelligent-systems
@@ -79429,6 +79466,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S1877584518301175
 https://www.sciencedirect.com/science/article/abs/pii/S2214212618307634
 https://www.sciencedirect.com/science/article/pii/0022000084900709
 https://www.sciencedirect.com/science/article/pii/S0167739X25002699
+https://www.sciencedirect.com/science/article/pii/S0304397514004241
 https://www.sciencedirect.com/science/article/pii/S0370157325002704
 https://www.sciencedirect.com/science/article/pii/S037026931200857X
 https://www.sciencedirect.com/science/article/pii/S0370269312008581
@@ -79782,6 +79820,7 @@ https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/digit
 https://www.unbina.re/
 https://www.unesco.org/en/digital-anthropology
 https://www.unesco.org/en/general-history-africa
+https://www.unibw.de/code
 https://www.unicc.org/
 https://www.unicc.org/news/2025/01/30/unicc-introduces-uniqcloud-a-private-cloud-solution-tailored-for-the-un-and-international-organizations/
 https://www.unicode.org/
