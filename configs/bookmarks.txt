@@ -20460,6 +20460,7 @@ https://en.wikipedia.org/wiki/Cluster_sampling
 https://en.wikipedia.org/wiki/Clustrix
 https://en.wikipedia.org/wiki/Clyde_Kruskal
 https://en.wikipedia.org/wiki/Clytemnestra
+https://en.wikipedia.org/wiki/CMA_CGM
 https://en.wikipedia.org/wiki/CMA-ES
 https://en.wikipedia.org/wiki/CMake
 https://en.wikipedia.org/wiki/C_mathematical_functions
@@ -21230,6 +21231,7 @@ https://en.wikipedia.org/wiki/Contactless_smart_card
 https://en.wikipedia.org/wiki/Contact_mechanics
 https://en.wikipedia.org/wiki/Contact_(novel)
 https://en.wikipedia.org/wiki/Container_(abstract_data_type)
+https://en.wikipedia.org/wiki/Containerization
 https://en.wikipedia.org/wiki/Container_Linux
 https://en.wikipedia.org/wiki/Container_(type_theory)
 https://en.wikipedia.org/wiki/Containment
@@ -21407,6 +21409,7 @@ https://en.wikipedia.org/wiki/Correlogram
 https://en.wikipedia.org/wiki/Correspondence_analysis
 https://en.wikipedia.org/wiki/Cory_Doctorow
 https://en.wikipedia.org/wiki/Coscheduling
+https://en.wikipedia.org/wiki/COSCO_Shipping_Lines
 https://en.wikipedia.org/wiki/Coset
 https://en.wikipedia.org/wiki/COSIC
 https://en.wikipedia.org/wiki/Cosine_similarity
@@ -22896,6 +22899,7 @@ https://en.wikipedia.org/wiki/DragonForce
 https://en.wikipedia.org/wiki/Dragon_King
 https://en.wikipedia.org/wiki/Drainage_divide
 https://en.wikipedia.org/wiki/Drama_theory
+https://en.wikipedia.org/wiki/Draupner_wave
 https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal
 https://en.wikipedia.org/wiki/DR-DOS
 https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model)
@@ -26177,6 +26181,7 @@ https://en.wikipedia.org/wiki/Hans_Zassenhaus
 https://en.wikipedia.org/wiki/Han_unification
 https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi
 https://en.wikipedia.org/wiki/Hao_Wang_(academic)
+https://en.wikipedia.org/wiki/Hapag-Lloyd
 https://en.wikipedia.org/wiki/Hapax_legomenon
 https://en.wikipedia.org/wiki/HAProxy
 https://en.wikipedia.org/wiki/Harald_Cram%C3%A9r
@@ -30275,6 +30280,7 @@ https://en.wikipedia.org/wiki/List_of_largest_chemical_producers
 https://en.wikipedia.org/wiki/List_of_largest_cities
 https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history
 https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
+https://en.wikipedia.org/wiki/List_of_largest_container_shipping_companies
 https://en.wikipedia.org/wiki/List_of_largest_empires
 https://en.wikipedia.org/wiki/List_of_largest_employers
 https://en.wikipedia.org/wiki/List_of_largest_galaxies
@@ -31140,6 +31146,7 @@ https://en.wikipedia.org/wiki/Madrid
 https://en.wikipedia.org/wiki/Madrid_Codex_(Maya)
 https://en.wikipedia.org/wiki/Maebashi_Institute_of_Technology
 https://en.wikipedia.org/wiki/Maenad
+https://en.wikipedia.org/wiki/Maersk_Line
 https://en.wikipedia.org/wiki/Magadha
 https://en.wikipedia.org/wiki/Magan_(civilization)
 https://en.wikipedia.org/wiki/Magdeburg_rights
@@ -31712,6 +31719,7 @@ https://en.wikipedia.org/wiki/Medieval_philosophy
 https://en.wikipedia.org/wiki/Medieval_university
 https://en.wikipedia.org/wiki/Mediobanca
 https://en.wikipedia.org/wiki/Mediterranean_climate
+https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company
 https://en.wikipedia.org/wiki/Medium_access_control
 https://en.wikipedia.org/wiki/Medium_Earth_orbit
 https://en.wikipedia.org/wiki/Medusa
@@ -36383,6 +36391,7 @@ https://en.wikipedia.org/wiki/Ray_casting
 https://en.wikipedia.org/wiki/Ray_Dolby
 https://en.wikipedia.org/wiki/Ray_Kurzweil
 https://en.wikipedia.org/wiki/Rayleigh_dissipation_function
+https://en.wikipedia.org/wiki/Rayleigh_distribution
 https://en.wikipedia.org/wiki/Rayleigh_number
 https://en.wikipedia.org/wiki/Rayleigh_scattering
 https://en.wikipedia.org/wiki/Ray_marching
@@ -37673,6 +37682,7 @@ https://en.wikipedia.org/wiki/Searx
 https://en.wikipedia.org/wiki/SearXNG
 https://en.wikipedia.org/wiki/Seasonal_adjustment
 https://en.wikipedia.org/wiki/Seasonality
+https://en.wikipedia.org/wiki/Sea_state
 https://en.wikipedia.org/wiki/Seas_with_color_names
 https://en.wikipedia.org/wiki/Seats-to-votes_ratio
 https://en.wikipedia.org/wiki/Seattle
@@ -38175,6 +38185,7 @@ https://en.wikipedia.org/wiki/Sign_convention
 https://en.wikipedia.org/wiki/Signed_distance_function
 https://en.wikipedia.org/wiki/Signetics_2650
 https://en.wikipedia.org/wiki/Significance_(magazine)
+https://en.wikipedia.org/wiki/Significant_wave_height
 https://en.wikipedia.org/wiki/Signify_(album)
 https://en.wikipedia.org/wiki/Signomial
 https://en.wikipedia.org/wiki/Sign_sequence
@@ -39517,6 +39528,7 @@ https://en.wikipedia.org/wiki/Surface_integral
 https://en.wikipedia.org/wiki/Surface_(mathematics)
 https://en.wikipedia.org/wiki/Surface_power_density
 https://en.wikipedia.org/wiki/Surface_tension
+https://en.wikipedia.org/wiki/Surface_Water_and_Ocean_Topography
 https://en.wikipedia.org/wiki/Surfactant
 https://en.wikipedia.org/wiki/SURFnet
 https://en.wikipedia.org/wiki/Surfshark
@@ -72452,6 +72464,7 @@ https://switching.software/replace/amazon-books/
 https://sw.kovidgoyal.net/kitty/
 https://swmath.org/
 https://swojtowytsch.com/prospective-students
+https://swot.jpl.nasa.gov/
 https://swp-berlin.org/
 https://swp-berlin.org/10.18449/2022RP01/
 https://swp-berlin.org/en
@@ -79071,7 +79084,9 @@ https://www.playdosgames.com/
 https://www.playsuisse.ch/de
 https://www.pleco.com/
 https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025
+https://www.pnas.org/doi/10.1073/pnas.2306275120
 https://www.pnas.org/doi/10.1073/pnas.2425166122
+https://www.pnas.org/doi/10.1073/pnas.2513381122
 https://www.pnas.org/doi/10.1073/pnas.2520385123
 https://www.pocket-lint.com/
 https://www.polygon.com/
