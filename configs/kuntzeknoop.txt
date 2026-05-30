@@ -99,10 +99,13 @@ PrincetonAnalysis
 PrincetonCompanion
 ProuffCryptography
 PurcellElectricity
+QuantumYanofsky
 RamalhoPython
 RandomizedMotwani
 RosenDiscrete
 RudinAnalysis
+SadowskaPolish
+SammetLanguages
 SchneierCryptography
 SchwartzPerl
 SchwenkCryptography
@@ -114,7 +117,6 @@ SilberschatzOperating
 SkienaDesign
 SlossArm
 StevensUnix
-StroustrupDesign
 StroustrupLanguage
 TanenbaumOperating
 TehranipoorSecurity
@@ -124,6 +126,7 @@ UlmannAnalog
 VanderwaerdenAlgebra
 VonpolenzSprache
 VonzurgathenAlgebra
+WadeRussian
 WirthPascal
 WolfComponents
 ZalewskiSecuring
