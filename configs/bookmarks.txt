@@ -10696,6 +10696,7 @@ https://developers.arcgis.com/
 https://developers.arcgis.com/javascript/latest/
 https://developers.arcgis.com/python/latest/
 https://developers.arcgis.com/rest/users-groups-and-items/considerations-and-limitations/
+https://developers.cloudflare.com/
 https://developers.cloudflare.com/1.1.1.1/
 https://developers.cloudflare.com/1.1.1.1/dns-over-https/cloudflared-proxy/
 https://developers.cloudflare.com/agents/
@@ -10734,7 +10735,12 @@ https://developers.cloudflare.com/queues/
 https://developers.cloudflare.com/r2/
 https://developers.cloudflare.com/realtime/
 https://developers.cloudflare.com/reference-architecture/
+https://developers.cloudflare.com/reference-architecture/architectures/security/
 https://developers.cloudflare.com/reference-architecture/diagrams/ai/ai-composable/
+https://developers.cloudflare.com/reference-architecture/diagrams/security/securing-data-at-rest/
+https://developers.cloudflare.com/reference-architecture/diagrams/security/securing-data-in-transit/
+https://developers.cloudflare.com/reference-architecture/diagrams/security/securing-data-in-use/
+https://developers.cloudflare.com/reference-architecture/diagrams/serverless/fullstack-application/
 https://developers.cloudflare.com/registrar/
 https://developers.cloudflare.com/rules/
 https://developers.cloudflare.com/secrets-store/
